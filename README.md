@@ -1,4 +1,4 @@
-# Traditinonal-OLAP-Paper
+# Traditional-OLAP-Paper
 Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
 
 If the paper has the open-souce code, please supply its github links in Meeting
