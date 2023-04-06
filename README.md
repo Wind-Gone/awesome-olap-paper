@@ -3,7 +3,7 @@ Welcom new PR, please conform to the commited rules:  paperName(with link) [Meet
 
 If the paper has the open-souce code, please supply its github links in Meeting
 
-- [Traditinonal-OLAP-Paper](#traditinonal-olap-paper)
+- [Traditional-OLAP-Paper](#traditional-olap-paper)
   - [Query-Aware Database Generation](#query-aware-database-generation)
   - [Query Optimization](#query-optimization)
     - [Cardinality Estimation](#cardinality-estimation)
