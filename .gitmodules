@@ -1,0 +1,3 @@
+[submodule "Ai4DB-Paper"]
+	path = Ai4DB-Paper
+	url = git@github.com:Wind-Gone/Ai4DB-Paper.git
