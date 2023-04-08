@@ -1,7 +1,7 @@
 # Traditional-OLAP-Paper
-Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
+Welcome new PR, please conform to the committed rules:  paperName(with link) [MeetingName Year]
 
-If the paper has the open-souce code, please supply its github links in Meeting
+If the paper has the open-source code, please supply its github links in Meeting.
 
 - [Traditional-OLAP-Paper](#traditional-olap-paper)
   - [Query-Aware Database Generation](#query-aware-database-generation)
