@@ -1,9 +1,9 @@
-# Traditinonal-OLAP-Paper
-Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
+# Traditional-OLAP-Paper
+Welcome new PR, please conform to the committed rules:  paperName(with link) [MeetingName Year]
 
-If the paper has the open-souce code, please supply its github links in Meeting
+If the paper has the open-source code, please supply its github links in Meeting.
 
-- [Traditinonal-OLAP-Paper](#traditinonal-olap-paper)
+- [Traditional-OLAP-Paper](#traditional-olap-paper)
   - [Query-Aware Database Generation](#query-aware-database-generation)
   - [Query Optimization](#query-optimization)
     - [Cardinality Estimation](#cardinality-estimation)
@@ -72,6 +72,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 ## Query Compilation
 1. [How to Architect a Query Compiler](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf) [SIGMOD 2016]
 2. [Adaptive Execution of Compiled Queries](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/kohn-icde2018.pdf) [ICDE 2018]
+3. [Adaptive Execution of Compiled Queries](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/kohn-icde2018.pdf) [ICDE 2018]
 
 ## Logic Bugs Detection
 
