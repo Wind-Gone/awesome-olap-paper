@@ -15,6 +15,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
     - [Index](#index)
   - [Query Exection](#query-exection)
   - [Query Compilation](#query-compilation)
+  - [Logic Bugs Detection](#logic-bugs-detection)
 
 ## Query-Aware Database Generation
 1.  [QAGen: Generating Query-Aware Test Databases](https://cs.uwaterloo.ca/~tozsu/publications/other/sigmod07-final.pdf) [SIGMOD 2007]
@@ -26,8 +27,6 @@ If the paper has the open-souce code, please supply its github links in Meeting
 8. [Touchstone: Generating Enormous Query-Aware Test Databases](https://www.usenix.org/system/files/conference/atc18/atc18-li-yuming.pdf) [OSDI 2018]
 9. [Projection-Compliant Database Generation](https://www.vldb.org/pvldb/vol15/p998-sanghi.pdf) [VLDB 2022]
 10. [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [[SIGMOD 2022](https://github.com/Jamesyang2333/SAM)]
-
-
 
 ## Query Optimization
 1. [Kepler: Robust Learning for Parametric Query Optimization](TODO) [SIGMOD 2023]
@@ -71,5 +70,9 @@ If the paper has the open-souce code, please supply its github links in Meeting
 2. [Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?](https://15721.courses.cs.cmu.edu/spring2023/papers/06-execution/kester-sigmod17.pdf) [SIGMOD 2017]
 
 ## Query Compilation
-1. [How to Architect a Query Compiler](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf) [SIGMOF 2016]
+1. [How to Architect a Query Compiler](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf) [SIGMOD 2016]
 2. [Adaptive Execution of Compiled Queries](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/kohn-icde2018.pdf) [ICDE 2018]
+
+## Logic Bugs Detection
+
+1. [Detecting Logic Bugs of Join Optimizations in DBMS]()[SIGMOD 2023 Best Paper]
