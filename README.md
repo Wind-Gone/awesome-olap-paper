@@ -76,4 +76,4 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 ## Logic Bugs Detection
 
-1. [Detecting Logic Bugs of Join Optimizations in DBMS]()[SIGMOD 2023 Best Paper]
+1. [Detecting Logic Bugs of Join Optimizations in DBMS ]()[SIGMOD 2023 Best Paper]
