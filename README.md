@@ -44,8 +44,9 @@ If the paper has the open-source code, please supply its github links in Meeting
 11. [STHoles: a multidimensional workload-aware histogram](http://www.cs.columbia.edu/~gravano/Papers/2001/sigmod01b.pdf) [SIGMOD 2001]
 12. [Consistent histogram construction using query feedback](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=55708905fb9ecd1ffa2f41638410f672147ccdaa) [ICDE 2006]
 13. [Improving accuracy and robustness of self-tuning histograms by subspace clustering](https://dbis.ipd.kit.edu/download/MineClusSTHoles_-_Minor_Revision.pdf) [ICDE 2016]
-14. [JoinSketch: A Sketch Algorithm for Accurate and Unbiased Inner-Product Estimation](TODO) [SIGMOD 2023]
-15. [Efficient and Effective Cardinality Estimation for Skyline Family](TODO) [SIGMOD 2023]
+14. [Two-Level Sampling for Join Size Estimation](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/p759-chen.pdf) [SIGMOD 2017]
+15. [JoinSketch: A Sketch Algorithm for Accurate and Unbiased Inner-Product Estimation](TODO) [SIGMOD 2023]
+16. [Efficient and Effective Cardinality Estimation for Skyline Family](TODO) [SIGMOD 2023]
 
 
 ### Join Order
@@ -60,8 +61,10 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 ### Cost Model
 1. [LEO – DB2’s LEarning Optimizer](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/stillger-vldb2001.pdf) [VLDB 2011]
-2. [Two-Level Sampling for Join Size Estimation](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/p759-chen.pdf) [SIGMOD 2017]
-3. [Efficient Deep Learning Pipelines for Accurate Cost Estimations Over Large Scale Query Workload](https://arxiv.org/pdf/2103.12465.pdf) [arXiv 2021]
+2. [Predicting query execution time: are optimizer cost models really unusable?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6544899) [ICDE 2013]
+3. [Forecasting the cost of processing multi-join queries via hashing for main-memory databases](https://arxiv.org/pdf/1507.03049.pdf) [SoCC 2015]
+4. [Query Performance Prediction for Concurrent Queries using Graph Embedding](http://www.vldb.org/pvldb/vol13/p1416-zhou.pdf) [VLDB 2020]
+5. [Efficient Deep Learning Pipelines for Accurate Cost Estimations Over Large Scale Query Workload](https://arxiv.org/pdf/2103.12465.pdf) [arXiv 2021]
 
 
 ### View
