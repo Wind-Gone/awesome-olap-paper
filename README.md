@@ -46,11 +46,13 @@ If the paper has the open-source code, please supply its github links in Meeting
 ## Query Optimization
 1. [Sampling-Based Query Re-Optimization](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod16-reoptimization.pdf) [SIGMOD 16]
 2. [Kepler: Robust Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.1145/3588963) [SIGMOD 23]
+3. [Rethink Query Optimization in HTAP Databases](https://dl.acm.org/doi/pdf/10.1145/3626750) [SIGMOD 24]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware
 Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2911-bai.pdf) [VLDB 23]
 2. [SlabCity: Whole-Query Optimization using Program Synthesis](https://dl.acm.org/doi/pdf/10.14778/3611479.3611515) [VLDB 23]
+3. [Proving Query Equivalence Using Linear Integer Arithmetic](https://dl.acm.org/doi/pdf/10.1145/3626768) [SIGMOD 24]
 
 
 
@@ -97,6 +99,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 4. [Forecasting the cost of processing multi-join queries via hashing for main-memory databases](https://arxiv.org/pdf/1507.03049.pdf) [SoCC 15]
 5. [Query Performance Prediction for Concurrent Queries using Graph Embedding](http://www.vldb.org/pvldb/vol13/p1416-zhou.pdf) [VLDB 20]
 6. [Efficient Deep Learning Pipelines for Accurate Cost Estimations Over Large Scale Query Workload](https://arxiv.org/pdf/2103.12465.pdf) [arXiv 21]
+7. [Rethinking Learned Cost Models: Why Start from Scratch?](https://dl.acm.org/doi/pdf/10.1145/3626769) [SIGMOD 24]
 
 
 ### View
