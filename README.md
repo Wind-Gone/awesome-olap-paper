@@ -11,11 +11,12 @@ If the paper has the open-source code, please supply its github links in Meeting
       - [Histogram](#histogram)
       - [Sampling](#sampling)
       - [Others](#others)
+      - [Survey](#survey)
     - [Join Order](#join-order)
     - [Join Algorithms](#join-algorithms)
     - [Cost Model](#cost-model)
     - [View](#view)
-    - [Survey](#survey)
+    - [Survey](#survey-1)
     - [Index](#index)
   - [Query Exection](#query-exection)
   - [Query Compilation](#query-compilation)
@@ -29,7 +30,7 @@ If the paper has the open-source code, please supply its github links in Meeting
       - [Linear Consistency](#linear-consistency)
       - [Sequential Consistency](#sequential-consistency)
       - [Session Consistency](#session-consistency)
-      - [Survey](#survey-1)
+      - [Survey](#survey-2)
   - [Others](#others-1)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
@@ -72,6 +73,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 10. [LHist: Towards Learning Multidimensional Histogram for Massive Spatial Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458896) [ICDE 21]
 #### Sampling
 1. [Two-Level Sampling for Join Size Estimation](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/p759-chen.pdf) [SIGMOD 17]
+2. [Combining Aggregation and Sampling (Nearly) Optimally for Approximate Query Processing](https://arxiv.org/pdf/2103.15994.pdf) [SIGMOD 21]
 #### Others
 1. [Access path selection in a relational database management system](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf) [SIGMOD 79]
 2. [Approximating multi-dimensional aggregate range queries over real attributes](https://dl.acm.org/doi/pdf/10.1145/335191.335448) [SIGMOD 00]
@@ -81,6 +83,9 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 6.  [JoinSketch: A Sketch Algorithm for Accurate and Unbiased Inner-Product Estimation](https://yangtonghome.github.io/uploads/JoinSketch_2023.pdf) [SIGMOD 23]
 7.  [Efficient and Effective Cardinality Estimation for Skyline Family](https://dl.acm.org/doi/abs/10.1145/3588958) [SIGMOD 23]
 8.  [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
+
+#### Survey
+1. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](VLDB 23)
 
 ### Join Order
 1. [Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges](https://www.vldb.org/pvldb/vol16/p3882-yan.pdf) [VLDB 23]
