@@ -34,6 +34,7 @@ If the paper has the open-source code, please supply its github links in Meeting
   - [Others](#others-1)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
+- [Other paper list](#other-paper-list)
 
 ## Query-Aware Database Generation
 1.  [QAGen: Generating Query-Aware Test Databases](https://cs.uwaterloo.ca/~tozsu/publications/other/sigmod07-final.pdf) [SIGMOD 07]
@@ -202,3 +203,8 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
+
+# Other paper list
+- [OLTP Paper](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
+- [AI4DB Paper](https://github.com/Wind-Gone/Ai4DB-Paper)
+- [Industry Paper](https://github.com/Wind-Gone/DBGiant-Industry-Paper)
