@@ -30,7 +30,7 @@ If the paper has the open-source code, please supply its github links in Meeting
       - [System Architecture](#system-architecture)
         - [Linear Consistency](#linear-consistency)
         - [Sequential Consistency](#sequential-consistency)
-      - [Session Consistency](#session-consistency)
+        - [Session Consistency](#session-consistency)
         - [Survey](#survey-2)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
@@ -179,7 +179,7 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 4. [ByteHTAP: ByteDance’s HTAP System with High Data Freshness and Strong Data Consistency](https://www.vldb.org/pvldb/vol15/p3411-chen.pdf) [VLDB 22]
 
 
-#### Session Consistency
+##### Session Consistency
 1. [PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database](https://www.vldb.org/pvldb/vol11/p1849-cao.pdf) [VLDB 18]
 2. [PolarDB-IMCI: A Cloud-Native HTAP Database System at Alibaba](https://browse.arxiv.org/pdf/2305.08468.pdf) [SIGMOD 23]
 
