@@ -88,7 +88,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 8.  [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
 
 #### Survey
-1. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](VLDB 23)
+1. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
 
 ### Join Order
 1. [Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges](https://www.vldb.org/pvldb/vol16/p3882-yan.pdf) [VLDB 23]
@@ -164,6 +164,7 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 8. [Memory-Optimized Multi-Version Concurrency Control for Disk-Based Database Systems](https://db.in.tum.de/~freitag/papers/p2797-freitag.pdf) [VLDB 22]
 9. [Scalable and Robust Snapshot Isolation for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p1426-alhomssi.pdf) [VLDB 23]
 10. [One-shot Garbage Collection for In-memory OLTP through Temporality-aware Version Storage](https://dl.acm.org/doi/pdf/10.1145/3588699) [SIGMOD 23]
+
 ### HTAP
 #### System Architecture
 ##### Linear Consistency
