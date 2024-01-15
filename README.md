@@ -23,15 +23,15 @@ If the paper has the open-source code, please supply its github links in Meeting
   - [Logic Bugs Detection](#logic-bugs-detection)
   - [Storage](#storage)
   - [Tools](#tools)
-  - [Database](#database)
-  - [HTAP](#htap)
-    - [MVCC](#mvcc)
-    - [System Architecture](#system-architecture)
-      - [Linear Consistency](#linear-consistency)
-      - [Sequential Consistency](#sequential-consistency)
-      - [Session Consistency](#session-consistency)
-      - [Survey](#survey-2)
+  - [Database Kernel](#database-kernel)
   - [Others](#others-1)
+    - [MVCC](#mvcc)
+    - [HTAP](#htap)
+      - [System Architecture](#system-architecture)
+        - [Linear Consistency](#linear-consistency)
+        - [Sequential Consistency](#sequential-consistency)
+      - [Session Consistency](#session-consistency)
+        - [Survey](#survey-2)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
     - [OLTP](#oltp)
@@ -148,11 +148,11 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 ## Tools
 1. [Tigger: A Database Proxy That Bounces With User-Bypass](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf) [[VLDB 23](https://github.com/mbutrovich/tigger)]
 
-## Database
+## Database Kernel
 1. [GPU Database Systems Characterization and Optimization](https://www.vldb.org/pvldb/vol17/p441-cao.pdf) [[VLDB 24](https://github.com/jiashenC/gpudb-char-and-opt)]
 2. [The Art of Latency Hiding in Modern Database Engines](https://www.vldb.org/pvldb/vol17/p577-huang.pdf) [[VLDB 24](https://github.com/sfu-dis/mosaicdb)]
 
-## HTAP
+## Others
 ### MVCC
 1. [Scalable Garbage Collection for In-Memory MVCC Systems](https://users.cs.utah.edu/~pandey/courses/cs6530/fall22/papers/mvcc/p128-bottcher.pdf) [VLDB 13]
 2. [Rethinking serializable multiversion concurrency control](https://browse.arxiv.org/pdf/1412.2324.pdf) [VLDB 15]
@@ -164,15 +164,15 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 8. [Memory-Optimized Multi-Version Concurrency Control for Disk-Based Database Systems](https://db.in.tum.de/~freitag/papers/p2797-freitag.pdf) [VLDB 22]
 9. [Scalable and Robust Snapshot Isolation for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p1426-alhomssi.pdf) [VLDB 23]
 10. [One-shot Garbage Collection for In-memory OLTP through Temporality-aware Version Storage](https://dl.acm.org/doi/pdf/10.1145/3588699) [SIGMOD 23]
-
-### System Architecture
-#### Linear Consistency
+### HTAP
+#### System Architecture
+##### Linear Consistency
 1. [HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots](https://cs.brown.edu/courses/cs227/archives/2012/papers/olap/hyper.pdf) [ICDE 12]
 2. [TiDB: A raft-based htap database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf) [VLDB 20]
 3. [OceanBase Paetica: A Hybrid Shared-Nothing/Shared-Everything Database for Supporting Single Machine and Distributed Cluster](https://dl.acm.org/doi/pdf/10.14778/3611540.3611560) [VLDB 23]
 
 
-#### Sequential Consistency
+##### Sequential Consistency
 1. [BatchDB: Efficient Isolated Execution of Hybrid OLTP+OLAP Workloads for Interactive Applications](https://db.in.tum.de/~giceva/papers/SIGMOD_batchdb.pdf?lang=de) [SIGMOD 17]
 2. [F1 Lightning: HTAP as a Service](http://www.vldb.org/pvldb/vol13/p3313-yang.pdf) [VLDB 20]
 3. [Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing](https://www.usenix.org/system/files/osdi21-shen.pdf) [ATC 21]
@@ -184,12 +184,10 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 2. [PolarDB-IMCI: A Cloud-Native HTAP Database System at Alibaba](https://browse.arxiv.org/pdf/2305.08468.pdf) [SIGMOD 23]
 
 
-#### Survey
+##### Survey
 1. [HTAP Databases: What is New and What is Next](https://dl.acm.org/doi/pdf/10.1145/3514221.3522565) [SIGMOD 22]
 2. [Data Sharing Model and Optimization Strategies in HTAP Database Systems](https://www.jos.org.cn/josen/article/pdf/6901) [Journal of Software 23]
-
-## Others
-
+  
 ### Benchmark
 1. [How Good is My HTAP System?](https://dl.acm.org/doi/pdf/10.1145/3514221.3526148) [SIGMOD 22]
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
