@@ -33,8 +33,10 @@ If the paper has the open-source code, please supply its github links in Meeting
         - [Sequential Consistency](#sequential-consistency)
         - [Session Consistency](#session-consistency)
         - [Survey](#survey-2)
+      - [Kernel Optimization](#kernel-optimization)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
+    - [Vector Data](#vector-data)
     - [OLTP](#oltp)
     - [AI4DB](#ai4db)
     - [Industry](#industry)
@@ -196,7 +198,10 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 ##### Survey
 1. [HTAP Databases: What is New and What is Next](https://dl.acm.org/doi/pdf/10.1145/3514221.3522565) [SIGMOD 22]
 2. [Data Sharing Model and Optimization Strategies in HTAP Database Systems](https://www.jos.org.cn/josen/article/pdf/6901) [Journal of Software 23]
-  
+
+#### Kernel Optimization
+1. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework]() [ICDE 24]
+
 ### Benchmark
 1. [How Good is My HTAP System?](https://dl.acm.org/doi/pdf/10.1145/3514221.3526148) [SIGMOD 22]
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
@@ -211,9 +216,13 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 11. [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
 12. [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [[VLDB 23](https://sciencebenchmark.cloudlab.zhaw.ch/)]
 13. [DBPA: A Benchmark for Transactional Database Performance Anomalies](https://dl.acm.org/doi/pdf/10.1145/3588926) [SIGMOD 23]
+14. [HyBench: A New Benchmark for HTAP Databases](https://www.vldb.org/pvldb/vol17/p939-zhang.pdf) [[VLDB 24](https://github.com/Rucchao/HyBench-2023)]
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
+
+### Vector Data
+1. [Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL]() [ICDE 24]
 
 ### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
