@@ -88,7 +88,6 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 5.  [Exact Cardinality Query Optimization with Bounded Execution Cost](https://dl.acm.org/doi/pdf/10.1145/3299869.3300087) [SIGMOD 19]
 6.  [JoinSketch: A Sketch Algorithm for Accurate and Unbiased Inner-Product Estimation](https://yangtonghome.github.io/uploads/JoinSketch_2023.pdf) [SIGMOD 23]
 7.  [Efficient and Effective Cardinality Estimation for Skyline Family](https://dl.acm.org/doi/abs/10.1145/3588958) [SIGMOD 23]
-8.  [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
 
 #### Survey
 1. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
@@ -222,7 +221,7 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
 
 ### Vector Data
-1. [Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL]() [ICDE 24]
+1. [Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL](https://www.cs.purdue.edu/homes/csjgwang/pubs/ICDE24_VecDB.pdf) [ICDE 24]
 
 ### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
