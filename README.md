@@ -1,9 +1,15 @@
-# Awsome-OLAP-Paper
+<div align="center">
+
+# Awsome-OLAP-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated paper list of awesome Online Analytical Processing <b>databases, frameworks, ressources, tools</b> and other awesomeness, for data engineers.
+
 Welcome new PR, please conform to the committed rules: paperName(with link) [MeetingName Year]
-
 If the paper has the open-source code, please supply its github links in Meeting.
+</div>
 
-- [Traditional-OLAP-Paper](#traditional-olap-paper)
+
+- [Awsome-OLAP-Paper ](#awsome-olap-paper-)
   - [Query-Aware Database Generation](#query-aware-database-generation)
   - [Query Optimization](#query-optimization)
     - [Query Rewrite](#query-rewrite)
@@ -51,6 +57,7 @@ If the paper has the open-source code, please supply its github links in Meeting
 7. [Touchstone: Generating Enormous Query-Aware Test Databases](https://www.usenix.org/system/files/conference/atc18/atc18-li-yuming.pdf) [OSDI 18]
 8. [Projection-Compliant Database Generation](https://www.vldb.org/pvldb/vol15/p998-sanghi.pdf) [VLDB 22]
 9.  [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [[SIGMOD 22](https://github.com/Jamesyang2333/SAM)]
+10. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
 
 ## Query Optimization
 1. [Sampling-Based Query Re-Optimization](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod16-reoptimization.pdf) [SIGMOD 16]
