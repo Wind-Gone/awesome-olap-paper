@@ -1,15 +1,16 @@
 <div align="center">
 
-# Awsome-OLAP-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-OLAP-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated paper list of awesome Online Analytical Processing <b>databases, frameworks, ressources, tools</b> and other awesomeness, for data engineers.
 
 Welcome new PR, please conform to the committed rules: paperName(with link) [MeetingName Year]
+
 If the paper has the open-source code, please supply its github links in Meeting.
 </div>
 
 
-- [Awsome-OLAP-Paper ](#awsome-olap-paper-)
+- [Awesome-OLAP-Paper ](#awesome-olap-paper-)
   - [Query-Aware Database Generation](#query-aware-database-generation)
   - [Query Optimization](#query-optimization)
     - [Query Rewrite](#query-rewrite)
