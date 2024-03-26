@@ -12,7 +12,7 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 - [Awesome-OLAP-Paper ](#awesome-olap-paper-)
   - [Query-Aware Database Generation](#query-aware-database-generation)
-- [Query Schedule](#query-schedule)
+  - [Query Schedule](#query-schedule)
   - [Query Optimization](#query-optimization)
     - [Query Rewrite](#query-rewrite)
     - [Cardinality Estimation](#cardinality-estimation)
@@ -26,7 +26,7 @@ If the paper has the open-source code, please supply its github links in Meeting
     - [View](#view)
     - [Survey](#survey-1)
     - [Index](#index)
-  - [Query Exection](#query-exection)
+  - [Query Execution](#query-execution)
   - [Query Compilation](#query-compilation)
   - [Logic Bugs Detection](#logic-bugs-detection)
   - [Storage](#storage)
@@ -61,7 +61,7 @@ If the paper has the open-source code, please supply its github links in Meeting
 9.  [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [[SIGMOD 22](https://github.com/Jamesyang2333/SAM)]
 10. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
 
-# Query Schedule
+## Query Schedule
 1. [Memory Efficient Scheduling of Query Pipeline Execution](https://www.cidrdb.org/cidr2022/papers/p82-landgraf.pdf) [CIDR 22]
 
 ## Query Optimization
@@ -148,7 +148,7 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 1. [SQL Server Column Store Indexes](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/p1177-larson.pdf) [SIGMOD 11]
 2. [Column Sketches: A Scan Accelerator for Rapid and Robust Predicate Evaluation](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/hentschel-sigmod18.pdf) [SIGMOD 18]
 
-## Query Exection
+## Query Execution
 1. [MonetDB/X100: Hyper-Pipelining Query Execution](https://www.cidrdb.org/cidr2005/papers/P19.pdf) [CIDR 05] 
 2. [Materialization Strategies in the Vertica Analytic Database: Lessons Learned](https://15721.courses.cs.cmu.edu/spring2023/papers/06-execution/shrinivas-icde2013.pdf) [ICDE 13] 
 3. [Rethinking SIMD Vectorization for In-Memory Databases](https://15721.courses.cs.cmu.edu/spring2024/papers/06-vectorization/p1493-polychroniou.pdf) [SIGMOD 15]
@@ -176,9 +176,10 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 
 ## Database Kernel
 1. [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) [CIDR 21]
-2. [GPU Database Systems Characterization and Optimization](https://www.vldb.org/pvldb/vol17/p441-cao.pdf) [[VLDB 24](https://github.com/jiashenC/gpudb-char-and-opt)]
-3. [The Art of Latency Hiding in Modern Database Engines](https://www.vldb.org/pvldb/vol17/p577-huang.pdf) [[VLDB 24](https://github.com/sfu-dis/mosaicdb)]
-4. [Disaggregated Database Systems](https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD23_Tutorial_DisaggregatedDB.pdf) [VLDB 23 Tutorial]
+2. [Disaggregated Database Systems](https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD23_Tutorial_DisaggregatedDB.pdf) [VLDB 23 Tutorial]
+3. [GPU Database Systems Characterization and Optimization](https://www.vldb.org/pvldb/vol17/p441-cao.pdf) [[VLDB 24](https://github.com/jiashenC/gpudb-char-and-opt)]
+4. [The Art of Latency Hiding in Modern Database Engines](https://www.vldb.org/pvldb/vol17/p577-huang.pdf) [[VLDB 24](https://github.com/sfu-dis/mosaicdb)]
+
 
 ## Others
 ### MVCC
