@@ -12,6 +12,7 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 - [Awesome-OLAP-Paper ](#awesome-olap-paper-)
   - [Query-Aware Database Generation](#query-aware-database-generation)
+- [Query Schedule](#query-schedule)
   - [Query Optimization](#query-optimization)
     - [Query Rewrite](#query-rewrite)
     - [Cardinality Estimation](#cardinality-estimation)
@@ -60,10 +61,14 @@ If the paper has the open-source code, please supply its github links in Meeting
 9.  [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [[SIGMOD 22](https://github.com/Jamesyang2333/SAM)]
 10. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
 
+# Query Schedule
+1. [Memory Efficient Scheduling of Query Pipeline Execution](https://www.cidrdb.org/cidr2022/papers/p82-landgraf.pdf) [CIDR 22]
+
 ## Query Optimization
 1. [Sampling-Based Query Re-Optimization](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod16-reoptimization.pdf) [SIGMOD 16]
 2. [Kepler: Robust Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.1145/3588963) [SIGMOD 23]
 3. [Rethink Query Optimization in HTAP Databases](https://dl.acm.org/doi/pdf/10.1145/3626750) [SIGMOD 24]
+4. [Optimizing Nested Recursive Queries]() [SIGMOD 24]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware
