@@ -57,9 +57,10 @@ If the paper has the open-source code, please supply its github links in Meeting
 5. [MyBenchmark: generating databases for query workloads](https://link.springer.com/article/10.1007/s00778-014-0354-1) [VLDB 14]
 6. [Scalable and Dynamic Regeneration of Big Data Volumes](https://openproceedings.org/2018/conf/edbt/paper-114.pdf) [EDBT 18]
 7. [Touchstone: Generating Enormous Query-Aware Test Databases](https://www.usenix.org/system/files/conference/atc18/atc18-li-yuming.pdf) [OSDI 18]
-8. [Projection-Compliant Database Generation](https://www.vldb.org/pvldb/vol15/p998-sanghi.pdf) [VLDB 22]
-9.  [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [[SIGMOD 22](https://github.com/Jamesyang2333/SAM)]
-10. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
+8. [Synthesizing Linked Data Under Cardinality and Integrity Constraints](https://dl.acm.org/doi/pdf/10.1145/3448016.3457242) [SIGMOD 21]
+9. [Projection-Compliant Database Generation](https://www.vldb.org/pvldb/vol15/p998-sanghi.pdf) [VLDB 22]
+10. [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [[SIGMOD 22](https://github.com/Jamesyang2333/SAM)]
+11. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
 
 ## Query Schedule
 1. [Memory Efficient Scheduling of Query Pipeline Execution](https://www.cidrdb.org/cidr2022/papers/p82-landgraf.pdf) [CIDR 22]
