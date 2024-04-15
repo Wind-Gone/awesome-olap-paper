@@ -80,7 +80,6 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 4. [Proving Query Equivalence Using Linear Integer Arithmetic](https://dl.acm.org/doi/pdf/10.1145/3626768) [SIGMOD 24]
 
 
-
 ### Cardinality Estimation
 #### Histogram
 1. [Equi-Depth Histograms For Estimating Selectivity Factors For Multi-Dimensional Queries](https://dl.acm.org/doi/pdf/10.1145/971701.50205) [None 87]
@@ -106,8 +105,9 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 7.  [Efficient and Effective Cardinality Estimation for Skyline Family](https://dl.acm.org/doi/abs/10.1145/3588958) [SIGMOD 23]
 
 #### Survey
-1. [Sub-optimal Join Order Identification with L1-error](https://dl.acm.org/doi/pdf/10.1145/3639272) [SIGMOD 24]
+1. [Preventing bad plans by bounding the impact of cardinality estimation errors](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=986d26dd8fa2355e9356ab2740b76e691cb22a15) [VLDB 09]
 2. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
+3. [Sub-optimal Join Order Identification with L1-error](https://dl.acm.org/doi/pdf/10.1145/3639272) [SIGMOD 24]
 
 ### Join Order
 1. [Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges](https://www.vldb.org/pvldb/vol16/p3882-yan.pdf) [VLDB 23]
@@ -115,6 +115,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 3. [Ready to Leap (by Co-Design)? Join Order Optimisation on Quantum Hardware](https://dl.acm.org/doi/pdf/10.1145/3588946) [SIGMOD 23]
 4. [Quantum-Inspired Digital Annealing for Join Ordering](https://www.vldb.org/pvldb/vol17/p511-schonberger.pdf) [[VLDB 24](https://github.com/lfd/vldb24)]
 5. [POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf) [[VLDB 24](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)]
+6. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
 
 ### Join Algorithms
 1. [Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems](https://15721.courses.cs.cmu.edu/spring2023/papers/12-sortmergejoins/p1064-albutiu.pdf) [VLDB 12]
@@ -183,6 +184,7 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 2. [Disaggregated Database Systems](https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD23_Tutorial_DisaggregatedDB.pdf) [VLDB 23 Tutorial]
 3. [GPU Database Systems Characterization and Optimization](https://www.vldb.org/pvldb/vol17/p441-cao.pdf) [[VLDB 24](https://github.com/jiashenC/gpudb-char-and-opt)]
 4. [The Art of Latency Hiding in Modern Database Engines](https://www.vldb.org/pvldb/vol17/p577-huang.pdf) [[VLDB 24](https://github.com/sfu-dis/mosaicdb)]
+5. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322#page=2.12) [SIGMOD 24]
 
 
 ## Others
