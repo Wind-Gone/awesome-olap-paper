@@ -12,6 +12,7 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 - [Awesome-OLAP-Paper ](#awesome-olap-paper-)
   - [Query-Aware Database Generation](#query-aware-database-generation)
+    - [Survey](#survey)
   - [Query Schedule](#query-schedule)
   - [Query Optimization](#query-optimization)
     - [Query Rewrite](#query-rewrite)
@@ -19,14 +20,15 @@ If the paper has the open-source code, please supply its github links in Meeting
       - [Histogram](#histogram)
       - [Sampling](#sampling)
       - [Others](#others)
-      - [Survey](#survey)
+      - [Survey](#survey-1)
     - [Join Order](#join-order)
     - [Join Algorithms](#join-algorithms)
     - [Cost Model](#cost-model)
     - [View](#view)
-    - [Survey](#survey-1)
+    - [Survey](#survey-2)
     - [Index](#index)
   - [Query Execution](#query-execution)
+  - [Data Dependency Search](#data-dependency-search)
   - [Query Compilation](#query-compilation)
   - [Logic Bugs Detection](#logic-bugs-detection)
   - [Storage](#storage)
@@ -40,8 +42,9 @@ If the paper has the open-source code, please supply its github links in Meeting
         - [Linear Consistency](#linear-consistency)
         - [Sequential Consistency](#sequential-consistency)
         - [Session Consistency](#session-consistency)
-        - [Survey](#survey-2)
+        - [Survey](#survey-3)
       - [Kernel Optimization](#kernel-optimization)
+      - [Result Replay](#result-replay)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
     - [Vector Data](#vector-data)
@@ -62,6 +65,8 @@ If the paper has the open-source code, please supply its github links in Meeting
 10. [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [[SIGMOD 22](https://github.com/Jamesyang2333/SAM)]
 11. [PrivLava: Synthesizing Relational Data with Foreign Keys under Differential Privacy](https://dl.acm.org/doi/pdf/10.1145/3589287) [SIGMOD 23]
 12. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
+### Survey
+1. [Synthetic Data Generation for Enterprise DBMS](https://dsl.cds.iisc.ac.in/publications/conference/ICDE_DataGen_Tutorial.pdf) [ICDE 23]
 
 ## Query Schedule
 1. [Memory Efficient Scheduling of Query Pipeline Execution](https://www.cidrdb.org/cidr2022/papers/p82-landgraf.pdf) [CIDR 22]
@@ -115,7 +120,6 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 3. [Ready to Leap (by Co-Design)? Join Order Optimisation on Quantum Hardware](https://dl.acm.org/doi/pdf/10.1145/3588946) [SIGMOD 23]
 4. [Quantum-Inspired Digital Annealing for Join Ordering](https://www.vldb.org/pvldb/vol17/p511-schonberger.pdf) [[VLDB 24](https://github.com/lfd/vldb24)]
 5. [POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf) [[VLDB 24](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)]
-6. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
 
 ### Join Algorithms
 1. [Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems](https://15721.courses.cs.cmu.edu/spring2023/papers/12-sortmergejoins/p1064-albutiu.pdf) [VLDB 12]
@@ -124,6 +128,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 4. [Worst-Case Optimal Join Algorithms: Techniques, Results, and Open Problems](https://arxiv.org/pdf/1803.09930.pdf) [SIGMOD 18]
 5. [Adopting Worst-Case Optimal Joins in Relational Database Systems](https://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) [VLDB 20]
 6. [Free Join: Unifying Worst-Cast Optimal and Traditional Joins](https://arxiv.org/pdf/2301.10841.pdf) [arXiv 23]
+7. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
 
 ### Cost Model
 1. [LEO – DB2’s LEarning Optimizer](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/stillger-vldb2001.pdf) [VLDB 11]
@@ -160,6 +165,9 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 4. [Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?](https://15721.courses.cs.cmu.edu/spring2023/papers/06-execution/kester-sigmod17.pdf) [SIGMOD 17]
 5. [Building Advanced SQL Analytics From Low-Level Plan Operators](https://db.in.tum.de/~kohn/papers/lolepops-sigmod21.pdf) [SIGMOD 21]
 6. [ChainedFilter: Combining Membership Filters by Chain Rule](https://dl.acm.org/doi/pdf/10.1145/3626721) [SIGMOD 24]
+
+## Data Dependency Search
+1. [Discovering Functional Dependencies through Hitting Set Enumeration](https://dl.acm.org/doi/pdf/10.1145/3639298) [SIGMOD 24]
 
 ## Query Compilation
 1. [How to Architect a Query Compiler](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf) [SIGMOD 16]
@@ -226,6 +234,9 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 
 #### Kernel Optimization
 1. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework]() [ICDE 24]
+
+#### Result Replay
+1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
 
 ### Benchmark
 1. [How Good is My HTAP System?](https://dl.acm.org/doi/pdf/10.1145/3514221.3526148) [SIGMOD 22]
