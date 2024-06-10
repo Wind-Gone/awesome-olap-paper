@@ -30,7 +30,7 @@ If the paper has the open-source code, please supply its github links in Meeting
   - [Query Execution](#query-execution)
   - [Data Dependency Search](#data-dependency-search)
   - [Query Compilation](#query-compilation)
-  - [Logic Bugs Detection](#logic-bugs-detection)
+  - [Bugs Detection](#bugs-detection)
   - [Storage](#storage)
     - [LSM-Tree](#lsm-tree)
   - [Proxy](#proxy)
@@ -49,6 +49,7 @@ If the paper has the open-source code, please supply its github links in Meeting
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
     - [Vector Data](#vector-data)
+    - [Algorithm](#algorithm)
     - [OLTP](#oltp)
     - [AI4DB](#ai4db)
     - [Industry](#industry)
@@ -174,8 +175,9 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 1. [How to Architect a Query Compiler](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf) [SIGMOD 16]
 2. [Adaptive Execution of Compiled Queries](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/kohn-icde2018.pdf) [ICDE 18]
 
-## Logic Bugs Detection
+## Bugs Detection
 1. [Detecting Logic Bugs of Join Optimizations in DBMS](https://dl.acm.org/doi/pdf/10.1145/3588909) [SIGMOD 23 Best Paper]
+2. [Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction](https://www.vldb.org/pvldb/vol17/p1884-song.pdf) [VLDB 24]
 
 ## Storage
 1. [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf) [VLDB 23]
@@ -262,6 +264,9 @@ Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VL
 
 ### Vector Data
 1. [Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL](https://www.cs.purdue.edu/homes/csjgwang/pubs/ICDE24_VecDB.pdf) [ICDE 24]
+
+### Algorithm
+1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
 
 ### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
