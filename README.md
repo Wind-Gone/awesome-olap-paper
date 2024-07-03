@@ -11,6 +11,8 @@ The repository is under construction.  Welcome new PR, please conform to the com
 ```bash
 paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
 ```
+## Acknowledge
+Thanks to all authors of the paper/repositories I cite :D
 
 ## Table of Content
 
@@ -18,6 +20,7 @@ paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced c
 - [Awesome-OLAP-Paper ](#awesome-olap-paper-)
   - [Introduction](#introduction)
   - [Contributing](#contributing)
+  - [Acknowledge](#acknowledge)
   - [Table of Content](#table-of-content)
   - [Query-Aware Database Generation](#query-aware-database-generation)
     - [Survey](#survey)
