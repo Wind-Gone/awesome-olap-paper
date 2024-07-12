@@ -12,7 +12,7 @@ The repository is under construction.  Welcome new PR, please conform to the com
 paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
 ```
 ## Acknowledge
-Thanks to all authors of the paper/repositories I cite :D
+Thanks to all authors of the paper/repository I cite :D
 
 ## Table of Content
 
@@ -247,6 +247,8 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 1. [HTAP Databases: What is New and What is Next](https://dl.acm.org/doi/pdf/10.1145/3514221.3522565) [SIGMOD 22]
 2. [Data Sharing Model and Optimization Strategies in HTAP Database Systems](https://www.jos.org.cn/josen/article/pdf/6901) [Journal of Software 23]
 3. [HTAP Databases: A Survey](https://arxiv.org/pdf/2404.15670) [TKDE 24]
+4. [ A survey on hybrid transactional and analytical processing](https://link.springer.com/article/10.1007/s00778-024-00858-9) [VLDB Journal 24]
+5. [Survey on Benchmarking Ability of HTAP Benchmarks](https://www.jos.org.cn/jos/article/abstract/7225) [Journal of Software 24]
 
 #### Kernel Optimization
 1. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework]() [ICDE 24]
