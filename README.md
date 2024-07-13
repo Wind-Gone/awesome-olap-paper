@@ -1,5 +1,9 @@
 # Awesome-OLAP-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Awesome OLAP Paper](https://img.shields.io/static/v1?label=&message=Awesome+OLAP+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-olap-paper)
+![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-olap-paper?color=green)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social)](https://github.com/Wind-Gone/awesome-olap-paper)
+
 ## Introduction
 
 A curated paper list of awesome Online Analytical Processing <b>database systems, theory, frameworks, resources, tools</b> and other awesomeness, for data engineers.
@@ -64,6 +68,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [OLTP](#oltp)
     - [AI4DB](#ai4db)
     - [Industry](#industry)
+  - [Star History](#star-history)
 
 ## Query-Aware Database Generation
 1.  [QAGen: Generating Query-Aware Test Databases](https://cs.uwaterloo.ca/~tozsu/publications/other/sigmod07-final.pdf) [SIGMOD 07]
@@ -284,3 +289,14 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 ### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
 ### [Industry](https://github.com/Wind-Gone/DBGiant-Industry-Paper)
+
+
+## Star History
+
+<a href="https://star-history.com/#Wind-Gone/awesome-olap-paper&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Wind-Gone/awesome-olap-paper&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Wind-Gone/awesome-olap-paper&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Wind-Gone/awesome-olap-paper&type=Date" />
+  </picture>
+</a>
