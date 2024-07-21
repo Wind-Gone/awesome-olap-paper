@@ -63,7 +63,8 @@ Thanks to all authors of the paper/repository I cite :D
       - [Result Replay](#result-replay)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
-    - [Vector Data](#vector-data)
+    - [Vector Database](#vector-database)
+      - [Survey](#survey-4)
     - [Algorithm](#algorithm)
     - [OLTP](#oltp)
     - [AI4DB](#ai4db)
@@ -280,8 +281,11 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
 
-### Vector Data
+### Vector Database
+#### Survey
 1. [Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL](https://www.cs.purdue.edu/homes/csjgwang/pubs/ICDE24_VecDB.pdf) [ICDE 24]
+2. [Survey of Vector Database Management Systems](https://arxiv.org/pdf/2310.14021#page=3.39) [VLDBJ 24]
+3. [Vector Database Management Techniques and Systems](https://dl.acm.org/doi/pdf/10.1145/3626246.3654691) [SIGMOD 24]
 
 ### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
