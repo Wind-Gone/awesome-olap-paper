@@ -6,7 +6,7 @@
 
 ## Introduction
 
-A curated paper list of awesome Online Analytical Processing <b>database systems, theory, frameworks, resources, tools</b> and other awesomeness, for data engineers.
+A curated paper list of awesome Online Analytical Processing <b>database systems, theory, frameworks, resources, tools</b> and other awesomeness, for database researchers/engineers.
 
 ## Contributing
 
@@ -263,7 +263,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
 
 ### Benchmark
-1. [How Good is My HTAP System?](https://dl.acm.org/doi/pdf/10.1145/3514221.3526148) [SIGMOD 22]
+1. [How Good is My HTAP System?](https://dl.acm.org/doi/pdf/10.1145/3514221.3526148) [SIGMOD 22] [![](https://img.shields.io/github/stars/UWHustle/HATtrick?style=social&label=Code+Stars)](https://github.com/UWHustle/HATtrick)
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
 3. [Dike: A Benchmark Suite for Distributed Transactional Databases](https://dl.acm.org/doi/pdf/10.1145/3555041.3589710) [SIGMOD 23]
 4. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
@@ -276,7 +276,6 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 11. [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
 12. [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
 13. [DBPA: A Benchmark for Transactional Database Performance Anomalies](https://dl.acm.org/doi/pdf/10.1145/3588926) [SIGMOD 23]
-14. [HyBench: A New Benchmark for HTAP Databases](https://www.vldb.org/pvldb/vol17/p939-zhang.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/Rucchao/HyBench-2023?style=social&label=Code+Stars)](https://github.com/Rucchao/HyBench-2023)
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
