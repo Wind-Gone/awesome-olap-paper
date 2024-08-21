@@ -66,6 +66,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Vector Database](#vector-database)
       - [Survey](#survey-4)
     - [Algorithm](#algorithm)
+    - [Distributed Systems](#distributed-systems)
     - [OLTP](#oltp)
     - [AI4DB](#ai4db)
     - [Industry](#industry)
@@ -201,6 +202,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 2. [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf) [VLDB 24]
 ### LSM-Tree
 1. [Dissecting, Designing, and Optimizing LSM-based Data Stores](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563) [SIGMOD 22 Tutorial]
+2. [CaaS-LSM: Compaction-as-a-Service for LSM-based Key-Value Stores in Storage Disaggregated Infrastructure](https://qiaolin-yu.github.io/pubs/V2mod124-yu.pdf) [SIGMOD 24]
 
 ## Proxy
 1. [Tigger: A Database Proxy That Bounces With User-Bypass](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf) [[VLDB 23](https://github.com/mbutrovich/tigger)]
@@ -288,6 +290,9 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 
 ### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
+
+### Distributed Systems
+1. [NOC-NOC: Towards Performance-optimal Distributed Transactions](https://dl.acm.org/doi/pdf/10.1145/3639264#page=1.52) [SIGMOD 24]
 
 ### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
