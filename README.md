@@ -27,6 +27,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Acknowledge](#acknowledge)
   - [Table of Content](#table-of-content)
   - [Query-Aware Database Generation](#query-aware-database-generation)
+    - [Privacy](#privacy)
     - [Survey](#survey)
   - [Query Schedule](#query-schedule)
   - [Query Optimization](#query-optimization)
@@ -83,8 +84,14 @@ Thanks to all authors of the paper/repository I cite :D
 8. [Synthesizing Linked Data Under Cardinality and Integrity Constraints](https://dl.acm.org/doi/pdf/10.1145/3448016.3457242) [SIGMOD 21]
 9. [Projection-Compliant Database Generation](https://www.vldb.org/pvldb/vol15/p998-sanghi.pdf) [VLDB 22]
 10. [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [SIGMOD 22] [![](https://img.shields.io/github/stars/Jamesyang2333/SAM?style=social&label=Code+Stars)](https://github.com/Jamesyang2333/SAM)
-11. [PrivLava: Synthesizing Relational Data with Foreign Keys under Differential Privacy](https://dl.acm.org/doi/pdf/10.1145/3589287) [SIGMOD 23]
-12. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
+11. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
+
+### Privacy
+1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
+2.  [Data Synthesis via Differentially Private Markov Random Fields](https://dl.acm.org/doi/pdf/10.14778/3476249.3476272#page=9.47) [VLDB 21]
+3. [PrivLava: Synthesizing Relational Data with Foreign Keys under Differential Privacy](https://dl.acm.org/doi/pdf/10.1145/3589287) [SIGMOD 23]
+4. [Privacy-Enhanced Database Synthesis for Benchmark Publishing](https://arxiv.org/pdf/2405.01312#page=3.51) [arXiv 24]
+
 ### Survey
 1. [Synthetic Data Generation for Enterprise DBMS](https://dsl.cds.iisc.ac.in/publications/conference/ICDE_DataGen_Tutorial.pdf) [ICDE 23]
 
