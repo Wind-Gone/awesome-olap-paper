@@ -61,7 +61,7 @@ Thanks to all authors of the paper/repository I cite :D
         - [Session Consistency](#session-consistency)
         - [Survey](#survey-3)
       - [Kernel Optimization](#kernel-optimization)
-      - [Result Replay](#result-replay)
+    - [Result Replay](#result-replay)
     - [Benchmark](#benchmark)
     - [Time Series](#time-series)
     - [Vector Database](#vector-database)
@@ -88,9 +88,10 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Privacy
 1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
-2.  [Data Synthesis via Differentially Private Markov Random Fields](https://dl.acm.org/doi/pdf/10.14778/3476249.3476272#page=9.47) [VLDB 21]
-3. [PrivLava: Synthesizing Relational Data with Foreign Keys under Differential Privacy](https://dl.acm.org/doi/pdf/10.1145/3589287) [SIGMOD 23]
-4. [Privacy-Enhanced Database Synthesis for Benchmark Publishing](https://arxiv.org/pdf/2405.01312#page=3.51) [arXiv 24]
+2. [Synthesizing Linked Data Under Cardinality and Integrity Constraints](https://arxiv.org/pdf/2103.14435) [SIGMOD 21]
+3.  [Data Synthesis via Differentially Private Markov Random Fields](https://dl.acm.org/doi/pdf/10.14778/3476249.3476272#page=9.47) [VLDB 21]
+4. [PrivLava: Synthesizing Relational Data with Foreign Keys under Differential Privacy](https://dl.acm.org/doi/pdf/10.1145/3589287) [SIGMOD 23]
+5. [Privacy-Enhanced Database Synthesis for Benchmark Publishing](https://arxiv.org/pdf/2405.01312#page=3.51) [arXiv 24]
 
 ### Survey
 1. [Synthetic Data Generation for Enterprise DBMS](https://dsl.cds.iisc.ac.in/publications/conference/ICDE_DataGen_Tutorial.pdf) [ICDE 23]
@@ -270,9 +271,10 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 5. [Survey on Benchmarking Ability of HTAP Benchmarks](https://www.jos.org.cn/jos/article/abstract/7225) [Journal of Software 24]
 
 #### Kernel Optimization
-1. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework]() [ICDE 24]
+1. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework](https://www.computer.org/csdl/proceedings-article/icde/2024/171500c096/1YOtqw9cWJ2) [ICDE 24]
+2. [Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP](https://vldb.org/pvldb/vol17/p3290-schmidt.pdf) [VLDB 24]
 
-#### Result Replay
+### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
 
 ### Benchmark
