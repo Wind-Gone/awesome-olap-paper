@@ -105,6 +105,7 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Rethink Query Optimization in HTAP Databases](https://dl.acm.org/doi/pdf/10.1145/3626750) [SIGMOD 24]
 4. [Optimizing Nested Recursive Queries](https://dl.acm.org/doi/pdf/10.1145/3639271) [SIGMOD 24]
 5. [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
+6. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware
