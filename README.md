@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-olap-paper?color=green)
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Wind-Gone.awesome-olap-paper)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social)](https://github.com/Wind-Gone/awesome-olap-paper)
-
+[![GitHub Repo forks](https://img.shields.io/github/forks/Wind-Gone/awesome-olap-paper?style=social)](https://github.com/Wind-Gone/awesome-olap-paper)
 ## Introduction
 
 A curated paper list of awesome Online Analytical Processing <b>database systems, theory, frameworks, resources, tools</b> and other awesomeness, for database researchers/engineers.
