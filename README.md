@@ -230,6 +230,8 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 6. [PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf) [ICSE 25]
 7. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
 8. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
+9. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
+10. [Conformance Testing of Relational DBMS Against SQL Specifications](https://arxiv.org/pdf/2406.09469) [ICSE 25]
 
 
 ### Static Analysis
