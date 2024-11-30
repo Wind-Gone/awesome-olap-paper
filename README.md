@@ -222,17 +222,19 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 2. [Adaptive Execution of Compiled Queries](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/kohn-icde2018.pdf) [ICDE 18]
 
 ## Bugs Detection
-1. [Detecting Logic Bugs of Join Optimizations in DBMS](https://dl.acm.org/doi/pdf/10.1145/3588909) [SIGMOD 23 Best Paper]
-2. [Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction](https://www.vldb.org/pvldb/vol17/p1884-song.pdf) [VLDB 24]
-3. [Keep It Simple: Testing Databases via Differential Query Plans](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf) [SIGMOD 24]
-4. [Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer](https://dl.acm.org/doi/abs/10.1145/3597503.3639210) [ICSE 24]
-5. [Plume: Efficient and Complete Black-Box Checking of Weak Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/3689742) [OOPSLA2 2024]
-6. [PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf) [ICSE 25]
-7. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
-8. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
-9. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
-10. [Conformance Testing of Relational DBMS Against SQL Specifications](https://arxiv.org/pdf/2406.09469) [ICSE 25]
-11. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
+1. [Finding Bugs in Database Systems via Query Partitioning](https://dl.acm.org/doi/pdf/10.1145/3428279) [OOPSLA 20]
+2. [Detecting Logic Bugs of Join Optimizations in DBMS](https://dl.acm.org/doi/pdf/10.1145/3588909) [SIGMOD 23 Best Paper]
+3. [Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction](https://www.vldb.org/pvldb/vol17/p1884-song.pdf) [VLDB 24]
+4. [Keep It Simple: Testing Databases via Differential Query Plans](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf) [SIGMOD 24]
+5. [Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer](https://dl.acm.org/doi/abs/10.1145/3597503.3639210) [ICSE 24]
+6. [Plume: Efficient and Complete Black-Box Checking of Weak Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/3689742) [OOPSLA2 2024]
+7. [CERT: Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation](https://arxiv.org/pdf/2306.00355) [ICSE 24]
+8. [PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf) [ICSE 25]
+9. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
+10. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
+11. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
+12. [Conformance Testing of Relational DBMS Against SQL Specifications](https://arxiv.org/pdf/2406.09469) [ICSE 25]
+13. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
 
 
 ### Static Analysis
