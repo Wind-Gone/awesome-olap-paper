@@ -235,8 +235,9 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 11. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
 12. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
 13. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
-14. [Conformance Testing of Relational DBMS Against SQL Specifications](https://arxiv.org/pdf/2406.09469) [ICSE 25]
-15. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
+14. [THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf) [ICSE 25]
+15. [Conformance Testing of Relational DBMS Against SQL Specifications](https://arxiv.org/pdf/2406.09469) [ICSE 25]
+16. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
   
 
 
