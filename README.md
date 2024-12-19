@@ -54,6 +54,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Proxy](#proxy)
   - [Data Loading](#data-loading)
   - [Database Kernel](#database-kernel)
+    - [Survey](#survey-3)
   - [Others](#others-1)
     - [MVCC](#mvcc)
     - [HTAP](#htap)
@@ -61,7 +62,7 @@ Thanks to all authors of the paper/repository I cite :D
         - [Linear Consistency](#linear-consistency)
         - [Sequential Consistency](#sequential-consistency)
         - [Session Consistency](#session-consistency)
-        - [Survey](#survey-3)
+        - [Survey](#survey-4)
       - [Kernel Optimization](#kernel-optimization)
     - [Result Replay](#result-replay)
     - [Benchmark](#benchmark)
@@ -72,7 +73,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Multi-Model](#multi-model)
     - [Time Series](#time-series)
     - [Vector Database](#vector-database)
-      - [Survey](#survey-4)
+      - [Survey](#survey-5)
     - [Algorithm](#algorithm)
     - [Distributed Systems](#distributed-systems)
     - [OLTP](#oltp-1)
@@ -258,7 +259,8 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 1. [Dissecting, Designing, and Optimizing LSM-based Data Stores](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563) [SIGMOD 22 Tutorial]
 2. [Magma: A High Data Density Storage Engine Used in Couchbase](https://www.vldb.org/pvldb/vol15/p3496-lakshman.pdf#page=1.23) [VLDB 22]
 3. [CaaS-LSM: Compaction-as-a-Service for LSM-based Key-Value Stores in Storage Disaggregated Infrastructure](https://qiaolin-yu.github.io/pubs/V2mod124-yu.pdf) [SIGMOD 24]
-4. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
+4. [NULLS! Revisiting Null Representation in Modern Columnar Formats](https://db.cs.cmu.edu/papers/2024/zeng-damon24.pdf) [DaMoN 24]
+5. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
 
 ## Proxy
 1. [Tigger: A Database Proxy That Bounces With User-Bypass](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf) [[VLDB 23](https://github.com/mbutrovich/tigger)]
@@ -272,6 +274,8 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 3. [GPU Database Systems Characterization and Optimization](https://www.vldb.org/pvldb/vol17/p441-cao.pdf) [[VLDB 24](https://github.com/jiashenC/gpudb-char-and-opt)]
 4. [The Art of Latency Hiding in Modern Database Engines](https://www.vldb.org/pvldb/vol17/p577-huang.pdf) [[VLDB 24](https://github.com/sfu-dis/mosaicdb)]
 5. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322#page=2.12) [SIGMOD 24]
+### Survey
+1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
 
 
 ## Others
