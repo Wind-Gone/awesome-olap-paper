@@ -48,13 +48,14 @@ Thanks to all authors of the paper/repository I cite :D
   - [Data Dependency Search](#data-dependency-search)
   - [Query Compilation](#query-compilation)
   - [Bugs Detection](#bugs-detection)
+    - [Survey](#survey-3)
     - [Static Analysis](#static-analysis)
   - [Storage](#storage)
     - [LSM-Tree](#lsm-tree)
   - [Proxy](#proxy)
   - [Data Loading](#data-loading)
   - [Database Kernel](#database-kernel)
-    - [Survey](#survey-3)
+    - [Survey](#survey-4)
   - [Others](#others-1)
     - [MVCC](#mvcc)
     - [HTAP](#htap)
@@ -62,7 +63,7 @@ Thanks to all authors of the paper/repository I cite :D
         - [Linear Consistency](#linear-consistency)
         - [Sequential Consistency](#sequential-consistency)
         - [Session Consistency](#session-consistency)
-        - [Survey](#survey-4)
+        - [Survey](#survey-5)
       - [Kernel Optimization](#kernel-optimization)
     - [Result Replay](#result-replay)
     - [Benchmark](#benchmark)
@@ -73,7 +74,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Multi-Model](#multi-model)
     - [Time Series](#time-series)
     - [Vector Database](#vector-database)
-      - [Survey](#survey-5)
+      - [Survey](#survey-6)
     - [Algorithm](#algorithm)
     - [Distributed Systems](#distributed-systems)
     - [OLTP](#oltp-1)
@@ -246,8 +247,12 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 20. [THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf) [ICSE 25]
 21. [Conformance Testing of Relational DBMS Against SQL Specifications](https://arxiv.org/pdf/2406.09469) [ICSE 25]
 22. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
-23. [Constant Optimization Driven Database System Testing]() [SIGMOD 25]
+23. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
+24. [Constant Optimization Driven Database System Testing]() [SIGMOD 25]
 
+### Survey
+1. [A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison](https://arxiv.org/pdf/2311.06728) [arXiv 23]
+2. [Survey on Database Management System Fuzzing Techniques](https://jos.org.cn/jos/article/pdf/7048) [Journal of Software 24]
 
 
 ### Static Analysis
