@@ -233,7 +233,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 4. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
 5. [Testing Database Engines via Query Plan Guidance](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00174) [ICSE 23]
 6. [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation](https://www.usenix.org/system/files/usenixsecurity23-jiang-zu-ming.pdf) [ATC 23]
-7. [Snowcat: E￿cient Kernel Concurrency Testing using a Learned Coverage Predictor](https://dl.acm.org/doi/pdf/10.1145/3600006.3613148) [SOSP 23]
+7. [Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor](https://dl.acm.org/doi/pdf/10.1145/3600006.3613148) [SOSP 23]
 8. [Detecting Isolation Bugs via Transaction Oracle Construction](https://wsdou.github.io/papers/2023-icse-troc.pdf) [ICSE 23]
 9. [Detecting Logic Bugs of Join Optimizations in DBMS](https://dl.acm.org/doi/pdf/10.1145/3588909) [SIGMOD 23 Best Paper]
 10. [Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction](https://www.vldb.org/pvldb/vol17/p1884-song.pdf) [VLDB 24]
