@@ -115,12 +115,14 @@ Thanks to all authors of the paper/repository I cite :D
 
 ## Query Optimization
 1. [Sampling-Based Query Re-Optimization](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod16-reoptimization.pdf) [SIGMOD 16]
-2. [Kepler: Robust Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.1145/3588963) [SIGMOD 23]
-3. [Rethink Query Optimization in HTAP Databases](https://dl.acm.org/doi/pdf/10.1145/3626750) [SIGMOD 24]
-4. [Optimizing Nested Recursive Queries](https://dl.acm.org/doi/pdf/10.1145/3639271) [SIGMOD 24]
-5. [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
-6. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
-7. [Presto’s History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
+2. [Adaptive Optimization of Very Large Join Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/07-joins1/neumann-sigmod2018.pdf) [SIGMOD 18]
+3. [Efficient Massively Parallel Join Optimization for Large Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/09-parallelization1/mancini-sigmod2022.pdf) [SIGMOD 22]
+4. [Kepler: Robust Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.1145/3588963) [SIGMOD 23]
+5. [Rethink Query Optimization in HTAP Databases](https://dl.acm.org/doi/pdf/10.1145/3626750) [SIGMOD 24]
+6. [Optimizing Nested Recursive Queries](https://dl.acm.org/doi/pdf/10.1145/3639271) [SIGMOD 24]
+7. [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
+8. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
+9. [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware
@@ -164,12 +166,14 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 2. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
 
 ### Join Order
-1. [Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges](https://www.vldb.org/pvldb/vol16/p3882-yan.pdf) [VLDB 23]
-2. [Efficiently Computing Join Orders with Heuristic Search](https://dl.acm.org/doi/pdf/10.1145/3588927) [SIGMOD 23]
-3. [Ready to Leap (by Co-Design)? Join Order Optimisation on Quantum Hardware](https://dl.acm.org/doi/pdf/10.1145/3588946) [SIGMOD 23]
-4. [Quantum-Inspired Digital Annealing for Join Ordering](https://www.vldb.org/pvldb/vol17/p511-schonberger.pdf) [[VLDB 24](https://github.com/lfd/vldb24)]
-5. [POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/damslab/reproducibility?style=social&label=Code+Stars)](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)
-6. [Sub-optimal Join Order Identification with L1-error](https://dl.acm.org/doi/pdf/10.1145/3639272) [SIGMOD 24]
+1. [Optimal Top-Down Join Enumeration](https://15799.courses.cs.cmu.edu/spring2025/papers/08-joins2/dehaan-sigmod2007.pdf) [SIGMOD 07]
+2. [Join Order Selection with Deep Reinforcement Learning: Fundamentals, Techniques, and Challenges](https://www.vldb.org/pvldb/vol16/p3882-yan.pdf) [VLDB 23]
+3. [Efficiently Computing Join Orders with Heuristic Search](https://dl.acm.org/doi/pdf/10.1145/3588927) [SIGMOD 23]
+4. [Ready to Leap (by Co-Design)? Join Order Optimisation on Quantum Hardware](https://dl.acm.org/doi/pdf/10.1145/3588946) [SIGMOD 23]
+5. [Quantum-Inspired Digital Annealing for Join Ordering](https://www.vldb.org/pvldb/vol17/p511-schonberger.pdf) [[VLDB 24](https://github.com/lfd/vldb24)]
+6. [POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/damslab/reproducibility?style=social&label=Code+Stars)](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)
+7. [Sub-optimal Join Order Identification with L1-error](https://dl.acm.org/doi/pdf/10.1145/3639272) [SIGMOD 24]
+8. [DPconv: Super-Polynomially Faster Join Ordering](https://15799.courses.cs.cmu.edu/spring2025/papers/07-joins1/stoian-sigmod2025.pdf) [SIGMOD 25]
 
 ### Join Algorithms
 1. [Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems](https://15721.courses.cs.cmu.edu/spring2023/papers/12-sortmergejoins/p1064-albutiu.pdf) [VLDB 12]
@@ -197,11 +201,12 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 ### Survey
 1. [How Good Are Query Optimizers, Really?](https://www.vldb.org/pvldb/vol9/p204-leis.pdf) [VLDB 15]
 2. [Cardinality Estimation: An Experimental Survey](https://www.vldb.org/pvldb/vol11/p499-harmouch.pdf) [VLDB 17]
-3. [A Survey on Advancing the DBMS Query Optimizer: Cardinality Estimation, Cost Model, and Plan Enumeration](https://arxiv.org/pdf/2101.01507.pdf) [VLDB 21]
-4. [Have query optimizers hit the wall?](https://link.springer.com/article/10.1007/s00778-021-00689-y) [VLDB Journal 22]
-5. [Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation](https://dl.acm.org/doi/pdf/10.14778/3503585.3503586) [VLDB 22]
-6. [Data dependencies for query optimization: a survey](https://link.springer.com/article/10.1007/s00778-021-00676-3) [VLDB Journal 22]
-7. [Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VLDB 23]
+3. [Query optimization through the looking glass, and what we found running the Join Order Benchmark](https://15799.courses.cs.cmu.edu/spring2025/papers/13-cardinalities1/leis-vldbj2017.pdf) [VLDBJ 17]
+4. [A Survey on Advancing the DBMS Query Optimizer: Cardinality Estimation, Cost Model, and Plan Enumeration](https://arxiv.org/pdf/2101.01507.pdf) [VLDB 21]
+5. [Have query optimizers hit the wall?](https://link.springer.com/article/10.1007/s00778-021-00689-y) [VLDB Journal 22]
+6. [Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation](https://dl.acm.org/doi/pdf/10.14778/3503585.3503586) [VLDB 22]
+7. [Data dependencies for query optimization: a survey](https://link.springer.com/article/10.1007/s00778-021-00676-3) [VLDB Journal 22]
+8. [Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VLDB 23]
 
 ### Index
 1. [SQL Server Column Store Indexes](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/p1177-larson.pdf) [SIGMOD 11]
@@ -209,16 +214,18 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 
 ## Query Execution
 1. [MonetDB/X100: Hyper-Pipelining Query Execution](https://www.cidrdb.org/cidr2005/papers/P19.pdf) [CIDR 05] 
-2. [Materialization Strategies in the Vertica Analytic Database: Lessons Learned](https://15721.courses.cs.cmu.edu/spring2023/papers/06-execution/shrinivas-icde2013.pdf) [ICDE 13] 
-3. [Rethinking SIMD Vectorization for In-Memory Databases](https://15721.courses.cs.cmu.edu/spring2024/papers/06-vectorization/p1493-polychroniou.pdf) [SIGMOD 15]
-4. [Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?](https://15721.courses.cs.cmu.edu/spring2023/papers/06-execution/kester-sigmod17.pdf) [SIGMOD 17]
-5. [Building Advanced SQL Analytics From Low-Level Plan Operators](https://db.in.tum.de/~kohn/papers/lolepops-sigmod21.pdf) [SIGMOD 21]
-6. [SkinnerMT: Parallelizing for Efficiency and Robustness in Adaptive Query Processing on Multicore Platforms](https://www.vldb.org/pvldb/vol16/p905-wei.pdf) [VLDB 22]
-7. [ChainedFilter: Combining Membership Filters by Chain Rule](https://dl.acm.org/doi/pdf/10.1145/3626721) [SIGMOD 24]
-8. [Saving Money for Analytical Workloads in the Cloud](https://www.vldb.org/pvldb/vol17/p3602-wang.pdf) [VLDB 24]
-9.  [Adaptive and Robust Query Execution for Lakehouses at Scale](https://www.vldb.org/pvldb/vol17/p3947-bu.pdf) [VLDB 24]
-10. [The Key to Effective UDF Optimization: Before Inlining, First Perform Outlining](https://www.vldb.org/pvldb/vol18/p1-arch.pdf) [VLDB 25]
-11. [High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/umami.pdf) [SIGMOD 25]
+2. [Materialization Strategies in the Vertica Analytic Database: Lessons Learned](https://15721.courses.cs.cmu.edu/spring2023/papers/06-execution/shrinivas-icde2013.pdf) [ICDE 13]
+3. [Adaptive Query Processing in the Looking Glass](https://15799.courses.cs.cmu.edu/spring2025/papers/18-aqp/babu-cidr2015.pdf) [CIDR 15]
+4. [Rethinking SIMD Vectorization for In-Memory Databases](https://15721.courses.cs.cmu.edu/spring2024/papers/06-vectorization/p1493-polychroniou.pdf) [SIGMOD 15]
+5. [Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?](https://15721.courses.cs.cmu.edu/spring2023/papers/06-execution/kester-sigmod17.pdf) [SIGMOD 17]
+6. [Looking Ahead Makes Query Plans Robust](https://15799.courses.cs.cmu.edu/spring2025/papers/18-aqp/p889-zhu.pdf) [VLDB 17]
+7. [Building Advanced SQL Analytics From Low-Level Plan Operators](https://db.in.tum.de/~kohn/papers/lolepops-sigmod21.pdf) [SIGMOD 21]
+8. [SkinnerMT: Parallelizing for Efficiency and Robustness in Adaptive Query Processing on Multicore Platforms](https://www.vldb.org/pvldb/vol16/p905-wei.pdf) [VLDB 22]
+9. [ChainedFilter: Combining Membership Filters by Chain Rule](https://dl.acm.org/doi/pdf/10.1145/3626721) [SIGMOD 24]
+10. [Saving Money for Analytical Workloads in the Cloud](https://www.vldb.org/pvldb/vol17/p3602-wang.pdf) [VLDB 24]
+11. [Adaptive and Robust Query Execution for Lakehouses at Scale](https://www.vldb.org/pvldb/vol17/p3947-bu.pdf) [VLDB 24]
+12. [The Key to Effective UDF Optimization: Before Inlining, First Perform Outlining](https://www.vldb.org/pvldb/vol18/p1-arch.pdf) [VLDB 25]
+13. [High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/umami.pdf) [SIGMOD 25]
 
 ## Data Dependency Search
 1. [Discovering Functional Dependencies through Hitting Set Enumeration](https://dl.acm.org/doi/pdf/10.1145/3639298) [SIGMOD 24]
