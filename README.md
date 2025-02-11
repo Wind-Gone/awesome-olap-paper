@@ -115,14 +115,16 @@ Thanks to all authors of the paper/repository I cite :D
 
 ## Query Optimization
 1. [Sampling-Based Query Re-Optimization](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod16-reoptimization.pdf) [SIGMOD 16]
-2. [Adaptive Optimization of Very Large Join Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/07-joins1/neumann-sigmod2018.pdf) [SIGMOD 18]
-3. [Efficient Massively Parallel Join Optimization for Large Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/09-parallelization1/mancini-sigmod2022.pdf) [SIGMOD 22]
-4. [Kepler: Robust Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.1145/3588963) [SIGMOD 23]
-5. [Rethink Query Optimization in HTAP Databases](https://dl.acm.org/doi/pdf/10.1145/3626750) [SIGMOD 24]
-6. [Optimizing Nested Recursive Queries](https://dl.acm.org/doi/pdf/10.1145/3639271) [SIGMOD 24]
-7. [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
-8. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
-9. [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
+2. [Leveraging Re-costing for Online Optimization of Parameterized Queries with Guarantees](https://15799.courses.cs.cmu.edu/spring2025/papers/16-parametric/dutt-sigmod2017.pdf) [SIGMOD 17]
+3. [Adaptive Optimization of Very Large Join Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/07-joins1/neumann-sigmod2018.pdf) [SIGMOD 18]
+4. [Efficient Massively Parallel Join Optimization for Large Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/09-parallelization1/mancini-sigmod2022.pdf) [SIGMOD 22]
+5. [Leveraging Query Logs and Machine Learning for Parametric Query Optimization](https://15799.courses.cs.cmu.edu/spring2025/papers/16-parametric/vaidya-vldb2022.pdf) [VLDB 22]
+6. [Kepler: Robust Learning for Parametric Query Optimization](https://dl.acm.org/doi/pdf/10.1145/3588963) [SIGMOD 23]
+7. [Rethink Query Optimization in HTAP Databases](https://dl.acm.org/doi/pdf/10.1145/3626750) [SIGMOD 24]
+8. [Optimizing Nested Recursive Queries](https://dl.acm.org/doi/pdf/10.1145/3639271) [SIGMOD 24]
+9. [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
+10. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
+11. [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware
