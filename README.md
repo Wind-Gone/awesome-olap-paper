@@ -50,6 +50,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Bugs Detection](#bugs-detection)
     - [Survey](#survey-3)
     - [Static Analysis](#static-analysis)
+    - [Code Location](#code-location)
   - [Storage](#storage)
     - [LSM-Tree](#lsm-tree)
   - [Proxy](#proxy)
@@ -232,27 +233,28 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 3. [Detecting Optimization Bugs in Database Engines via Non-Optimizing Reference Engine Construction]() [FSE 20]
 4. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
 5. [Testing Database Engines via Query Plan Guidance](https://dl.acm.org/doi/10.1109/ICSE48619.2023.00174) [ICSE 23]
-6. [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation](https://www.usenix.org/system/files/usenixsecurity23-jiang-zu-ming.pdf) [ATC 23]
-7. [Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor](https://dl.acm.org/doi/pdf/10.1145/3600006.3613148) [SOSP 23]
-8. [Detecting Isolation Bugs via Transaction Oracle Construction](https://wsdou.github.io/papers/2023-icse-troc.pdf) [ICSE 23]
-9. [Detecting Logic Bugs of Join Optimizations in DBMS](https://dl.acm.org/doi/pdf/10.1145/3588909) [SIGMOD 23 Best Paper]
-10. [Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction](https://www.vldb.org/pvldb/vol17/p1884-song.pdf) [VLDB 24]
-11. [CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/coni_ICSE25.pdf) [ICSE 24]
-12. [Keep It Simple: Testing Databases via Differential Query Plans](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf) [SIGMOD 24]
-13. [Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer](https://dl.acm.org/doi/abs/10.1145/3597503.3639210) [ICSE 24]
-14. [Plume: Efficient and Complete Black-Box Checking of Weak Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/3689742) [OOPSLA2 2024]
-15. [CERT: Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation](https://arxiv.org/pdf/2306.00355) [ICSE 24]
-16. [DBStorm: Generating Various Effective Workloads for Testing Isolation Levels](https://dl.acm.org/doi/10.1145/3650212.3680318) [ISSTA 24]
-17. [PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf) [ICSE 25]
-18. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
-19. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
-20. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
-21. [THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf) [ICSE 25]
-22. [Semantic Conformance Testing of Relational DBMS](https://zhunki.github.io/paper/VLDB2025.pdf) [VLDB 25]
-23. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
-24. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
-25. [Constant Optimization Driven Database System Testing]() [SIGMOD 25]
-26. [Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://jzuming.github.io/paper/ndss25-zou.pdf) [NDSS 25]
+6. [GDsmith: Detecting Bugs in Cypher Graph Database Engines](https://taoxiease.github.io/publications/issta23-gdsmith.pdf) [ISSTA 23]
+7. [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation](https://www.usenix.org/system/files/usenixsecurity23-jiang-zu-ming.pdf) [ATC 23]
+8. [Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor](https://dl.acm.org/doi/pdf/10.1145/3600006.3613148) [SOSP 23]
+9. [Detecting Isolation Bugs via Transaction Oracle Construction](https://wsdou.github.io/papers/2023-icse-troc.pdf) [ICSE 23]
+10. [Detecting Logic Bugs of Join Optimizations in DBMS](https://dl.acm.org/doi/pdf/10.1145/3588909) [SIGMOD 23 Best Paper]
+11. [Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction](https://www.vldb.org/pvldb/vol17/p1884-song.pdf) [VLDB 24]
+12. [CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/coni_ICSE25.pdf) [ICSE 24]
+13. [Keep It Simple: Testing Databases via Differential Query Plans](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf) [SIGMOD 24]
+14. [Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer](https://dl.acm.org/doi/abs/10.1145/3597503.3639210) [ICSE 24]
+15. [Plume: Efficient and Complete Black-Box Checking of Weak Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/3689742) [OOPSLA2 2024]
+16. [CERT: Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation](https://arxiv.org/pdf/2306.00355) [ICSE 24]
+17. [DBStorm: Generating Various Effective Workloads for Testing Isolation Levels](https://dl.acm.org/doi/10.1145/3650212.3680318) [ISSTA 24]
+18. [PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf) [ICSE 25]
+19. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
+20. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
+21. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
+22. [THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf) [ICSE 25]
+23. [Semantic Conformance Testing of Relational DBMS](https://zhunki.github.io/paper/VLDB2025.pdf) [VLDB 25]
+24. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
+25. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
+26. [Constant Optimization Driven Database System Testing]() [SIGMOD 25]
+27. [Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://jzuming.github.io/paper/ndss25-zou.pdf) [NDSS 25]
 
 ### Survey
 1. [A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison](https://arxiv.org/pdf/2311.06728) [arXiv 23]
@@ -261,6 +263,9 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 
 ### Static Analysis
 1. [Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach](https://dl.acm.org/doi/pdf/10.1145/3649828) [PACMPL 24]
+
+### Code Location
+1. [Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces](https://arxiv.org/pdf/2501.18005) [arXiv 25]
 
 ## Storage
 1. [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf) [VLDB 23]
