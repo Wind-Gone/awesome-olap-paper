@@ -94,7 +94,8 @@ Thanks to all authors of the paper/repository I cite :D
 8. [Synthesizing Linked Data Under Cardinality and Integrity Constraints](https://dl.acm.org/doi/pdf/10.1145/3448016.3457242) [SIGMOD 21]
 9. [Projection-Compliant Database Generation](https://www.vldb.org/pvldb/vol15/p998-sanghi.pdf) [VLDB 22]
 10. [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [SIGMOD 22] [![](https://img.shields.io/github/stars/Jamesyang2333/SAM?style=social&label=Code+Stars)](https://github.com/Jamesyang2333/SAM)
-11. [Mirage: Generating Enormous Databases for Complex Workloads]() [ICDE 24]
+11. [Mirage: Generating Enormous Databases for Complex Workloads](https://www.computer.org/csdl/proceedings-article/icde/2024/171500d989/1YOtBpuCaTS) [ICDE 24]
+12. [Query Aware Database Generation for Match Operators](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_18) [DASFAA 24]
 
 ### Privacy
 1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
@@ -205,9 +206,9 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 2. [Cardinality Estimation: An Experimental Survey](https://www.vldb.org/pvldb/vol11/p499-harmouch.pdf) [VLDB 17]
 3. [Query optimization through the looking glass, and what we found running the Join Order Benchmark](https://15799.courses.cs.cmu.edu/spring2025/papers/13-cardinalities1/leis-vldbj2017.pdf) [VLDBJ 17]
 4. [A Survey on Advancing the DBMS Query Optimizer: Cardinality Estimation, Cost Model, and Plan Enumeration](https://arxiv.org/pdf/2101.01507.pdf) [VLDB 21]
-5. [Have query optimizers hit the wall?](https://link.springer.com/article/10.1007/s00778-021-00689-y) [VLDB Journal 22]
+5. [Have query optimizers hit the wall?](https://link.springer.com/article/10.1007/s00778-021-00689-y) [VLDBJ 22]
 6. [Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation](https://dl.acm.org/doi/pdf/10.14778/3503585.3503586) [VLDB 22]
-7. [Data dependencies for query optimization: a survey](https://link.springer.com/article/10.1007/s00778-021-00676-3) [VLDB Journal 22]
+7. [Data dependencies for query optimization: a survey](https://link.springer.com/article/10.1007/s00778-021-00676-3) [VLDBJ 22]
 8. [Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VLDB 23]
 
 ### Index
