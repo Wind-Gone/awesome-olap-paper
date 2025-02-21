@@ -38,6 +38,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Sampling](#sampling)
       - [Others](#others)
       - [Survey](#survey-1)
+      - [Speical Case](#speical-case)
     - [Join Order](#join-order)
     - [Join Algorithms](#join-algorithms)
     - [Cost Model](#cost-model)
@@ -167,6 +168,9 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 #### Survey
 1. [Preventing bad plans by bounding the impact of cardinality estimation errors](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=986d26dd8fa2355e9356ab2740b76e691cb22a15) [VLDB 09]
 2. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
+
+#### Speical Case
+12. [Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes](https://dl.acm.org/doi/pdf/10.1145/3626755) [SIGMOD 24]
 
 ### Join Order
 1. [Optimal Top-Down Join Enumeration](https://15799.courses.cs.cmu.edu/spring2025/papers/08-joins2/dehaan-sigmod2007.pdf) [SIGMOD 07]
