@@ -51,6 +51,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Bugs Detection](#bugs-detection)
     - [Survey](#survey-3)
     - [Static Analysis](#static-analysis)
+    - [Casual Inference](#casual-inference)
     - [Code Location](#code-location)
   - [Storage](#storage)
     - [LSM-Tree](#lsm-tree)
@@ -103,7 +104,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Synthesizing Linked Data Under Cardinality and Integrity Constraints](https://arxiv.org/pdf/2103.14435) [SIGMOD 21]
 3.  [Data Synthesis via Differentially Private Markov Random Fields](https://dl.acm.org/doi/pdf/10.14778/3476249.3476272#page=9.47) [VLDB 21]
 4. [PrivLava: Synthesizing Relational Data with Foreign Keys under Differential Privacy](https://dl.acm.org/doi/pdf/10.1145/3589287) [SIGMOD 23]
-5. [Privacy-Enhanced Database Synthesis for Benchmark Publishing](https://arxiv.org/pdf/2405.01312#page=3.51) [arXiv 24]
+5. [Privacy-Enhanced Database Synthesis for Benchmark Publishing](https://www.vldb.org/pvldb/vol18/p413-zheng.pdf) [VLDB 25]
 
 ### Survey
 1. [Synthetic Data Generation for Enterprise DBMS](https://dsl.cds.iisc.ac.in/publications/conference/ICDE_DataGen_Tutorial.pdf) [ICDE 23]
@@ -279,6 +280,10 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 
 ### Static Analysis
 1. [Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach](https://dl.acm.org/doi/pdf/10.1145/3649828) [PACMPL 24]
+
+### Casual Inference
+1. [Substructure-aware Log Anomaly Detection](https://www.vldb.org/pvldb/vol18/p213-tang.pdf) [VLDB 25]
+2. [From Logs to Causal Inference: Diagnosing Large Systems]() [VLDB 25]
 
 ### Code Location
 1. [Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces](https://arxiv.org/pdf/2501.18005) [arXiv 25]
