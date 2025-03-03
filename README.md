@@ -55,6 +55,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Code Location](#code-location)
   - [Storage](#storage)
     - [LSM-Tree](#lsm-tree)
+      - [Kd-Tree](#kd-tree)
   - [Proxy](#proxy)
   - [Data Loading](#data-loading)
   - [Database Kernel](#database-kernel)
@@ -137,6 +138,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 4. [Proving Query Equivalence Using Linear Integer Arithmetic](https://dl.acm.org/doi/pdf/10.1145/3626768) [SIGMOD 24]
 5. [QED: A Powerful Query Equivalence Decider for SQL](https://www.vldb.org/pvldb/vol17/p3602-wang.pdf) [VLDB 24]
 6. [VeriEQL: Bounded Equivalence Verification for Complex SQL Queries with Integrity Constraints](https://pinhanzhao.com/papers/oopsla24.pdf) [OOPSLA 24]
+7. [PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification](https://dl.acm.org/doi/pdf/10.1145/3709713) [SIGMOD 25]
 
 
 ### Cardinality Estimation
@@ -193,6 +195,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 5. [Adopting Worst-Case Optimal Joins in Relational Database Systems](https://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) [VLDB 20]
 6. [Free Join: Unifying Worst-Cast Optimal and Traditional Joins](https://arxiv.org/pdf/2301.10841.pdf) [arXiv 23]
 7. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
+8. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
 
 ### Cost Model
 1. [LEO – DB2’s LEarning Optimizer](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/stillger-vldb2001.pdf) [VLDB 11]
@@ -271,7 +274,7 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 23. [Semantic Conformance Testing of Relational DBMS](https://zhunki.github.io/paper/VLDB2025.pdf) [VLDB 25]
 24. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
 25. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
-26. [Constant Optimization Driven Database System Testing]() [SIGMOD 25]
+26. [Constant Optimization Driven Database System Testing](https://dl.acm.org/doi/pdf/10.1145/3709674) [SIGMOD 25]
 27. [Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://jzuming.github.io/paper/ndss25-zou.pdf) [NDSS 25]
 
 ### Survey
@@ -292,12 +295,18 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 ## Storage
 1. [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf) [VLDB 23]
 2. [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf) [VLDB 24]
+3. [Boosting OLTP Performance with Per-Page Logging on NVDIMM](https://dl.acm.org/doi/pdf/10.1145/3709667) [SIGMOD 25]
 ### LSM-Tree
 1. [Dissecting, Designing, and Optimizing LSM-based Data Stores](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563) [SIGMOD 22 Tutorial]
 2. [Magma: A High Data Density Storage Engine Used in Couchbase](https://www.vldb.org/pvldb/vol15/p3496-lakshman.pdf#page=1.23) [VLDB 22]
 3. [CaaS-LSM: Compaction-as-a-Service for LSM-based Key-Value Stores in Storage Disaggregated Infrastructure](https://qiaolin-yu.github.io/pubs/V2mod124-yu.pdf) [SIGMOD 24]
 4. [NULLS! Revisiting Null Representation in Modern Columnar Formats](https://db.cs.cmu.edu/papers/2024/zeng-damon24.pdf) [DaMoN 24]
 5. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
+6. [Disco: A Compact Index for LSM-trees](https://dl.acm.org/doi/pdf/10.1145/3709683) [SIGMOD 25]
+7. [Randomized Sketches for Quantile in LSM-tree based Store](https://dl.acm.org/doi/pdf/10.1145/3709717) [SIGMOD 25]
+
+#### Kd-Tree
+1. [Parallel kd-tree with Batch Updates](https://dl.acm.org/doi/pdf/10.1145/3709712) [SIGMOD 25]
 
 ## Proxy
 1. [Tigger: A Database Proxy That Bounces With User-Bypass](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf) [[VLDB 23](https://github.com/mbutrovich/tigger)]
@@ -314,6 +323,8 @@ Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2
 ### Survey
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
 2. [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf) [VLDB 24]
+3. [Rapid Data Ingestion through DB-OS Co-design](https://dl.acm.org/doi/pdf/10.1145/3709718) [SIGMOD 25]
+4. [Practical DB-OS Co-Design with Privileged Kernel Bypass](https://dl.acm.org/doi/pdf/10.1145/3709714) [SIGMOD 25]
 
 ## Others
 ### MVCC
