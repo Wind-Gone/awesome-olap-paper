@@ -131,8 +131,7 @@ Thanks to all authors of the paper/repository I cite :D
 11. [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
 
 ### Query Rewrite
-1. [QueryBooster: Improving SQL Performance Using Middleware
-Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2911-bai.pdf) [VLDB 23]
+1. [QueryBooster: Improving SQL Performance Using Middleware Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2911-bai.pdf) [VLDB 23]
 2. [SlabCity: Whole-Query Optimization using Program Synthesis](https://dl.acm.org/doi/pdf/10.14778/3611479.3611515) [VLDB 23]
 3. [GEqO: ML-Accelerated Semantic Equivalence Detection](https://dl.acm.org/doi/pdf/10.1145/3626710) [SIGMOD 24]
 4. [Proving Query Equivalence Using Linear Integer Arithmetic](https://dl.acm.org/doi/pdf/10.1145/3626768) [SIGMOD 24]
