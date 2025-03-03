@@ -319,11 +319,12 @@ Thanks to all authors of the paper/repository I cite :D
 3. [GPU Database Systems Characterization and Optimization](https://www.vldb.org/pvldb/vol17/p441-cao.pdf) [[VLDB 24](https://github.com/jiashenC/gpudb-char-and-opt)]
 4. [The Art of Latency Hiding in Modern Database Engines](https://www.vldb.org/pvldb/vol17/p577-huang.pdf) [[VLDB 24](https://github.com/sfu-dis/mosaicdb)]
 5. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322#page=2.12) [SIGMOD 24]
+6. [Rapid Data Ingestion through DB-OS Co-design](https://dl.acm.org/doi/pdf/10.1145/3709718) [SIGMOD 25]
+7. [Practical DB-OS Co-Design with Privileged Kernel Bypass](https://dl.acm.org/doi/pdf/10.1145/3709714) [SIGMOD 25]
+
 ### Survey
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
 2. [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf) [VLDB 24]
-3. [Rapid Data Ingestion through DB-OS Co-design](https://dl.acm.org/doi/pdf/10.1145/3709718) [SIGMOD 25]
-4. [Practical DB-OS Co-Design with Privileged Kernel Bypass](https://dl.acm.org/doi/pdf/10.1145/3709714) [SIGMOD 25]
 
 ## Others
 ### MVCC
