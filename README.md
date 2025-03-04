@@ -55,7 +55,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Code Location](#code-location)
   - [Storage](#storage)
     - [LSM-Tree](#lsm-tree)
-      - [Kd-Tree](#kd-tree)
+    - [Kd-Tree](#kd-tree)
   - [Proxy](#proxy)
   - [Data Loading](#data-loading)
   - [Database Kernel](#database-kernel)
@@ -304,7 +304,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Disco: A Compact Index for LSM-trees](https://dl.acm.org/doi/pdf/10.1145/3709683) [SIGMOD 25]
 7. [Randomized Sketches for Quantile in LSM-tree based Store](https://dl.acm.org/doi/pdf/10.1145/3709717) [SIGMOD 25]
 
-#### Kd-Tree
+### Kd-Tree
 1. [Parallel kd-tree with Batch Updates](https://dl.acm.org/doi/pdf/10.1145/3709712) [SIGMOD 25]
 
 ## Proxy
