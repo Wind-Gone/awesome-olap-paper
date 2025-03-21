@@ -63,6 +63,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Proxy](#proxy)
   - [Data Loading](#data-loading)
   - [Database Kernel](#database-kernel)
+    - [Transactions](#transactions)
     - [Survey](#survey-4)
   - [Others](#others-1)
     - [MVCC](#mvcc)
@@ -245,6 +246,7 @@ Thanks to all authors of the paper/repository I cite :D
 11. [Adaptive and Robust Query Execution for Lakehouses at Scale](https://www.vldb.org/pvldb/vol17/p3947-bu.pdf) [VLDB 24]
 12. [The Key to Effective UDF Optimization: Before Inlining, First Perform Outlining](https://www.vldb.org/pvldb/vol18/p1-arch.pdf) [VLDB 25]
 13. [High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/umami.pdf) [SIGMOD 25]
+14. [FAAQP: Fast and Accurate Approximate Query Processing based on Bitmap-augmented Sum-Product Network]() [SIGMOD 25]
 
 ## Data Dependency Search
 1. [Discovering Functional Dependencies through Hitting Set Enumeration](https://dl.acm.org/doi/pdf/10.1145/3639298) [SIGMOD 24]
@@ -335,6 +337,13 @@ Thanks to all authors of the paper/repository I cite :D
 5. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322#page=2.12) [SIGMOD 24]
 6. [Rapid Data Ingestion through DB-OS Co-design](https://dl.acm.org/doi/pdf/10.1145/3709718) [SIGMOD 25]
 7. [Practical DB-OS Co-Design with Privileged Kernel Bypass](https://dl.acm.org/doi/pdf/10.1145/3709714) [SIGMOD 25]
+
+### Transactions
+1. [Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt?]() [SIGMOD 25]
+2. [Are database system researchers making correct assumptions about transaction workloads?]() [SIGMOD 25]
+3. [BPF-DB: A Kernel-Embedded Transactional Database Management System For eBPF Applications]() [SIGMOD 25]
+4. [Styx: Transactional Stateful Functions on Streaming Dataflows]() [SIGMOD 25]
+5. [GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support]() [SIGMOD 25]
 
 ### Survey
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
