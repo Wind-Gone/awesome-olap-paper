@@ -75,6 +75,8 @@ Thanks to all authors of the paper/repository I cite :D
       - [Kernel Optimization](#kernel-optimization)
     - [Result Replay](#result-replay)
     - [Benchmark](#benchmark)
+      - [Survey](#survey-6)
+      - [AI](#ai)
       - [OLTP](#oltp)
       - [OLAP](#olap)
       - [HTAP](#htap-1)
@@ -82,7 +84,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Multi-Model](#multi-model)
     - [Time Series](#time-series)
     - [Vector Database](#vector-database)
-      - [Survey](#survey-6)
+      - [Survey](#survey-7)
     - [Algorithm](#algorithm)
     - [Distributed Systems](#distributed-systems)
     - [OLTP](#oltp-1)
@@ -390,6 +392,12 @@ Thanks to all authors of the paper/repository I cite :D
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
 
 ### Benchmark
+#### Survey
+1. [Surprise Benchmarking: The Why, What, and How](https://dl.acm.org/doi/pdf/10.1145/3662165.3662763) [DBTest 24]
+
+#### AI
+1. [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://dl.acm.org/doi/pdf/10.14778/3611540.3611554) [VLDB 23]
+
 #### OLTP
 1. [Dike: A Benchmark Suite for Distributed Transactional Databases](https://dl.acm.org/doi/pdf/10.1145/3555041.3589710) [SIGMOD 23]
 2. [DBPA: A Benchmark for Transactional Database Performance Anomalies](https://dl.acm.org/doi/pdf/10.1145/3588926) [SIGMOD 23]
