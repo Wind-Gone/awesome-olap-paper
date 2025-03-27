@@ -82,8 +82,9 @@ Thanks to all authors of the paper/repository I cite :D
       - [OLAP](#olap)
       - [HTAP](#htap-1)
       - [Others](#others-2)
-      - [Multi-Model](#multi-model)
     - [Time Series](#time-series)
+    - [Multi-Model](#multi-model)
+      - [Benchmark](#benchmark-1)
     - [Vector Database](#vector-database)
       - [Survey](#survey-7)
     - [Algorithm](#algorithm)
@@ -192,6 +193,7 @@ Thanks to all authors of the paper/repository I cite :D
 8. [POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/damslab/reproducibility?style=social&label=Code+Stars)](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)
 9. [Sub-optimal Join Order Identification with L1-error](https://dl.acm.org/doi/pdf/10.1145/3639272) [SIGMOD 24]
 10. [DPconv: Super-Polynomially Faster Join Ordering](https://15799.courses.cs.cmu.edu/spring2025/papers/07-joins1/stoian-sigmod2025.pdf) [SIGMOD 25]
+11. [AJOSC: Adaptive join order selection for continuous queries on data streams]() [SIGMOD 25]
 
 ### Join Algorithms
 1. [Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems](https://15721.courses.cs.cmu.edu/spring2023/papers/12-sortmergejoins/p1064-albutiu.pdf) [VLDB 12]
@@ -202,6 +204,9 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Free Join: Unifying Worst-Cast Optimal and Traditional Joins](https://arxiv.org/pdf/2301.10841.pdf) [arXiv 23]
 7. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
 8. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
+9. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores]() [SIGMOD 25]
+10. [SwiftSpatial: Spatial Joins on Modern Hardware]() [SIGMOD 25]
+11. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
 
 ### Cost Model
 1. [LEO – DB2’s LEarning Optimizer](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/stillger-vldb2001.pdf) [VLDB 11]
@@ -282,6 +287,7 @@ Thanks to all authors of the paper/repository I cite :D
 20. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
 21. [Constant Optimization Driven Database System Testing](https://dl.acm.org/doi/pdf/10.1145/3709674) [SIGMOD 25]
 22. [Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://jzuming.github.io/paper/ndss25-zou.pdf) [NDSS 25]
+23. [Finding Logic Bugs in Graph-processing Systems via Graph-cutting]() [SIGMOD 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
@@ -319,6 +325,8 @@ Thanks to all authors of the paper/repository I cite :D
 5. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
 6. [Disco: A Compact Index for LSM-trees](https://dl.acm.org/doi/pdf/10.1145/3709683) [SIGMOD 25]
 7. [Randomized Sketches for Quantile in LSM-tree based Store](https://dl.acm.org/doi/pdf/10.1145/3709717) [SIGMOD 25]
+8. [Rethinking The Compaction Policies in LSM-trees]() [SIGMOD 25]
+9. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores]() [SIGMOD 25]
 
 ### Kd-Tree
 1. [Parallel kd-tree with Batch Updates](https://dl.acm.org/doi/pdf/10.1145/3709712) [SIGMOD 25]
@@ -344,6 +352,8 @@ Thanks to all authors of the paper/repository I cite :D
 3. [BPF-DB: A Kernel-Embedded Transactional Database Management System For eBPF Applications]() [SIGMOD 25]
 4. [Styx: Transactional Stateful Functions on Streaming Dataflows]() [SIGMOD 25]
 5. [GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support]() [SIGMOD 25]
+6. [Wait and See: A Delayed Transactions Partitioning Approach in Deterministic Database Systems for Better Performance]() [SIGMOD 25]
+7. [Moving on From Group Commit: Autonomous Commit Enables High Throughput and Low Latency on NVMe SSDs]() [SIGMOD 25]
 
 ### Survey
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
@@ -429,14 +439,17 @@ Thanks to all authors of the paper/repository I cite :D
 8.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
 9.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
 
-#### Multi-Model
+### Time Series
+1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
+
+### Multi-Model
+1. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search]() [SIGMOD 25]
+2. [MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search]() [SIGMOD 25]
+#### Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
 2. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
 3. [MMSBench-Net: Scenario-Based Evaluation of Multi-Model Database Systems](https://gvdb23.informatik.uni-stuttgart.de/wp-content/uploads/2023/06/GvDB2023_Lengweiler.pdf) [23]
 4. [MMDBench: A Benchmark for Hybrid Query in Multimodal Database](https://bluejoe2008.github.io/pub/MMDBench__A_Benchmark_for_Hybrid_Query_in_Multimodal_Database.pdf) [24]
-
-### Time Series
-1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
 
 ### Vector Database
 #### Survey
