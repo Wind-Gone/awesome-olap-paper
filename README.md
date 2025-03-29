@@ -193,7 +193,8 @@ Thanks to all authors of the paper/repository I cite :D
 8. [POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance](https://www.vldb.org/pvldb/vol17/p1350-justen.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/damslab/reproducibility?style=social&label=Code+Stars)](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)
 9. [Sub-optimal Join Order Identification with L1-error](https://dl.acm.org/doi/pdf/10.1145/3639272) [SIGMOD 24]
 10. [DPconv: Super-Polynomially Faster Join Ordering](https://15799.courses.cs.cmu.edu/spring2025/papers/07-joins1/stoian-sigmod2025.pdf) [SIGMOD 25]
-11. [AJOSC: Adaptive join order selection for continuous queries on data streams]() [SIGMOD 25]
+11. [Debunking the Myth of Join Ordering: Toward Robust SQL Analytics](https://arxiv.org/pdf/2502.15181) [SIGMOD 25]
+12. [AJOSC: Adaptive join order selection for continuous queries on data streams]() [SIGMOD 25]
 
 ### Join Algorithms
 1. [Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems](https://15721.courses.cs.cmu.edu/spring2023/papers/12-sortmergejoins/p1064-albutiu.pdf) [VLDB 12]
