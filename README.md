@@ -123,6 +123,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Memory Efficient Scheduling of Query Pipeline Execution](https://www.cidrdb.org/cidr2022/papers/p82-landgraf.pdf) [CIDR 22]
 3. [LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems](https://dl.acm.org/doi/pdf/10.1145/3514221.3526158) [SIGMOD 22]
 4. [Rotary: A Resource Arbitration Framework for Progressive Iterative Analytics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184533) [ICDE 23]
+5. [Laser: Buffer-Aware Learned Query Scheduling in Master-Standby Databases](https://www.vldb.org/pvldb/vol18/p743-li.pdf) [VLDB 25]
    
 
 ## Query Optimization
@@ -137,6 +138,7 @@ Thanks to all authors of the paper/repository I cite :D
 9.  [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
 10. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
 11. [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
+12. [RankPQO: Learning-to-Rank for Parametric Query Optimization](https://www.vldb.org/pvldb/vol18/p863-mo.pdf) [VLDB 25]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2911-bai.pdf) [VLDB 23]
