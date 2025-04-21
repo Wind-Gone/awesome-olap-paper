@@ -292,6 +292,10 @@ Thanks to all authors of the paper/repository I cite :D
 22. [Constant Optimization Driven Database System Testing](https://dl.acm.org/doi/pdf/10.1145/3709674) [SIGMOD 25]
 23. [Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://jzuming.github.io/paper/ndss25-zou.pdf) [NDSS 25]
 24. [Finding Logic Bugs in Graph-processing Systems via Graph-cutting]() [SIGMOD 25]
+25. [Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction]() [VLDB 25]
+26. [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems]() [VLDB 25]
+27. [Detecting Isolation Anomalies in Relational DBMSs]() [ISSTA 25]
+28. [Model Checking Guided Incremental Testing for Distributed Systems]() [ISSTA 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
