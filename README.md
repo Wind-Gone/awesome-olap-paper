@@ -14,7 +14,7 @@ A curated paper list of awesome Online Analytical Processing <b>database systems
 The repository is under construction.  Welcome new PR, please conform to the committed rules: 
 
 ```bash
-paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
+paperName(with pdf link) (alias) [MeetingName Year] Github link if it has open-sourced code (optional)
 ```
 ## Acknowledge
 Thanks to all authors of the paper/repository I cite :D
@@ -36,6 +36,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Cardinality Estimation](#cardinality-estimation)
       - [Histogram](#histogram)
       - [Sampling](#sampling)
+      - [Learn Data Distribution Function](#learn-data-distribution-function)
       - [Others](#others)
       - [Survey](#survey-1)
       - [Speical Case](#speical-case)
@@ -154,22 +155,22 @@ Thanks to all authors of the paper/repository I cite :D
 #### Histogram
 1. [Equi-Depth Histograms For Estimating Selectivity Factors For Multi-Dimensional Queries](https://dl.acm.org/doi/pdf/10.1145/971701.50205) [None 87]
 2. [Optimal Histograms for Limiting Worst-Case Error Propagation in the Size of Join Results](https://dl.acm.org/doi/pdf/10.1145/169725.169708) [ACM Transactions on Database Systems 93]
-3. **MHIST**[Selectivity Estimation Without the  Attribute Value Independence Assumption](https://www.madgik.di.uoa.gr/sites/default/files/2018-06/vldb97_pp486-495.pdf)[SIGMOD 97]
+3. [Selectivity Estimation Without the  Attribute Value Independence Assumption](https://www.madgik.di.uoa.gr/sites/default/files/2018-06/vldb97_pp486-495.pdf) (**MHIST**) [SIGMOD 97]
 4. [On Rectangular Partitionings in Two Dimensions: Algorithms, Complexity, and Applications](https://link.springer.com/chapter/10.1007/3-540-49257-7_16) [ICDT 99]
-5. **GENHIST**[Approximating multi-dimensional aggregate range queries over real attributes](https://dl.acm.org/doi/pdf/10.1145/335191.335448) [SIGMOD 00]
-6. **DBHist**[Independence is good: Dependency-based histogram synopses for high-dimensional data](https://dl.acm.org/doi/pdf/10.1145/376284.375685) [SIGMOD 01]
+5. [Approximating multi-dimensional aggregate range queries over real attributes](https://dl.acm.org/doi/pdf/10.1145/335191.335448) (**GENHIST**) [SIGMOD 00]
+6. [Independence is good: Dependency-based histogram synopses for high-dimensional data](https://dl.acm.org/doi/pdf/10.1145/376284.375685) (**DBHist**) [SIGMOD 01]
 7. [STHoles: a multidimensional workload-aware histogram](http://www.cs.columbia.edu/~gravano/Papers/2001/sigmod01b.pdf) [SIGMOD 01]
 8. [Selectivity Estimation using Probabilistic Models](https://dl.acm.org/doi/pdf/10.1145/375663.375727)[SIGMOD 01]
 9. [A multi-dimensional histogram for selectivity estimation and fast approximate query answering](https://dl.acm.org/doi/pdf/10.5555/961322.961374) [CASCON 03]
 10. [The history of histograms (abridged)](https://www.vldb.org/conf/2003/papers/S02P01.pdf) [VLDB 03]
-11. [SASH: A Self-Adaptive Histogram Set for  Dynamically Changing Workloads](https://www.ittc.ku.edu/~jsv/Papers/LWV03.sash.pdf)[VLDB 03]
-12. **GENHIST**[Selectivity estimators for multidimensional range queries over real attributes](https://cs.gmu.edu/~carlotta/publications/vldb090.pdf) [VLDB 03]
+11. [SASH: A Self-Adaptive Histogram Set for Dynamically Changing Workloads](https://www.ittc.ku.edu/~jsv/Papers/LWV03.sash.pdf)[VLDB 03]
+12. [Selectivity estimators for multidimensional range queries over real attributes](https://cs.gmu.edu/~carlotta/publications/vldb090.pdf) (**GENHIST**) [VLDB 03]
 13. [ISOMER: Consistent histogram construction using query feedback](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=55708905fb9ecd1ffa2f41638410f672147ccdaa) [ICDE 06]
 14. [Join Over Histograms](http://www.adellera.it/static_html/investigations/join_over_histograms/JoinOverHistograms.pdf) [Alberto Dell'Era 07]
 15. [Consistent Histograms In The Presence of Distinct Value Counts](https://dl.acm.org/doi/pdf/10.14778/1687627.1687723)[VLDB 08]
 16. [Lightweight Graphical Models for Selectivity Estimation Without Independence Assumptions](https://dl.acm.org/doi/pdf/10.14778/3402707.3402724)[VLDB 11]
 17. [Efficiently adapting graphical models for selectivity estimation](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/papers/tzoumas_VLDB_2013.pdf)[VLDB 13]
-18. [Improving Accuracy and Robustness of  Self-Tuning Histograms by Subspace Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7067401)[TKDE 15]
+18. [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7067401)[TKDE 15]
 
 #### Sampling
 
