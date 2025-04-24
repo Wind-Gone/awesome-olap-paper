@@ -39,7 +39,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Learn Data Distribution Function](#learn-data-distribution-function)
       - [Others](#others)
       - [Survey](#survey-1)
-      - [Speical Case](#speical-case)
+      - [Special Case](#special-case)
     - [Join Order](#join-order)
     - [Join Algorithms](#join-algorithms)
     - [Cost Model](#cost-model)
@@ -195,12 +195,11 @@ Thanks to all authors of the paper/repository I cite :D
 8.  [Cardinality Estimation for Having-Clauses](https://www.vldb.org/pvldb/vol18/p28-moerkotte.pdf) [VLDB 25]
 
 #### Survey
-
 1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf)[A detailed book published in 2012]
 2. [Preventing bad plans by bounding the impact of cardinality estimation errors](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=986d26dd8fa2355e9356ab2740b76e691cb22a15) [VLDB 09]
 3. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
 
-#### Speical Case
+#### Special Case
 12. [Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes](https://dl.acm.org/doi/pdf/10.1145/3626755) [SIGMOD 24]
 
 ### Join Order
@@ -231,7 +230,6 @@ Thanks to all authors of the paper/repository I cite :D
 11. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
 
 ### Cost Model
-
 1. [LEO – DB2’s LEarning Optimizer](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/stillger-vldb2001.pdf) [VLDB 11]
 2. [Predicting query execution time: are optimizer cost models really unusable?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6544899) [ICDE 13]
 3. [Towards Predicting Query Execution Time for Concurrent and Dynamic Database Workloads](https://pages.cs.wisc.edu/~wentaowu/papers/vldb13-prediction-cc.pdf) [VLDB 13]
@@ -286,7 +284,6 @@ Thanks to all authors of the paper/repository I cite :D
 ## Bugs Detection
 
 ### Functional Bug
-
 #### Logical Bug
 1. [Search-Based Test Data Generation for SQL Queries](https://dl.acm.org/doi/10.1145/3180155.3180202) [ICSE 18]
 2. [Finding Bugs in Database Systems via Query Partitioning](https://dl.acm.org/doi/pdf/10.1145/3428279) [OOPSLA 20]
@@ -316,6 +313,7 @@ Thanks to all authors of the paper/repository I cite :D
 26. [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems]() [VLDB 25]
 27. [Detecting Isolation Anomalies in Relational DBMSs]() [ISSTA 25]
 28. [Model Checking Guided Incremental Testing for Distributed Systems]() [ISSTA 25]
+29. [Scaling Automated Database System Testing](https://arxiv.org/pdf/2503.21424) [arXiv 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
