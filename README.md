@@ -42,6 +42,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Special Case](#special-case)
     - [Join Order](#join-order)
     - [Join Algorithms](#join-algorithms)
+    - [Sub-Query](#sub-query)
     - [Cost Model](#cost-model)
     - [View](#view)
     - [Survey](#survey-2)
@@ -219,15 +220,19 @@ Thanks to all authors of the paper/repository I cite :D
 ### Join Algorithms
 1. [Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems](https://15721.courses.cs.cmu.edu/spring2023/papers/12-sortmergejoins/p1064-albutiu.pdf) [VLDB 12]
 2. [Leapfrog Triejoin: a worst-case optimal join algorithm](https://arxiv.org/pdf/1210.0481.pdf) [International Conference on Database Theory 12]
-3. [An Experimental Comparison of Thirteen Relational Equi-Joins in Main Memory](https://15721.courses.cs.cmu.edu/spring2018/papers/19-hashjoins/schuh-sigmod2016.pdf) [SIGMOD 16]
-4. [Worst-Case Optimal Join Algorithms: Techniques, Results, and Open Problems](https://arxiv.org/pdf/1803.09930.pdf) [SIGMOD 18]
-5. [Adopting Worst-Case Optimal Joins in Relational Database Systems](https://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) [VLDB 20]
-6. [Free Join: Unifying Worst-Cast Optimal and Traditional Joins](https://arxiv.org/pdf/2301.10841.pdf) [arXiv 23]
-7. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
-8. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
-9. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores]() [SIGMOD 25]
-10. [SwiftSpatial: Spatial Joins on Modern Hardware]() [SIGMOD 25]
-11. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
+3. [Lightning Fast and Space Efficient Inequality Joins](https://vldb.org/pvldb/vol8/p2074-khayyat.pdf) [VLDB 15]
+4. [An Experimental Comparison of Thirteen Relational Equi-Joins in Main Memory](https://15721.courses.cs.cmu.edu/spring2018/papers/19-hashjoins/schuh-sigmod2016.pdf) [SIGMOD 16]
+5. [Worst-Case Optimal Join Algorithms: Techniques, Results, and Open Problems](https://arxiv.org/pdf/1803.09930.pdf) [SIGMOD 18]
+6. [Adopting Worst-Case Optimal Joins in Relational Database Systems](https://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) [VLDB 20]
+7. [Free Join: Unifying Worst-Cast Optimal and Traditional Joins](https://arxiv.org/pdf/2301.10841.pdf) [arXiv 23]
+8. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
+9. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
+10. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores]() [SIGMOD 25]
+11. [SwiftSpatial: Spatial Joins on Modern Hardware]() [SIGMOD 25]
+12. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
+
+### Sub-Query
+1. [Unnesting Arbitrary Queries](https://btw-2015.informatik.uni-hamburg.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf) [15]
 
 ### Cost Model
 1. [LEO – DB2’s LEarning Optimizer](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/stillger-vldb2001.pdf) [VLDB 11]
@@ -255,8 +260,9 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Index
 1. [SQL Server Column Store Indexes](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/p1177-larson.pdf) [SIGMOD 11]
-2. [Column Sketches: A Scan Accelerator for Rapid and Robust Predicate Evaluation](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/hentschel-sigmod18.pdf) [SIGMOD 18]
-3. [CUBIT: Concurrent Updatable Bitmap Indexing](https://www.vldb.org/pvldb/vol18/p399-athanassoulis.pdf) [VLDB 25]
+2. [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf) [ICDE 13]
+3. [Column Sketches: A Scan Accelerator for Rapid and Robust Predicate Evaluation](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/hentschel-sigmod18.pdf) [SIGMOD 18]
+4. [CUBIT: Concurrent Updatable Bitmap Indexing](https://www.vldb.org/pvldb/vol18/p399-athanassoulis.pdf) [VLDB 25]
 
 ## Query Execution
 1. [MonetDB/X100: Hyper-Pipelining Query Execution](https://www.cidrdb.org/cidr2005/papers/P19.pdf) [CIDR 05] 
