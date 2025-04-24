@@ -108,6 +108,7 @@ Thanks to all authors of the paper/repository I cite :D
 10. [SAM: Database Generation from Query Workloads with Supervised Autoregressive Models](https://dl.acm.org/doi/pdf/10.1145/3514221.3526168) [SIGMOD 22] [![](https://img.shields.io/github/stars/Jamesyang2333/SAM?style=social&label=Code+Stars)](https://github.com/Jamesyang2333/SAM)
 11. [Mirage: Generating Enormous Databases for Complex Workloads](https://www.computer.org/csdl/proceedings-article/icde/2024/171500d989/1YOtBpuCaTS) [ICDE 24]
 12. [Query Aware Database Generation for Match Operators](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_18) [DASFAA 24]
+13. [Controllable Tabular Data Synthesis Using Diffusion Models](https://dl.acm.org/doi/pdf/10.1145/3639283#page=1.57) [SIGMOD 24]
 
 ### Privacy
 1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
