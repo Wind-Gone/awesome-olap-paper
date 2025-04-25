@@ -169,21 +169,19 @@ Thanks to all authors of the paper/repository I cite :D
 12. [Selectivity estimators for multidimensional range queries over real attributes](https://cs.gmu.edu/~carlotta/publications/vldb090.pdf) (**GENHIST**) [VLDB 03]
 13. [ISOMER: Consistent histogram construction using query feedback](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=55708905fb9ecd1ffa2f41638410f672147ccdaa) [ICDE 06]
 14. [Join Over Histograms](http://www.adellera.it/static_html/investigations/join_over_histograms/JoinOverHistograms.pdf) [Alberto Dell'Era 07]
-15. [Consistent Histograms In The Presence of Distinct Value Counts](https://dl.acm.org/doi/pdf/10.14778/1687627.1687723)[VLDB 08]
-16. [Lightweight Graphical Models for Selectivity Estimation Without Independence Assumptions](https://dl.acm.org/doi/pdf/10.14778/3402707.3402724)[VLDB 11]
-17. [Efficiently adapting graphical models for selectivity estimation](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/papers/tzoumas_VLDB_2013.pdf)[VLDB 13]
-18. [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7067401)[TKDE 15]
+15. [Consistent Histograms In The Presence of Distinct Value Counts](https://dl.acm.org/doi/pdf/10.14778/1687627.1687723) [VLDB 08]
+16. [Lightweight Graphical Models for Selectivity Estimation Without Independence Assumptions](https://dl.acm.org/doi/pdf/10.14778/3402707.3402724) [VLDB 11]
+17. [Efficiently adapting graphical models for selectivity estimation](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/papers/tzoumas_VLDB_2013.pdf) [VLDB 13]
+18. [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7067401) [TKDE 15]
 
 #### Sampling
-
 1. [Two-Level Sampling for Join Size Estimation](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/p759-chen.pdf) [SIGMOD 17]
 2. [Combining Aggregation and Sampling (Nearly) Optimally for Approximate Query Processing](https://arxiv.org/pdf/2103.15994.pdf) [SIGMOD 21]
 
 #### Learn Data Distribution Function
-
-1. [Self-Tuning, GPU-Accelerated Kernel Density Models for Multidimensional Selectivity Estimation](https://dl.acm.org/doi/pdf/10.1145/2723372.2749438)[SIGMOD 15]
-2. [Estimating Join Selectivities using  Bandwidth-Optimized Kernel Density Models](https://www.vldb.org/pvldb/vol10/p2085-kiefer.pdf)[VLDB 17]
-3. [QuickSel: Quick Selectivity Learning  with Mixture Models](https://dl.acm.org/doi/pdf/10.1145/3318464.3389727)[SIGMOD 20]
+1. [Self-Tuning, GPU-Accelerated Kernel Density Models for Multidimensional Selectivity Estimation](https://dl.acm.org/doi/pdf/10.1145/2723372.2749438) [SIGMOD 15]
+2. [Estimating Join Selectivities using  Bandwidth-Optimized Kernel Density Models](https://www.vldb.org/pvldb/vol10/p2085-kiefer.pdf) [VLDB 17]
+3. [QuickSel: Quick Selectivity Learning  with Mixture Models](https://dl.acm.org/doi/pdf/10.1145/3318464.3389727) [SIGMOD 20]
 4. [LHist: Towards Learning Multidimensional Histogram for Massive Spatial Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458896) [ICDE 21]
 
 #### Others
@@ -196,7 +194,7 @@ Thanks to all authors of the paper/repository I cite :D
 8.  [Cardinality Estimation for Having-Clauses](https://www.vldb.org/pvldb/vol18/p28-moerkotte.pdf) [VLDB 25]
 
 #### Survey
-1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf)[A detailed book published in 2012]
+1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) [A detailed book published in 2012]
 2. [Preventing bad plans by bounding the impact of cardinality estimation errors](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=986d26dd8fa2355e9356ab2740b76e691cb22a15) [VLDB 09]
 3. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
 
