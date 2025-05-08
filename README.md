@@ -224,10 +224,11 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Adopting Worst-Case Optimal Joins in Relational Database Systems](https://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) [VLDB 20]
 7. [Free Join: Unifying Worst-Cast Optimal and Traditional Joins](https://arxiv.org/pdf/2301.10841.pdf) [arXiv 23]
 8. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
-9. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
-10. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores]() [SIGMOD 25]
-11. [SwiftSpatial: Spatial Joins on Modern Hardware]() [SIGMOD 25]
-12. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
+9. [Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [CIDR 24]
+10. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
+11. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores]() [SIGMOD 25]
+12. [SwiftSpatial: Spatial Joins on Modern Hardware]() [SIGMOD 25]
+13. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
 
 ### Sub-Query
 1. [Unnesting Arbitrary Queries](https://btw-2015.informatik.uni-hamburg.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf) [15]
@@ -344,6 +345,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Substructure-aware Log Anomaly Detection](https://www.vldb.org/pvldb/vol18/p213-tang.pdf) [VLDB 25]
 2. [From Logs to Causal Inference: Diagnosing Large Systems]() [VLDB 25]
 3. [RCRank: Multimodal Ranking of Root Causes of Slow Queries in Cloud Database Systems]() [VLDB 25]
+4. [OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution](https://github.com/hjhhsy120/opdiag) [TKDE 25]
 
 ### Code Location
 1. [Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces](https://arxiv.org/pdf/2501.18005) [arXiv 25]
@@ -390,6 +392,8 @@ Thanks to all authors of the paper/repository I cite :D
 5. [GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support]() [SIGMOD 25]
 6. [Wait and See: A Delayed Transactions Partitioning Approach in Deterministic Database Systems for Better Performance]() [SIGMOD 25]
 7. [Moving on From Group Commit: Autonomous Commit Enables High Throughput and Low Latency on NVMe SSDs]() [SIGMOD 25]
+8. [A Hybrid Approach to Integrating Deterministic and Non-deterministic Concurrency Control in Database Systems](https://www.vldb.org/pvldb/vol18/p1376-lu.pdf) [VLDB 25]
+9. [VerIso: Verifiable Isolation Guarantees for Database Transactions](https://www.vldb.org/pvldb/vol18/p1362-ghasemirad.pdf#page=1.25) [VLDB 25]
 
 ### Survey
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
@@ -492,6 +496,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL](https://www.cs.purdue.edu/homes/csjgwang/pubs/ICDE24_VecDB.pdf) [ICDE 24]
 2. [Survey of Vector Database Management Systems](https://arxiv.org/pdf/2310.14021#page=3.39) [VLDBJ 24]
 3. [Vector Database Management Techniques and Systems](https://dl.acm.org/doi/pdf/10.1145/3626246.3654691) [SIGMOD 24]
+4. [BigVectorBench: Heterogeneous Data Embedding and Compound Queries are Essential in Evaluating Vector Databases](https://www.vldb.org/pvldb/vol18/p1536-zhan.pdf) [VLDB 25]
 
 ### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
