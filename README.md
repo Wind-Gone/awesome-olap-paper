@@ -32,6 +32,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Survey](#survey)
   - [Query Schedule](#query-schedule)
   - [Query Optimization](#query-optimization)
+    - [Robust Query Optimization](#robust-query-optimization)
     - [Query Rewrite](#query-rewrite)
     - [Cardinality Estimation](#cardinality-estimation)
       - [Histogram](#histogram)
@@ -139,9 +140,14 @@ Thanks to all authors of the paper/repository I cite :D
 7. [SPQO: Learning to Safely Reuse Cached Plans for Dynamic Workloads](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_21) [DASFAA 24]
 8. [Optimizing Nested Recursive Queries](https://dl.acm.org/doi/pdf/10.1145/3639271) [SIGMOD 24]
 9.  [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
-10. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
 11. [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
 12. [RankPQO: Learning-to-Rank for Parametric Query Optimization](https://www.vldb.org/pvldb/vol18/p863-mo.pdf) [VLDB 25]
+
+### Robust Query Optimization
+1. [Robust query processing through progressive optimization](https://dl.acm.org/doi/abs/10.1145/1007568.1007642) [SIGMOD 04]
+2. [Robust Query Optimization Methods With Respect to Estimation Errors: A Survey](https://dl.acm.org/doi/pdf/10.1145/2854006.2854012) [SIGMOD 15]
+3. [Efficient Query Re-optimization with Judicious Subquery Selections]() [SIGMDO 23]
+4. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2911-bai.pdf) [VLDB 23]
