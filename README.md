@@ -330,6 +330,7 @@ Thanks to all authors of the paper/repository I cite :D
 28. [Detecting Isolation Anomalies in Relational DBMSs]() [ISSTA 25]
 29. [Model Checking Guided Incremental Testing for Distributed Systems]() [ISSTA 25]
 30. [Scaling Automated Database System Testing](https://arxiv.org/pdf/2503.21424) [arXiv 25]
+31. [Testing Database Systems with Large Language Model Synthesized Fragments](https://arxiv.org/pdf/2505.02012) [arXiv 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
