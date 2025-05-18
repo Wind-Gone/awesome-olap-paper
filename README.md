@@ -157,6 +157,8 @@ Thanks to all authors of the paper/repository I cite :D
 5. [QED: A Powerful Query Equivalence Decider for SQL](https://www.vldb.org/pvldb/vol17/p3602-wang.pdf) [VLDB 24]
 6. [VeriEQL: Bounded Equivalence Verification for Complex SQL Queries with Integrity Constraints](https://pinhanzhao.com/papers/oopsla24.pdf) [OOPSLA 24]
 7. [PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification](https://dl.acm.org/doi/pdf/10.1145/3709713) [SIGMOD 25]
+8. [Query Weak Equivalence and Its Verification in Analytical Databases]() [ICDE 25]
+9. [Proving Cypher Query Equivalence]() [ICDE 25]
 
 
 ### Cardinality Estimation
@@ -486,6 +488,7 @@ Thanks to all authors of the paper/repository I cite :D
 7.  [FEBench: A Benchmark for Real-Time Relational Data Feature Extraction](https://www.vldb.org/pvldb/vol16/p3597-lu.pdf) [VLDB 23]
 8.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
 9.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
+10. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases]() [ICDE 25]
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
