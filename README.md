@@ -320,7 +320,7 @@ Thanks to all authors of the paper/repository I cite :D
 16. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
 17. [Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation](https://www.usenix.org/system/files/osdi24-jiang.pdf) [ATC 24]
 18. [THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf) [ICSE 25]
-19. [Semantic Conformance Testing of Relational DBMS](https://zhunki.github.io/paper/VLDB2025.pdf) [VLDB 25]
+19. [Semantic Conformance Testing of Relational DBMS](https://dl.acm.org/doi/pdf/10.14778/3712221.3712247) [VLDB 25]
 20. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models]() [SIGMOD 25]
 21. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
 22. [Constant Optimization Driven Database System Testing](https://dl.acm.org/doi/pdf/10.1145/3709674) [SIGMOD 25]
