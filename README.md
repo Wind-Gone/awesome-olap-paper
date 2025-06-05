@@ -93,6 +93,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Algorithm](#algorithm)
     - [Distributed Systems](#distributed-systems)
     - [OLTP](#oltp-1)
+      - [Survey](#survey-8)
     - [AI4DB](#ai4db)
     - [Industry](#industry)
   - [Star History](#star-history)
@@ -459,6 +460,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
+2. [Fast Parallel Recovery for Transactional Stream Processing on Multicores](https://ieeexplore.ieee.org/document/10597762/) [ICDE 24]
 
 ### Benchmark
 #### Survey
@@ -519,6 +521,8 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Native Distributed Databases: Problems, Challenges and Opportunities](https://www.vldb.org/pvldb/vol17/p4217-xu.pdf) [VLDB 24 Tutorial]
 
 ### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
+#### Survey
+1. [A survey on transactional stream processing](https://link.springer.com/article/10.1007/s00778-023-00814-z) [VLDBJ 23]
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
 ### [Industry](https://github.com/Wind-Gone/DBGiant-Industry-Paper)
 
