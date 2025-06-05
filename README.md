@@ -511,6 +511,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
+2. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.09913) [SIGMOD 25]
 
 ### Distributed Systems
 1. [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168) [arXiv 15]
