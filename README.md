@@ -334,6 +334,9 @@ Thanks to all authors of the paper/repository I cite :D
 28. [Model Checking Guided Incremental Testing for Distributed Systems]() [ISSTA 25]
 29. [Scaling Automated Database System Testing](https://arxiv.org/pdf/2503.21424) [arXiv 25]
 30. [Testing Database Systems with Large Language Model Synthesized Fragments](https://arxiv.org/pdf/2505.02012) [arXiv 25]
+31. [Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction](https://wsdou.github.io/papers/2025-vldb-ddlcheck.pdf) [VLDB 25]
+32. [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://wsdou.github.io/papers/2025-vldb-writecheck.pdf) [VLDB 25]
+33. [Detecting Isolation Anomalies in Relational DBMSs](https://wsdou.github.io/papers/2025-issta-isorel.pdf) [ISSTA 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
