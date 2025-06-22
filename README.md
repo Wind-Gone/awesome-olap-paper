@@ -453,11 +453,12 @@ Thanks to all authors of the paper/repository I cite :D
 
 #### Kernel Optimization
 1. [Adaptive HTAP through elastic resource scheduling](https://arxiv.org/pdf/2004.05437) [SIGMOD 20]
-2. [Proteus: Autonomous Adaptive Storage for Mixed Workloads](https://cs.uwaterloo.ca/~mtabebe/publications/abebeProteus2022TR.pdf) [SIGMOD 22]
-3. [TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads](https://www.vldb.org/pvldb/vol16/p2274-faria.pdf) [VLDB 23]
-4. [Deploying Computational Storage for HTAP DBMSs Takes More Than Just Computation Offloading](https://www.vldb.org/pvldb/vol16/p1480-jung.pdf) [VLDB 23]
-5. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework](https://www.computer.org/csdl/proceedings-article/icde/2024/171500c096/1YOtqw9cWJ2) [ICDE 24]
-6. [Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP](https://vldb.org/pvldb/vol17/p3290-schmidt.pdf) [VLDB 24]
+2. [Hybrid transactional/analytical processing amplifies io in lsm-trees](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9940292) [IEEE 22]
+3. [Proteus: Autonomous Adaptive Storage for Mixed Workloads](https://cs.uwaterloo.ca/~mtabebe/publications/abebeProteus2022TR.pdf) [SIGMOD 22]
+4. [TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads](https://www.vldb.org/pvldb/vol16/p2274-faria.pdf) [VLDB 23]
+5. [Deploying Computational Storage for HTAP DBMSs Takes More Than Just Computation Offloading](https://www.vldb.org/pvldb/vol16/p1480-jung.pdf) [VLDB 23]
+6. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework](https://www.computer.org/csdl/proceedings-article/icde/2024/171500c096/1YOtqw9cWJ2) [ICDE 24]
+7. [Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP](https://vldb.org/pvldb/vol17/p3290-schmidt.pdf) [VLDB 24]
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
