@@ -335,6 +335,7 @@ Thanks to all authors of the paper/repository I cite :D
 29. [Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction](https://wsdou.github.io/papers/2025-vldb-ddlcheck.pdf) [VLDB 25]
 30. [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://wsdou.github.io/papers/2025-vldb-writecheck.pdf) [VLDB 25]
 31. [Detecting Isolation Anomalies in Relational DBMSs](https://wsdou.github.io/papers/2025-issta-isorel.pdf) [ISSTA 25]
+32. [Vbox: Efficient Black-Box Serializability Verification](https://arxiv.org/pdf/2503.05163) [arXiv 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
@@ -448,7 +449,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [HTAP Databases: What is New and What is Next](https://dl.acm.org/doi/pdf/10.1145/3514221.3522565) [SIGMOD 22]
 2. [Data Sharing Model and Optimization Strategies in HTAP Database Systems](https://www.jos.org.cn/josen/article/pdf/6901) [Journal of Software 23]
 3. [HTAP Databases: A Survey](https://arxiv.org/pdf/2404.15670) [TKDE 24]
-4. [ A survey on hybrid transactional and analytical processing](https://link.springer.com/article/10.1007/s00778-024-00858-9) [VLDB Journal 24]
+4. [A survey on hybrid transactional and analytical processing](https://link.springer.com/article/10.1007/s00778-024-00858-9) [VLDB Journal 24]
 5. [Survey on Benchmarking Ability of HTAP Benchmarks](https://www.jos.org.cn/jos/article/abstract/7225) [Journal of Software 24]
 
 #### Kernel Optimization
