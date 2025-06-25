@@ -64,6 +64,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [LSM-Tree](#lsm-tree)
     - [Kd-Tree](#kd-tree)
   - [Proxy](#proxy)
+  - [Data Transfer](#data-transfer)
   - [Data Loading](#data-loading)
   - [Database Kernel](#database-kernel)
     - [Transactions](#transactions)
@@ -202,6 +203,7 @@ Thanks to all authors of the paper/repository I cite :D
 6.  [JoinSketch: A Sketch Algorithm for Accurate and Unbiased Inner-Product Estimation](https://yangtonghome.github.io/uploads/JoinSketch_2023.pdf) [SIGMOD 23]
 7.  [Efficient and Effective Cardinality Estimation for Skyline Family](https://dl.acm.org/doi/abs/10.1145/3588958) [SIGMOD 23]
 8.  [Cardinality Estimation for Having-Clauses](https://www.vldb.org/pvldb/vol18/p28-moerkotte.pdf) [VLDB 25]
+9.  [Faper: Join Tree with Uncertainty Awareness for Faster, More Precise and Robust Cardinality Estimation](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_33) [PAKDD 25]
 
 #### Survey
 1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) [A detailed book published in 2012]
@@ -385,6 +387,9 @@ Thanks to all authors of the paper/repository I cite :D
 ## Proxy
 1. [Tigger: A Database Proxy That Bounces With User-Bypass](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf) [[VLDB 23](https://github.com/mbutrovich/tigger)]
 
+## Data Transfer
+1. [Fast and Scalable Data Transfer Across Data Systems](https://dl.acm.org/doi/pdf/10.1145/3725294) [SIGMOD 25]
+
 ## Data Loading
 1. [ConnectorX: Accelerating Data Loading From Databases to Dataframes](https://15721.courses.cs.cmu.edu/spring2024/papers/12-networking/p2994-wang.pdf) [VLDB 22]
 
@@ -476,10 +481,11 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Dike: A Benchmark Suite for Distributed Transactional Databases](https://dl.acm.org/doi/pdf/10.1145/3555041.3589710) [SIGMOD 23]
 2. [DBPA: A Benchmark for Transactional Database Performance Anomalies](https://dl.acm.org/doi/pdf/10.1145/3588926) [SIGMOD 23]
 #### OLAP
-1. [Why You Should Run TPC-DS: A Workload Analysis](https://www.vldb.org/conf/2007/papers/industrial/p1138-poess.pdf) [VLDB 07]
-2. [The Making of TPC-DS](https://vldb.org/conf/2006/p1049-othayoth.pdf) [VLDB 06]
-3. [TPC-DS, Taking Decision Support Benchmarking to the Next Level](https://dl.acm.org/doi/abs/10.1145/564691.564759) [SIGMOD 02]
-4. [Generating Thousands of Benchmark Queries in Seconds](https://www.vldb.org/archives/website/2004/protected/eProceedings/contents/pdf/IND2P3.PDF) [VLDB 04]
+1. [TPC-DS, Taking Decision Support Benchmarking to the Next Level](https://dl.acm.org/doi/abs/10.1145/564691.564759) [SIGMOD 02]
+2. [Generating Thousands of Benchmark Queries in Seconds](https://www.vldb.org/archives/website/2004/protected/eProceedings/contents/pdf/IND2P3.PDF) [VLDB 04]
+4. [The Making of TPC-DS](https://vldb.org/conf/2006/p1049-othayoth.pdf) [VLDB 06]
+5. [Why You Should Run TPC-DS: A Workload Analysis](https://www.vldb.org/conf/2007/papers/industrial/p1138-poess.pdf) [VLDB 07]
+6. [Introducing Skew into the TPC-H Benchmark]() [21]
 #### HTAP 
 1. [How Good is My HTAP System?](https://dl.acm.org/doi/pdf/10.1145/3514221.3526148) [SIGMOD 22] [![](https://img.shields.io/github/stars/UWHustle/HATtrick?style=social&label=Code+Stars)](https://github.com/UWHustle/HATtrick)
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
@@ -526,6 +532,7 @@ Thanks to all authors of the paper/repository I cite :D
 ### [OLTP](https://github.com/wengsy150943/Paper4OLTPandConcurrencyTesting)
 #### Survey
 1. [A survey on transactional stream processing](https://link.springer.com/article/10.1007/s00778-023-00814-z) [VLDBJ 23]
+2. [Are Database System Researchers Making Correct Assumptions about Transaction Workloads?](https://dl.acm.org/doi/pdf/10.1145/3725268) [SIGMOD 25]
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
 ### [Industry](https://github.com/Wind-Gone/DBGiant-Industry-Paper)
 
