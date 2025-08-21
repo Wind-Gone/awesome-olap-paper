@@ -85,6 +85,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [OLTP](#oltp)
       - [OLAP](#olap)
       - [HTAP](#htap-1)
+      - [Cloud](#cloud)
       - [Others](#others-2)
     - [Time Series](#time-series)
     - [Multi-Model](#multi-model)
@@ -209,6 +210,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) [A detailed book published in 2012]
 2. [Preventing bad plans by bounding the impact of cardinality estimation errors](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=986d26dd8fa2355e9356ab2740b76e691cb22a15) [VLDB 09]
 3. [Analyzing the Impact of Cardinality Estimation on Execution Plans in Microsof SQL Server](https://www.vldb.org/pvldb/vol16/p2871-dutt.pdf) [VLDB 23]
+4. [The Accuracy of Cardinality Estimators: Unraveling the Evaluation Result Conundrum](https://www.vldb.org/pvldb/vol18/p3744-rashedi.pdf) [VLDB 25]
 
 #### Special Case
 12. [Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes](https://dl.acm.org/doi/pdf/10.1145/3626755) [SIGMOD 24]
@@ -268,6 +270,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation](https://dl.acm.org/doi/pdf/10.14778/3503585.3503586) [VLDB 22]
 7. [Data dependencies for query optimization: a survey](https://link.springer.com/article/10.1007/s00778-021-00676-3) [VLDBJ 22]
 8. [Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VLDB 23]
+9. [How to Optimize SQL Queries? A Comparison Between Split, Holistic, and Hybrid Approaches](https://www.vldb.org/pvldb/vol18/p3910-gretscher.pdf) [VLDB 25]
 
 ### Index
 1. [SQL Server Column Store Indexes](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/p1177-larson.pdf) [SIGMOD 11]
@@ -378,8 +381,9 @@ Thanks to all authors of the paper/repository I cite :D
 5. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
 6. [Disco: A Compact Index for LSM-trees](https://dl.acm.org/doi/pdf/10.1145/3709683) [SIGMOD 25]
 7. [Randomized Sketches for Quantile in LSM-tree based Store](https://dl.acm.org/doi/pdf/10.1145/3709717) [SIGMOD 25]
-8. [Rethinking The Compaction Policies in LSM-trees]() [SIGMOD 25]
-9. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores]() [SIGMOD 25]
+8. [Rethinking The Compaction Policies in LSM-trees](https://dl.acm.org/doi/10.1145/3725344) [SIGMOD 25]
+9. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores](https://dl.acm.org/doi/10.1145/3725284) [SIGMOD 25]
+10. [Rethinking LSM-tree based Key-Value Stores: A Survey](https://arxiv.org/pdf/2507.09642) [arXiv 25]
 
 ### Kd-Tree
 1. [Parallel kd-tree with Batch Updates](https://dl.acm.org/doi/pdf/10.1145/3709712) [SIGMOD 25]
@@ -489,6 +493,13 @@ Thanks to all authors of the paper/repository I cite :D
 #### HTAP 
 1. [How Good is My HTAP System?](https://dl.acm.org/doi/pdf/10.1145/3514221.3526148) [SIGMOD 22] [![](https://img.shields.io/github/stars/UWHustle/HATtrick?style=social&label=Code+Stars)](https://github.com/UWHustle/HATtrick)
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
+
+#### Cloud
+1. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking]() [VLDB 25]
+2. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases]() [ICDE 25]
+
+
+
 #### Others 
 1. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
 2. [Cloud Analytics Benchmark](https://www.vldb.org/pvldb/vol16/p1413-renen.pdf) [VLDB 23]
@@ -499,7 +510,7 @@ Thanks to all authors of the paper/repository I cite :D
 7.  [FEBench: A Benchmark for Real-Time Relational Data Feature Extraction](https://www.vldb.org/pvldb/vol16/p3597-lu.pdf) [VLDB 23]
 8.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
 9.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
-10. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases]() [ICDE 25]
+10. [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf) [VLDB 24]
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
@@ -533,6 +544,7 @@ Thanks to all authors of the paper/repository I cite :D
 #### Survey
 1. [A survey on transactional stream processing](https://link.springer.com/article/10.1007/s00778-023-00814-z) [VLDBJ 23]
 2. [Are Database System Researchers Making Correct Assumptions about Transaction Workloads?](https://dl.acm.org/doi/pdf/10.1145/3725268) [SIGMOD 25]
+
 ### [AI4DB](https://github.com/Wind-Gone/Ai4DB-Paper)
 ### [Industry](https://github.com/Wind-Gone/DBGiant-Industry-Paper)
 
