@@ -132,6 +132,7 @@ Thanks to all authors of the paper/repository I cite :D
 3. [LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems](https://dl.acm.org/doi/pdf/10.1145/3514221.3526158) [SIGMOD 22]
 4. [Rotary: A Resource Arbitration Framework for Progressive Iterative Analytics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184533) [ICDE 23]
 5. [Laser: Buffer-Aware Learned Query Scheduling in Master-Standby Databases](https://www.vldb.org/pvldb/vol18/p743-li.pdf) [VLDB 25]
+6. [Improving DBMS Scheduling Decisions with Accurate Performance Prediction on Concurrent Queries](https://www.vldb.org/pvldb/vol18/p4185-wu.pdf) [VLDB 25]
    
 
 ## Query Optimization
