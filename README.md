@@ -272,6 +272,7 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Data dependencies for query optimization: a survey](https://link.springer.com/article/10.1007/s00778-021-00676-3) [VLDBJ 22]
 8. [Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis](https://www.vldb.org/pvldb/vol16/p2962-zhang.pdf) [VLDB 23]
 9. [How to Optimize SQL Queries? A Comparison Between Split, Holistic, and Hybrid Approaches](https://www.vldb.org/pvldb/vol18/p3910-gretscher.pdf) [VLDB 25]
+10. [Workload Insights From The Snowflake Data Cloud: What Do Production Analytic Queries Really Look Like?](https://www.vldb.org/pvldb/vol18/p5126-bress.pdf) [VLDB 25]
 
 ### Index
 1. [SQL Server Column Store Indexes](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/p1177-larson.pdf) [SIGMOD 11]
