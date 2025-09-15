@@ -279,6 +279,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf) [ICDE 13]
 3. [Column Sketches: A Scan Accelerator for Rapid and Robust Predicate Evaluation](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/hentschel-sigmod18.pdf) [SIGMOD 18]
 4. [CUBIT: Concurrent Updatable Bitmap Indexing](https://www.vldb.org/pvldb/vol18/p399-athanassoulis.pdf) [VLDB 25]
+5. [B-Trees Are Back: Engineering Fast and Pageable Node Layouts](https://dl.acm.org/doi/pdf/10.1145/3709664) [SIGMOD 25]
 
 ## Query Execution
 1. [MonetDB/X100: Hyper-Pipelining Query Execution](https://www.cidrdb.org/cidr2005/papers/P19.pdf) [CIDR 05] 
@@ -373,19 +374,26 @@ Thanks to all authors of the paper/repository I cite :D
 ## Storage
 1. [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf) [VLDB 23]
 2. [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf) [VLDB 24]
-3. [Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine](https://dl.acm.org/doi/pdf/10.1145/3626246.3653368) [SIGMOD 24]
-4. [Boosting OLTP Performance with Per-Page Logging on NVDIMM](https://dl.acm.org/doi/pdf/10.1145/3709667) [SIGMOD 25]
+3. [Leco: Lightweight compression via learning serial correlations](https://dl.acm.org/doi/abs/10.1145/3639320) [SIGMOD 24]
+4. [Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine](https://dl.acm.org/doi/pdf/10.1145/3626246.3653368) [SIGMOD 24]
+5. [NULLS! Revisiting Null Representation in Modern Columnar Formats](https://db.cs.cmu.edu/papers/2024/zeng-damon24.pdf) [DaMoN 24]
+6. [Boosting OLTP Performance with Per-Page Logging on NVDIMM](https://dl.acm.org/doi/pdf/10.1145/3709667) [SIGMOD 25]
+7. [Data formats in analytical DBMSs: performance trade-offs and future directions](https://link.springer.com/article/10.1007/s00778-025-00911-1) [VLDBJ 25]
+8. [Data chunk compaction in vectorized execution](https://dl.acm.org/doi/abs/10.1145/3709676) [SIGMOD 25]
+9. [Lance: Efficient Random Access in Columnar Storage through Adaptive Structural Encodings](https://arxiv.org/pdf/2504.15247) [arXiv 25]
+
+
+
 ### LSM-Tree
 1. [Dissecting, Designing, and Optimizing LSM-based Data Stores](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563) [SIGMOD 22 Tutorial]
 2. [Magma: A High Data Density Storage Engine Used in Couchbase](https://www.vldb.org/pvldb/vol15/p3496-lakshman.pdf#page=1.23) [VLDB 22]
 3. [CaaS-LSM: Compaction-as-a-Service for LSM-based Key-Value Stores in Storage Disaggregated Infrastructure](https://qiaolin-yu.github.io/pubs/V2mod124-yu.pdf) [SIGMOD 24]
-4. [NULLS! Revisiting Null Representation in Modern Columnar Formats](https://db.cs.cmu.edu/papers/2024/zeng-damon24.pdf) [DaMoN 24]
-5. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
-6. [Disco: A Compact Index for LSM-trees](https://dl.acm.org/doi/pdf/10.1145/3709683) [SIGMOD 25]
-7. [Randomized Sketches for Quantile in LSM-tree based Store](https://dl.acm.org/doi/pdf/10.1145/3709717) [SIGMOD 25]
-8. [Rethinking The Compaction Policies in LSM-trees](https://dl.acm.org/doi/10.1145/3725344) [SIGMOD 25]
-9. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores](https://dl.acm.org/doi/10.1145/3725284) [SIGMOD 25]
-10. [Rethinking LSM-tree based Key-Value Stores: A Survey](https://arxiv.org/pdf/2507.09642) [arXiv 25]
+4. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
+5. [Disco: A Compact Index for LSM-trees](https://dl.acm.org/doi/pdf/10.1145/3709683) [SIGMOD 25]
+6. [Randomized Sketches for Quantile in LSM-tree based Store](https://dl.acm.org/doi/pdf/10.1145/3709717) [SIGMOD 25]
+7. [Rethinking The Compaction Policies in LSM-trees](https://dl.acm.org/doi/10.1145/3725344) [SIGMOD 25]
+8. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores](https://dl.acm.org/doi/10.1145/3725284) [SIGMOD 25]
+9.  [Rethinking LSM-tree based Key-Value Stores: A Survey](https://arxiv.org/pdf/2507.09642) [arXiv 25]
 
 ### Kd-Tree
 1. [Parallel kd-tree with Batch Updates](https://dl.acm.org/doi/pdf/10.1145/3709712) [SIGMOD 25]
