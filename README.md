@@ -344,6 +344,7 @@ Thanks to all authors of the paper/repository I cite :D
 30. [Detecting Isolation Anomalies in Relational DBMSs](https://wsdou.github.io/papers/2025-issta-isorel.pdf) [ISSTA 25]
 31. [Vbox: Efficient Black-Box Serializability Verification](https://arxiv.org/pdf/2503.05163) [arXiv 25]
 32. [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [VLDB 25]
+33. [DDLUMOS: Understanding and Detecting Atomic DDL Bugs in DBMSs](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/atomic_ddl_ATC25.pdf) [ATC 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
@@ -482,6 +483,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [Deploying Computational Storage for HTAP DBMSs Takes More Than Just Computation Offloading](https://www.vldb.org/pvldb/vol16/p1480-jung.pdf) [VLDB 23]
 6. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework](https://www.computer.org/csdl/proceedings-article/icde/2024/171500c096/1YOtqw9cWJ2) [ICDE 24]
 7. [Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP](https://vldb.org/pvldb/vol17/p3290-schmidt.pdf) [VLDB 24]
+8. [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems](https://dl.acm.org/doi/pdf/10.14778/3748191.3748197?__cf_chl_tk=wII2Ti_pN0yqsVs3WEHQTHCJmf2uQYaUryBdJ2Q5ycc-1758098227-1.0.1.1-W7iJAUumhYhdEqNghpw_a1QYSUeWJMVmqw.bjovTCaA) [VLDB 25]
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
@@ -508,8 +510,8 @@ Thanks to all authors of the paper/repository I cite :D
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
 
 #### Cloud
-1. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking]() [VLDB 25]
-2. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases]() [ICDE 25]
+1. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379) [VLDB 25]
+2. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf) [ICDE 25]
 
 
 
