@@ -397,6 +397,7 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Rethinking The Compaction Policies in LSM-trees](https://dl.acm.org/doi/10.1145/3725344) [SIGMOD 25]
 8. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores](https://dl.acm.org/doi/10.1145/3725284) [SIGMOD 25]
 9.  [Rethinking LSM-tree based Key-Value Stores: A Survey](https://arxiv.org/pdf/2507.09642) [arXiv 25]
+10. [How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice](https://dl.acm.org/doi/pdf/10.1145/3725310) [SIGMOD 25]
 
 ### Kd-Tree
 1. [Parallel kd-tree with Batch Updates](https://dl.acm.org/doi/pdf/10.1145/3709712) [SIGMOD 25]
