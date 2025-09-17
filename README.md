@@ -420,13 +420,13 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Practical DB-OS Co-Design with Privileged Kernel Bypass](https://dl.acm.org/doi/pdf/10.1145/3709714) [SIGMOD 25]
 
 ### Transactions
-1. [Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt?]() [SIGMOD 25]
-2. [Are database system researchers making correct assumptions about transaction workloads?]() [SIGMOD 25]
-3. [BPF-DB: A Kernel-Embedded Transactional Database Management System For eBPF Applications]() [SIGMOD 25]
-4. [Styx: Transactional Stateful Functions on Streaming Dataflows]() [SIGMOD 25]
-5. [GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support]() [SIGMOD 25]
-6. [Wait and See: A Delayed Transactions Partitioning Approach in Deterministic Database Systems for Better Performance]() [SIGMOD 25]
-7. [Moving on From Group Commit: Autonomous Commit Enables High Throughput and Low Latency on NVMe SSDs]() [SIGMOD 25]
+1. [Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt?](https://dl.acm.org/doi/pdf/10.1145/3725319) [SIGMOD 25]
+2. [Are database system researchers making correct assumptions about transaction workloads?](https://dl.acm.org/doi/pdf/10.1145/3725268) [SIGMOD 25]
+3. [BPF-DB: A Kernel-Embedded Transactional Database Management System For eBPF Applications](https://dl.acm.org/doi/pdf/10.1145/3725272) [SIGMOD 25]
+4. [Styx: Transactional Stateful Functions on Streaming Dataflows](https://dl.acm.org/doi/pdf/10.1145/3725363) [SIGMOD 25]
+5. [GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support](https://dl.acm.org/doi/pdf/10.1145/3725305) [SIGMOD 25]
+6. [Wait and See: A Delayed Transactions Partitioning Approach in Deterministic Database Systems for Better Performance](https://dl.acm.org/doi/pdf/10.1145/3725422) [SIGMOD 25]
+7. [Moving on From Group Commit: Autonomous Commit Enables High Throughput and Low Latency on NVMe SSDs](https://dl.acm.org/doi/pdf/10.1145/3725328) [SIGMOD 25]
 8. [A Hybrid Approach to Integrating Deterministic and Non-deterministic Concurrency Control in Database Systems](https://www.vldb.org/pvldb/vol18/p1376-lu.pdf) [VLDB 25]
 9. [VerIso: Verifiable Isolation Guarantees for Database Transactions](https://www.vldb.org/pvldb/vol18/p1362-ghasemirad.pdf#page=1.25) [VLDB 25]
 
