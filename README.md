@@ -299,7 +299,8 @@ Thanks to all authors of the paper/repository I cite :D
 15. [The Key to Effective UDF Optimization: Before Inlining, First Perform Outlining](https://www.vldb.org/pvldb/vol18/p1-arch.pdf) [VLDB 25]
 16. [High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/umami.pdf) [SIGMOD 25]
 17. [Data Chunk Compaction in Vectorized Execution](https://dl.acm.org/doi/pdf/10.1145/3709676) [SIGMOD 25]
-18. [FAAQP: Fast and Accurate Approximate Query Processing based on Bitmap-augmented Sum-Product Network]() [SIGMOD 25]
+18. [FAAQP: Fast and Accurate Approximate Query Processing based on Bitmap-augmented Sum-Product Network](https://dl.acm.org/doi/abs/10.1145/3725292) [SIGMOD 25]
+19. [OLTP in the Cloud: Architectures, Tradeoffs, and Cost](https://dl.acm.org/doi/abs/10.1007/s00778-025-00913-z) [VLDB 25]
 
 ## Data Dependency Search
 1. [Discovering Functional Dependencies through Hitting Set Enumeration](https://dl.acm.org/doi/pdf/10.1145/3639298) [SIGMOD 24]
