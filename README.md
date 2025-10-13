@@ -114,7 +114,7 @@ Thanks to all authors of the paper/repository I cite :D
 11. [Mirage: Generating Enormous Databases for Complex Workloads](https://www.computer.org/csdl/proceedings-article/icde/2024/171500d989/1YOtBpuCaTS) [ICDE 24]
 12. [Query Aware Database Generation for Match Operators](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_18) [DASFAA 24]
 13. [Controllable Tabular Data Synthesis Using Diffusion Models](https://dl.acm.org/doi/pdf/10.1145/3639283#page=1.57) [SIGMOD 24]
-14. [A Query-Aware Enormous Database Generator For System Performance Evaluation]() [SIGMOD 25]
+14. [A Query-Aware Enormous Database Generator For System Performance Evaluation](https://dl.acm.org/doi/pdf/10.1145/3722212.3725076) [SIGMOD 25]
 
 ### Privacy
 1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
