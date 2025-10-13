@@ -384,7 +384,8 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Data formats in analytical DBMSs: performance trade-offs and future directions](https://link.springer.com/article/10.1007/s00778-025-00911-1) [VLDBJ 25]
 8. [Data chunk compaction in vectorized execution](https://dl.acm.org/doi/abs/10.1145/3709676) [SIGMOD 25]
 9. [Lance: Efficient Random Access in Columnar Storage through Adaptive Structural Encodings](https://arxiv.org/pdf/2504.15247) [arXiv 25]
-
+10. [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://www.vldb.org/pvldb/vol18/p1962-kim.pdf) [VLDB 25]
+11. [F3: The Open-Source Data File Format for the Future](https://dl.acm.org/doi/pdf/10.1145/3749163) [SIGMOD 26]
 
 
 ### LSM-Tree
@@ -485,6 +486,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework](https://www.computer.org/csdl/proceedings-article/icde/2024/171500c096/1YOtqw9cWJ2) [ICDE 24]
 7. [Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP](https://vldb.org/pvldb/vol17/p3290-schmidt.pdf) [VLDB 24]
 8. [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems](https://dl.acm.org/doi/pdf/10.14778/3748191.3748197?__cf_chl_tk=wII2Ti_pN0yqsVs3WEHQTHCJmf2uQYaUryBdJ2Q5ycc-1758098227-1.0.1.1-W7iJAUumhYhdEqNghpw_a1QYSUeWJMVmqw.bjovTCaA) [VLDB 25]
+9. [PUSHtap: PIM-based In-Memory HTAP with Unified Data Storage Format](https://people.iiis.tsinghua.edu.cn/~huanchen/publications/pushtap-asplos25.pdf) [ASPLOS 25]
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
