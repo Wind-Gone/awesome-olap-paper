@@ -2,7 +2,7 @@
 
 [![Awesome OLAP Paper](https://img.shields.io/static/v1?label=&message=Awesome+OLAP+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-olap-paper)
 ![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-olap-paper?color=green)
-![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Wind-Gone.awesome-olap-paper)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Wind-Gone.awesome-olap-paper)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social)](https://github.com/Wind-Gone/awesome-olap-paper)
 [![GitHub Repo forks](https://img.shields.io/github/forks/Wind-Gone/awesome-olap-paper?style=social)](https://github.com/Wind-Gone/awesome-olap-paper)
 ## Introduction
