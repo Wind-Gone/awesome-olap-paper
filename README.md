@@ -2,7 +2,7 @@
 
 [![Awesome OLAP Paper](https://img.shields.io/static/v1?label=&message=Awesome+OLAP+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-olap-paper)
 ![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-olap-paper?color=green)
-![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Wind-Gone.awesome-olap-paper)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Wind-Gone.awesome-olap-paper)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social)](https://github.com/Wind-Gone/awesome-olap-paper)
 [![GitHub Repo forks](https://img.shields.io/github/forks/Wind-Gone/awesome-olap-paper?style=social)](https://github.com/Wind-Gone/awesome-olap-paper)
 ## Introduction
@@ -114,7 +114,7 @@ Thanks to all authors of the paper/repository I cite :D
 11. [Mirage: Generating Enormous Databases for Complex Workloads](https://www.computer.org/csdl/proceedings-article/icde/2024/171500d989/1YOtBpuCaTS) [ICDE 24]
 12. [Query Aware Database Generation for Match Operators](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_18) [DASFAA 24]
 13. [Controllable Tabular Data Synthesis Using Diffusion Models](https://dl.acm.org/doi/pdf/10.1145/3639283#page=1.57) [SIGMOD 24]
-14. [A Query-Aware Enormous Database Generator For System Performance Evaluation]() [SIGMOD 25]
+14. [A Query-Aware Enormous Database Generator For System Performance Evaluation](https://dl.acm.org/doi/pdf/10.1145/3722212.3725076) [SIGMOD 25]
 
 ### Privacy
 1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
@@ -385,7 +385,8 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Data formats in analytical DBMSs: performance trade-offs and future directions](https://link.springer.com/article/10.1007/s00778-025-00911-1) [VLDBJ 25]
 8. [Data chunk compaction in vectorized execution](https://dl.acm.org/doi/abs/10.1145/3709676) [SIGMOD 25]
 9. [Lance: Efficient Random Access in Columnar Storage through Adaptive Structural Encodings](https://arxiv.org/pdf/2504.15247) [arXiv 25]
-
+10. [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://www.vldb.org/pvldb/vol18/p1962-kim.pdf) [VLDB 25]
+11. [F3: The Open-Source Data File Format for the Future](https://dl.acm.org/doi/pdf/10.1145/3749163) [SIGMOD 26]
 
 
 ### LSM-Tree
@@ -486,6 +487,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Log Replaying for Real-Time HTAP: An Adaptive Epoch-based Two-Stage Framework](https://www.computer.org/csdl/proceedings-article/icde/2024/171500c096/1YOtqw9cWJ2) [ICDE 24]
 7. [Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP](https://vldb.org/pvldb/vol17/p3290-schmidt.pdf) [VLDB 24]
 8. [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems](https://dl.acm.org/doi/pdf/10.14778/3748191.3748197?__cf_chl_tk=wII2Ti_pN0yqsVs3WEHQTHCJmf2uQYaUryBdJ2Q5ycc-1758098227-1.0.1.1-W7iJAUumhYhdEqNghpw_a1QYSUeWJMVmqw.bjovTCaA) [VLDB 25]
+9. [PUSHtap: PIM-based In-Memory HTAP with Unified Data Storage Format](https://people.iiis.tsinghua.edu.cn/~huanchen/publications/pushtap-asplos25.pdf) [ASPLOS 25]
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
@@ -533,8 +535,16 @@ Thanks to all authors of the paper/repository I cite :D
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
 
 ### Multi-Model
-1. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search]() [SIGMOD 25]
-2. [MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search]() [SIGMOD 25]
+1. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.09913) [SIGMOD 25]
+2. [MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3725325) [SIGMOD 25]
+3. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
+4. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
+5. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
+
+
+
+
+
 #### Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
 2. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
