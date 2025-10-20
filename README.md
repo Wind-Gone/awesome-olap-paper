@@ -550,6 +550,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
 3. [MMSBench-Net: Scenario-Based Evaluation of Multi-Model Database Systems](https://gvdb23.informatik.uni-stuttgart.de/wp-content/uploads/2023/06/GvDB2023_Lengweiler.pdf) [23]
 4. [MMDBench: A Benchmark for Hybrid Query in Multimodal Database](https://bluejoe2008.github.io/pub/MMDBench__A_Benchmark_for_Hybrid_Query_in_Multimodal_Database.pdf) [24]
+5. [𝑺𝒕𝒆𝒊𝒏𝒆𝒓-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes](https://www.vldb.org/pvldb/vol17/p4668-wang.pdf) [VLDB 25]
 
 ### Vector Database
 #### Survey
