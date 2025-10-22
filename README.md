@@ -368,9 +368,10 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Casual Inference
 1. [Substructure-aware Log Anomaly Detection](https://www.vldb.org/pvldb/vol18/p213-tang.pdf) [VLDB 25]
-2. [From Logs to Causal Inference: Diagnosing Large Systems]() [VLDB 25]
-3. [RCRank: Multimodal Ranking of Root Causes of Slow Queries in Cloud Database Systems]() [VLDB 25]
+2. [From Logs to Causal Inference: Diagnosing Large Systems](https://www.vldb.org/pvldb/vol18/p158-markakis.pdf) [VLDB 25]
+3. [RCRank: Multimodal Ranking of Root Causes of Slow Queries in Cloud Database Systems](https://www.vldb.org/pvldb/vol18/p1169-ouyang.pdf) [VLDB 25]
 4. [OpDiag: Unveiling Database Performance Anomalies through Query Operator Attribution](https://github.com/hjhhsy120/opdiag) [TKDE 25]
+5. [DBPecker: A Graph-Based Compound Anomaly Diagnosis System for Distributed RDBMSs](https://www.vldb.org/pvldb/vol18/p5383-wu.pdf) [VLDB 25]
 
 ### Code Location
 1. [Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces](https://arxiv.org/pdf/2501.18005) [arXiv 25]
