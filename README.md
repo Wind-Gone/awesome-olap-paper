@@ -186,7 +186,7 @@ Thanks to all authors of the paper/repository I cite :D
 16. [Lightweight Graphical Models for Selectivity Estimation Without Independence Assumptions](https://dl.acm.org/doi/pdf/10.14778/3402707.3402724) [VLDB 11]
 17. [Efficiently adapting graphical models for selectivity estimation](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/papers/tzoumas_VLDB_2013.pdf) [VLDB 13]
 18. [Improving Accuracy and Robustness of Self-Tuning Histograms by Subspace Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7067401) [TKDE 15]
-19. [TKHist: Cardinality Estimation for Join Queries via Histograms with Dominant Attribute Correlation Finding]() [arXiv 25]
+19. [TKHist: Cardinality Estimation for Join Queries via Histograms with Dominant Attribute Correlation Finding](https://arxiv.org/pdf/2510.15368) [arXiv 25]
 
 #### Sampling
 1. [Two-Level Sampling for Join Size Estimation](https://15721.courses.cs.cmu.edu/spring2023/papers/18-costmodels/p759-chen.pdf) [SIGMOD 17]
