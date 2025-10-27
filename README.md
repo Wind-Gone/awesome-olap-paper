@@ -207,6 +207,7 @@ Thanks to all authors of the paper/repository I cite :D
 7.  [Efficient and Effective Cardinality Estimation for Skyline Family](https://dl.acm.org/doi/abs/10.1145/3588958) [SIGMOD 23]
 8.  [Cardinality Estimation for Having-Clauses](https://www.vldb.org/pvldb/vol18/p28-moerkotte.pdf) [VLDB 25]
 9.  [Faper: Join Tree with Uncertainty Awareness for Faster, More Precise and Robust Cardinality Estimation](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_33) [PAKDD 25]
+10. [Downsizing Diffusion Models for Cardinality Estimation](https://arxiv.org/pdf/2510.20681) [arXiv 25]
 
 #### Survey
 1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) [A detailed book published in 2012]
@@ -530,6 +531,7 @@ Thanks to all authors of the paper/repository I cite :D
 8.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
 9.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
 10. [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf) [VLDB 24]
+11. [The LDBC Financial Benchmark: Transaction Workload](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf) [VLDB 25]
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
