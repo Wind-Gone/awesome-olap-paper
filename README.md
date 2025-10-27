@@ -540,8 +540,8 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
 4. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
 5. [UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search](https://www.vldb.org/pvldb/vol18/p1118-yao.pdf) [VLDB 25]
-5. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
-6. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
+6. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
+7. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
 
 #### Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
