@@ -537,18 +537,18 @@ Thanks to all authors of the paper/repository I cite :D
 ### Multi-Model
 1. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.09913) [SIGMOD 25]
 2. [MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3725325) [SIGMOD 25]
-3. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
-4. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
-5. [UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search](https://www.vldb.org/pvldb/vol18/p1118-yao.pdf) [VLDB 25]
-6. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
-7. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
+3. [UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search](https://www.vldb.org/pvldb/vol18/p1118-yao.pdf) [VLDB 25]
+4. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
+5. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
 
-#### Benchmark
+#### Survey & Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
 2. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
 3. [MMSBench-Net: Scenario-Based Evaluation of Multi-Model Database Systems](https://gvdb23.informatik.uni-stuttgart.de/wp-content/uploads/2023/06/GvDB2023_Lengweiler.pdf) [23]
 4. [MMDBench: A Benchmark for Hybrid Query in Multimodal Database](https://bluejoe2008.github.io/pub/MMDBench__A_Benchmark_for_Hybrid_Query_in_Multimodal_Database.pdf) [24]
 5. [𝑺𝒕𝒆𝒊𝒏𝒆𝒓-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes](https://www.vldb.org/pvldb/vol17/p4668-wang.pdf) [VLDB 25]
+6. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
+7. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
 
 ### Vector Database
 #### Survey
