@@ -208,6 +208,7 @@ Thanks to all authors of the paper/repository I cite :D
 7.  [Efficient and Effective Cardinality Estimation for Skyline Family](https://dl.acm.org/doi/abs/10.1145/3588958) [SIGMOD 23]
 8.  [Cardinality Estimation for Having-Clauses](https://www.vldb.org/pvldb/vol18/p28-moerkotte.pdf) [VLDB 25]
 9.  [Faper: Join Tree with Uncertainty Awareness for Faster, More Precise and Robust Cardinality Estimation](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_33) [PAKDD 25]
+10. [Downsizing Diffusion Models for Cardinality Estimation](https://arxiv.org/pdf/2510.20681) [arXiv 25]
 
 #### Survey
 1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) [A detailed book published in 2012]
@@ -524,8 +525,6 @@ Thanks to all authors of the paper/repository I cite :D
 1. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379) [VLDB 25]
 2. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf) [ICDE 25]
 
-
-
 #### Others 
 1. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
 2. [Cloud Analytics Benchmark](https://www.vldb.org/pvldb/vol16/p1413-renen.pdf) [VLDB 23]
@@ -537,6 +536,7 @@ Thanks to all authors of the paper/repository I cite :D
 8.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
 9.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
 10. [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf) [VLDB 24]
+11. [The LDBC Financial Benchmark: Transaction Workload](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf) [VLDB 25]
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
@@ -544,21 +544,18 @@ Thanks to all authors of the paper/repository I cite :D
 ### Multi-Model
 1. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.09913) [SIGMOD 25]
 2. [MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3725325) [SIGMOD 25]
-3. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
-4. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
-5. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
-6. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
+3. [UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search](https://www.vldb.org/pvldb/vol18/p1118-yao.pdf) [VLDB 25]
+4. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
+5. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
 
-
-
-
-
-#### Benchmark
+#### Survey & Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
 2. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
 3. [MMSBench-Net: Scenario-Based Evaluation of Multi-Model Database Systems](https://gvdb23.informatik.uni-stuttgart.de/wp-content/uploads/2023/06/GvDB2023_Lengweiler.pdf) [23]
 4. [MMDBench: A Benchmark for Hybrid Query in Multimodal Database](https://bluejoe2008.github.io/pub/MMDBench__A_Benchmark_for_Hybrid_Query_in_Multimodal_Database.pdf) [24]
 5. [𝑺𝒕𝒆𝒊𝒏𝒆𝒓-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes](https://www.vldb.org/pvldb/vol17/p4668-wang.pdf) [VLDB 25]
+6. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
+7. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
 
 ### Vector Database
 #### Survey
@@ -566,6 +563,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Survey of Vector Database Management Systems](https://arxiv.org/pdf/2310.14021#page=3.39) [VLDBJ 24]
 3. [Vector Database Management Techniques and Systems](https://dl.acm.org/doi/pdf/10.1145/3626246.3654691) [SIGMOD 24]
 4. [BigVectorBench: Heterogeneous Data Embedding and Compound Queries are Essential in Evaluating Vector Databases](https://www.vldb.org/pvldb/vol18/p1536-zhan.pdf) [VLDB 25]
+5. [向量数据库及DB4LLM技术](https://www.jos.org.cn/jos/news/view/20250909140220001) [JOS 25]
 
 ### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
