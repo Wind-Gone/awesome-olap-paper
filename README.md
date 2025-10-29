@@ -70,6 +70,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Transactions](#transactions)
     - [Survey](#survey-4)
   - [Others](#others-1)
+    - [Performance Optimization](#performance-optimization)
     - [MVCC](#mvcc)
     - [HTAP](#htap)
       - [System Architecture](#system-architecture)
@@ -440,6 +441,10 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf) [VLDB 24]
 
 ## Others
+
+### Performance Optimization
+1. [Principles and Methodologies for Serial Performance Optimization](https://www.usenix.org/system/files/osdi25-park-sujin.pdf) [OSDI 25]
+
 ### MVCC
 1. [Scalable Garbage Collection for In-Memory MVCC Systems](https://users.cs.utah.edu/~pandey/courses/cs6530/fall22/papers/mvcc/p128-bottcher.pdf) [VLDB 13]
 2. [Rethinking serializable multiversion concurrency control](https://browse.arxiv.org/pdf/1412.2324.pdf) [VLDB 15]
