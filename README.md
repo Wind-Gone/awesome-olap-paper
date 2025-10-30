@@ -355,6 +355,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation](https://www.usenix.org/system/files/usenixsecurity23-jiang-zu-ming.pdf) [ATC 23]
 3. [Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer](https://dl.acm.org/doi/abs/10.1145/3597503.3639210) [ICSE 24]
 4. [DepState: Detecting Synchronization Failure Bugs in Distributed Database Management Systems](https://dl.acm.org/doi/10.1145/3728965) [ISSTA 25]
+5. [Fawkes: Finding Data Durability Bugs in DBMSs via Recovered Data State Verification](https://dl.acm.org/doi/pdf/10.1145/3731569.3764841) [SOSP 25]
 
 ### Performance Bug
 1. [APOLLO: automatic detection and diagnosis of performance regressions in database systems](https://dl.acm.org/doi/pdf/10.14778/3357377.3357382) [VLDB 19]
