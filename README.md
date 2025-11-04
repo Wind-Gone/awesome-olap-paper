@@ -350,6 +350,7 @@ Thanks to all authors of the paper/repository I cite :D
 32. [Vbox: Efficient Black-Box Serializability Verification](https://arxiv.org/pdf/2503.05163) [arXiv 25]
 33. [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [VLDB 25]
 34. [DDLUMOS: Understanding and Detecting Atomic DDL Bugs in DBMSs](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/atomic_ddl_ATC25.pdf) [ATC 25]
+35. [Detecting Logic Bugs in DBMSs via Equivalent Data Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/edc_sigmod25.pdf) [SIGMOD 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
@@ -558,6 +559,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [𝑺𝒕𝒆𝒊𝒏𝒆𝒓-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes](https://www.vldb.org/pvldb/vol17/p4668-wang.pdf) [VLDB 25]
 6. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
 7. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
+8. [SemBench: A Benchmark for Semantic Query Processing Engines](https://arxiv.org/pdf/2511.01716) [arXiv 25]
 
 ### Vector Database
 #### Survey
