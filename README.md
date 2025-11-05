@@ -382,6 +382,9 @@ Thanks to all authors of the paper/repository I cite :D
 ### Code Location
 1. [Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces](https://arxiv.org/pdf/2501.18005) [arXiv 25]
 
+### Reduction
+1. [SQLess: Dialect-Agnostic SQL Query Simplification](https://dl.acm.org/doi/pdf/10.1145/3650212.3680317) [ISSTA 24]
+
 ## Storage
 1. [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf) [VLDB 23]
 2. [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf) [VLDB 24]
