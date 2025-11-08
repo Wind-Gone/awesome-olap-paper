@@ -90,7 +90,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Others](#others-2)
     - [Time Series](#time-series)
     - [Multi-Model](#multi-model)
-      - [Benchmark](#benchmark-1)
+      - [Survey \& Benchmark](#survey--benchmark)
     - [Vector Database](#vector-database)
       - [Survey](#survey-7)
     - [Algorithm](#algorithm)
@@ -350,6 +350,8 @@ Thanks to all authors of the paper/repository I cite :D
 32. [Vbox: Efficient Black-Box Serializability Verification](https://arxiv.org/pdf/2503.05163) [arXiv 25]
 33. [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [VLDB 25]
 34. [DDLUMOS: Understanding and Detecting Atomic DDL Bugs in DBMSs](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/atomic_ddl_ATC25.pdf) [ATC 25]
+35. [SRS: Detecting Logic Bugs of Join Implementation in DBMSs via Set Relation Synthesis](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/srs_sigmod25.pdf#page=13.79) [SIGMOD 25]
+36. [Detecting Logic Bugs in DBMSs via Equivalent Data Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/edc_sigmod25.pdf) [SIGMOD 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
