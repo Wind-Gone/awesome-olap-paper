@@ -435,6 +435,13 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Rapid Data Ingestion through DB-OS Co-design](https://dl.acm.org/doi/pdf/10.1145/3709718) [SIGMOD 25]
 7. [Practical DB-OS Co-Design with Privileged Kernel Bypass](https://dl.acm.org/doi/pdf/10.1145/3709714) [SIGMOD 25]
 
+### Cloud
+#### Survey
+1. [OLTP in the cloud: architectures, tradeoffs, and cost](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/CloudOLTP.pdf) [VLDBJ 25]
+
+### Optimization
+1. [Principles and Methodologies  for Serial Performance Optimization](https://www.usenix.org/system/files/osdi25-park-sujin.pdf) [OSDI 25]
+
 ### Transactions
 1. [Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt?](https://dl.acm.org/doi/pdf/10.1145/3725319) [SIGMOD 25]
 2. [Are database system researchers making correct assumptions about transaction workloads?](https://dl.acm.org/doi/pdf/10.1145/3725268) [SIGMOD 25]
