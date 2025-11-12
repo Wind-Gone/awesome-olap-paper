@@ -68,8 +68,11 @@ Thanks to all authors of the paper/repository I cite :D
   - [Data Transfer](#data-transfer)
   - [Data Loading](#data-loading)
   - [Database Kernel](#database-kernel)
+    - [Cloud](#cloud)
+      - [Survey](#survey-4)
+    - [Optimization](#optimization)
     - [Transactions](#transactions)
-    - [Survey](#survey-4)
+    - [Survey](#survey-5)
   - [Others](#others-1)
     - [Performance Optimization](#performance-optimization)
     - [MVCC](#mvcc)
@@ -78,26 +81,26 @@ Thanks to all authors of the paper/repository I cite :D
         - [Linear Consistency](#linear-consistency)
         - [Sequential Consistency](#sequential-consistency)
         - [Session Consistency](#session-consistency)
-        - [Survey](#survey-5)
+        - [Survey](#survey-6)
       - [Kernel Optimization](#kernel-optimization)
     - [Result Replay](#result-replay)
     - [Benchmark](#benchmark)
-      - [Survey](#survey-6)
+      - [Survey](#survey-7)
       - [AI](#ai)
       - [OLTP](#oltp)
       - [OLAP](#olap)
       - [HTAP](#htap-1)
-      - [Cloud](#cloud)
+      - [Cloud](#cloud-1)
       - [Others](#others-2)
     - [Time Series](#time-series)
     - [Multi-Model](#multi-model)
       - [Survey \& Benchmark](#survey--benchmark)
     - [Vector Database](#vector-database)
-      - [Survey](#survey-7)
+      - [Survey](#survey-8)
     - [Algorithm](#algorithm)
     - [Distributed Systems](#distributed-systems)
     - [OLTP](#oltp-1)
-      - [Survey](#survey-8)
+      - [Survey](#survey-9)
     - [AI4DB](#ai4db)
     - [Industry](#industry)
   - [Star History](#star-history)
@@ -456,6 +459,7 @@ Thanks to all authors of the paper/repository I cite :D
 ### Survey
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
 2. [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf) [VLDB 24]
+3. [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://www.vldb.org/pvldb/vol18/p1962-kim.pdf) [VLDB 25]
 
 ## Others
 
