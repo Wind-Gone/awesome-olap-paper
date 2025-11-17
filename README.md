@@ -484,6 +484,8 @@ Thanks to all authors of the paper/repository I cite :D
 1. [HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots](https://cs.brown.edu/courses/cs227/archives/2012/papers/olap/hyper.pdf) [ICDE 12]
 2. [TiDB: A raft-based htap database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf) [VLDB 20]
 3. [OceanBase Paetica: A Hybrid Shared-Nothing/Shared-Everything Database for Supporting Single Machine and Distributed Cluster](https://dl.acm.org/doi/pdf/10.14778/3611540.3611560) [VLDB 23]
+4. [Perseus: Achieving Strong Consistency and High Data Freshness for Scalable Geo-distributed HTAP](https://dl.acm.org/doi/pdf/10.1145/3749178) [SIGMOD 25]
+5. [veDB-HTAP：a Highly Integrated， Efficient and Adaptive HTAP System](https://www.vldb.org/pvldb/vol18/p4896-chen.pdf) [VLDB 25]
 
 
 ##### Sequential Consistency
