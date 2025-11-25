@@ -460,6 +460,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
 2. [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf) [VLDB 24]
 3. [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://www.vldb.org/pvldb/vol18/p1962-kim.pdf) [VLDB 25]
+4. [OLTP Through the Looking Glass 16 Years Later: Communication is the New Bottleneck](https://vldb.org/cidrdb/papers/2025/p17-zhou.pdf) [CIDR 25]
 
 ## Others
 
@@ -544,21 +545,22 @@ Thanks to all authors of the paper/repository I cite :D
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
 
 #### Cloud
-1. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379) [VLDB 25]
-2. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf) [ICDE 25]
+1. [Cloud Analytics Benchmark](https://www.vldb.org/pvldb/vol16/p1413-renen.pdf) [VLDB 23]
+2. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379) [VLDB 25]
+3. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf) [ICDE 25]
+4. [Redbench: Workload Synthesis From Cloud Traces](https://arxiv.org/pdf/2511.13059) [VLDB 26]
 
 #### Others 
 1. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
-2. [Cloud Analytics Benchmark](https://www.vldb.org/pvldb/vol16/p1413-renen.pdf) [VLDB 23]
-3. [Pollock: A Data Loading Benchmark](https://www.vldb.org/pvldb/vol16/p1870-vitagliano.pdf) [VLDB 23]
-4. [VeriBench: Analyzing the Performance of Database Systems with Verifiability](https://www.vldb.org/pvldb/vol16/p2145-ooi.pdf) [VLDB 23]
-5. [TSM-Bench: Benchmarking Time Series Database Systems for Monitoring Applications](https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf) [VLDB 23]
-6. [CDSBen: Benchmarking the Performance of Storage Services in Cloud-native Database System at ByteDance](https://www.vldb.org/pvldb/vol16/p3584-tang.pdf) [VLDB 23]
-7.  [FEBench: A Benchmark for Real-Time Relational Data Feature Extraction](https://www.vldb.org/pvldb/vol16/p3597-lu.pdf) [VLDB 23]
-8.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
-9.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
-10. [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf) [VLDB 24]
-11. [The LDBC Financial Benchmark: Transaction Workload](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf) [VLDB 25]
+2. [Pollock: A Data Loading Benchmark](https://www.vldb.org/pvldb/vol16/p1870-vitagliano.pdf) [VLDB 23]
+3. [VeriBench: Analyzing the Performance of Database Systems with Verifiability](https://www.vldb.org/pvldb/vol16/p2145-ooi.pdf) [VLDB 23]
+4. [TSM-Bench: Benchmarking Time Series Database Systems for Monitoring Applications](https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf) [VLDB 23]
+5. [CDSBen: Benchmarking the Performance of Storage Services in Cloud-native Database System at ByteDance](https://www.vldb.org/pvldb/vol16/p3584-tang.pdf) [VLDB 23]
+6.  [FEBench: A Benchmark for Real-Time Relational Data Feature Extraction](https://www.vldb.org/pvldb/vol16/p3597-lu.pdf) [VLDB 23]
+7.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
+8.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
+9. [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf) [VLDB 24]
+10. [The LDBC Financial Benchmark: Transaction Workload](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf) [VLDB 25]
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
