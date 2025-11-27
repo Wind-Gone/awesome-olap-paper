@@ -493,7 +493,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [F1 Lightning: HTAP as a Service](http://www.vldb.org/pvldb/vol13/p3313-yang.pdf) [VLDB 20]
 3. [Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing](https://www.usenix.org/system/files/osdi21-shen.pdf) [ATC 21]
 4. [ByteHTAP: ByteDance’s HTAP System with High Data Freshness and Strong Data Consistency](https://www.vldb.org/pvldb/vol15/p3411-chen.pdf) [VLDB 22]
-5. [Hermes: Off-the-Shelf Real-Time Transactional Analytics](https://www.vldb.org/pvldb/vol18/p5126-bress.pdf) [VLDB 25]
+5. [Hermes: Off-the-Shelf Real-Time Transactional Analytics](https://www.vldb.org/pvldb/vol18/p2334-milkai.pdf) [VLDB 25]
 
 
 ##### Session Consistency
