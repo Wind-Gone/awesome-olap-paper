@@ -246,9 +246,9 @@ Thanks to all authors of the paper/repository I cite :D
 8. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
 9. [Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [CIDR 24]
 10. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
-11. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores]() [SIGMOD 25]
-12. [SwiftSpatial: Spatial Joins on Modern Hardware]() [SIGMOD 25]
-13. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
+11. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores](https://dl.acm.org/doi/pdf/10.1145/3725307) [SIGMOD 25]
+12. [SwiftSpatial: Spatial Joins on Modern Hardware](https://dl.acm.org/doi/pdf/10.1145/3725361) [SIGMOD 25]
+13. [Accelerate Distributed Joins with Predicate Transfer](https://dl.acm.org/doi/pdf/10.1145/3725259) [SIGMOD 25]
 
 ### Sub-Query
 1. [Unnesting Arbitrary Queries](https://btw-2015.informatik.uni-hamburg.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf) [15]
