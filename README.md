@@ -139,7 +139,6 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Rotary: A Resource Arbitration Framework for Progressive Iterative Analytics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184533) [ICDE 23]
 5. [Laser: Buffer-Aware Learned Query Scheduling in Master-Standby Databases](https://www.vldb.org/pvldb/vol18/p743-li.pdf) [VLDB 25]
 6. [Improving DBMS Scheduling Decisions with Accurate Performance Prediction on Concurrent Queries](https://www.vldb.org/pvldb/vol18/p4185-wu.pdf) [VLDB 25]
-   
 
 ## Query Optimization
 1. [Sampling-Based Query Re-Optimization](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod16-reoptimization.pdf) [SIGMOD 16]
@@ -170,7 +169,6 @@ Thanks to all authors of the paper/repository I cite :D
 7. [PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification](https://dl.acm.org/doi/pdf/10.1145/3709713) [SIGMOD 25]
 8. [Query Weak Equivalence and Its Verification in Analytical Databases]() [ICDE 25]
 9. [Proving Cypher Query Equivalence]() [ICDE 25]
-
 
 ### Cardinality Estimation
 #### Histogram
@@ -249,9 +247,9 @@ Thanks to all authors of the paper/repository I cite :D
 8. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
 9. [Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [CIDR 24]
 10. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
-11. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores]() [SIGMOD 25]
-12. [SwiftSpatial: Spatial Joins on Modern Hardware]() [SIGMOD 25]
-13. [Accelerate Distributed Joins with Predicate Transfer]() [SIGMOD 25]
+11. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores](https://dl.acm.org/doi/pdf/10.1145/3725307) [SIGMOD 25]
+12. [SwiftSpatial: Spatial Joins on Modern Hardware](https://dl.acm.org/doi/pdf/10.1145/3725361) [SIGMOD 25]
+13. [Accelerate Distributed Joins with Predicate Transfer](https://dl.acm.org/doi/pdf/10.1145/3725259) [SIGMOD 25]
 
 ### Sub-Query
 1. [Unnesting Arbitrary Queries](https://btw-2015.informatik.uni-hamburg.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf) [15]
@@ -332,32 +330,33 @@ Thanks to all authors of the paper/repository I cite :D
 9. [Fonte: Finding Bug Inducing Commits from Failures](https://dl.acm.org/doi/pdf/10.1109/ICSE48619.2023.00059) [ICSE 23]
 10. [Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction](https://www.vldb.org/pvldb/vol17/p1884-song.pdf) [VLDB 24]
 11. [CONI: Detecting Database Connector Bugs via State-Aware Test Case Generation](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/coni_ICSE25.pdf) [ICSE 24]
-12. [Keep It Simple: Testing Databases via Differential Query Plans](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf) [SIGMOD 24]
-13. [Plume: Efficient and Complete Black-Box Checking of Weak Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/3689742) [OOPSLA2 2024]
-14. [DBStorm: Generating Various Effective Workloads for Testing Isolation Levels](https://dl.acm.org/doi/10.1145/3650212.3680318) [ISSTA 24]
-15. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
-16. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
-17. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
-18. [Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation](https://www.usenix.org/system/files/osdi24-jiang.pdf) [ATC 24]
-19. [THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf) [ICSE 25]
-20. [Semantic Conformance Testing of Relational DBMS](https://dl.acm.org/doi/pdf/10.14778/3712221.3712247) [VLDB 25]
-21. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models](https://dl.acm.org/doi/pdf/10.1145/3709663) [SIGMOD 25]
-22. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
-23. [Constant Optimization Driven Database System Testing](https://dl.acm.org/doi/pdf/10.1145/3709674) [SIGMOD 25]
-24. [Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://jzuming.github.io/paper/ndss25-zou.pdf) [NDSS 25]
-25. [Finding Logic Bugs in Graph-processing Systems via Graph-cutting](https://dl.acm.org/doi/pdf/10.1145/3725300) [SIGMOD 25]
-26. [Model Checking Guided Incremental Testing for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3728883) [ISSTA 25]
-27. [Scaling Automated Database System Testing](https://arxiv.org/pdf/2503.21424) [arXiv 25]
-28. [Testing Database Systems with Large Language Model Synthesized Fragments](https://arxiv.org/pdf/2505.02012) [arXiv 25]
-29. [Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction](https://wsdou.github.io/papers/2025-vldb-ddlcheck.pdf) [VLDB 25]
-30. [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://wsdou.github.io/papers/2025-vldb-writecheck.pdf) [VLDB 25]
-31. [Detecting Isolation Anomalies in Relational DBMSs](https://wsdou.github.io/papers/2025-issta-isorel.pdf) [ISSTA 25]
-32. [Vbox: Efficient Black-Box Serializability Verification](https://arxiv.org/pdf/2503.05163) [arXiv 25]
-33. [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [VLDB 25]
-34. [DDLUMOS: Understanding and Detecting Atomic DDL Bugs in DBMSs](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/atomic_ddl_ATC25.pdf) [ATC 25]
-35. [Detecting Logic Bugs in DBMSs via Equivalent Data Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/edc_sigmod25.pdf) [SIGMOD 25]
-36. [SRS: Detecting Logic Bugs of Join Implementation in DBMSs via Set Relation Synthesis](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/srs_sigmod25.pdf#page=13.79) [SIGMOD 25]
-37. [ARG: Testing Query Rewriters via Abstract Rule Guided Fuzzing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/arg_ase25.pdf) [ASE 25]
+12. [WINGFUZZ: Implementing Continuous Fuzzing for DBMSs](https://www.usenix.org/system/files/atc24-liang.pdf) [ATC 24]
+13. [Keep It Simple: Testing Databases via Differential Query Plans](https://bajinsheng.github.io/assets/pdf/dqp_sigmod24.pdf) [SIGMOD 24]
+14. [Plume: Efficient and Complete Black-Box Checking of Weak Isolation Levels](https://dl.acm.org/doi/pdf/10.1145/3689742) [OOPSLA2 2024]
+15. [DBStorm: Generating Various Effective Workloads for Testing Isolation Levels](https://dl.acm.org/doi/10.1145/3650212.3680318) [ISSTA 24]
+16. [SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing](https://arxiv.org/pdf/2407.04294) [arXiv 24]
+17. [Understanding and Detecting SQL Function Bugs](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/soft_eurosys25.pdf) [EuroSys 25]
+18. [Understanding and Reusing Test Suites Across Database Systems](https://arxiv.org/pdf/2410.21731) [SIGMOD 25]
+19. [Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation](https://www.usenix.org/system/files/osdi24-jiang.pdf) [ATC 24]
+20. [THANOS: DBMS Bug Detection via Storage Engine Rotation Based Differential Testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Thanos_ICSE25.pdf) [ICSE 25]
+21. [Semantic Conformance Testing of Relational DBMS](https://dl.acm.org/doi/pdf/10.14778/3712221.3712247) [VLDB 25]
+22. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models](https://dl.acm.org/doi/pdf/10.1145/3709663) [SIGMOD 25]
+23. [Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Input](https://www.arxiv.org/pdf/2410.12496) [SIGMOD 25]
+24. [Constant Optimization Driven Database System Testing](https://dl.acm.org/doi/pdf/10.1145/3709674) [SIGMOD 25]
+25. [Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://jzuming.github.io/paper/ndss25-zou.pdf) [NDSS 25]
+26. [Finding Logic Bugs in Graph-processing Systems via Graph-cutting](https://dl.acm.org/doi/pdf/10.1145/3725300) [SIGMOD 25]
+27. [Model Checking Guided Incremental Testing for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3728883) [ISSTA 25]
+28. [Scaling Automated Database System Testing](https://arxiv.org/pdf/2503.21424) [arXiv 25]
+29. [Testing Database Systems with Large Language Model Synthesized Fragments](https://arxiv.org/pdf/2505.02012) [arXiv 25]
+30. [Detecting Schema-Related Logic Bugs in Relational DBMSs via Equivalent Database Construction](https://wsdou.github.io/papers/2025-vldb-ddlcheck.pdf) [VLDB 25]
+31. [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://wsdou.github.io/papers/2025-vldb-writecheck.pdf) [VLDB 25]
+32. [Detecting Isolation Anomalies in Relational DBMSs](https://wsdou.github.io/papers/2025-issta-isorel.pdf) [ISSTA 25]
+33. [Vbox: Efficient Black-Box Serializability Verification](https://arxiv.org/pdf/2503.05163) [arXiv 25]
+34. [Fucci: Database Transaction Fuzzing via Random Conflict Construction and Multilevel Constraint Solving](https://www.vldb.org/pvldb/vol18/p1879-li.pdf) [VLDB 25]
+35. [DDLUMOS: Understanding and Detecting Atomic DDL Bugs in DBMSs](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/atomic_ddl_ATC25.pdf) [ATC 25]
+36. [Detecting Logic Bugs in DBMSs via Equivalent Data Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/edc_sigmod25.pdf) [SIGMOD 25]
+37. [SRS: Detecting Logic Bugs of Join Implementation in DBMSs via Set Relation Synthesis](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/srs_sigmod25.pdf#page=13.79) [SIGMOD 25]
+38. [ARG: Testing Query Rewriters via Abstract Rule Guided Fuzzing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/arg_ase25.pdf) [ASE 25]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
@@ -461,6 +460,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [What Goes Around Comes Around... And Around...](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf) [SIGMOD 24]
 2. [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf) [VLDB 24]
 3. [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://www.vldb.org/pvldb/vol18/p1962-kim.pdf) [VLDB 25]
+4. [OLTP Through the Looking Glass 16 Years Later: Communication is the New Bottleneck](https://vldb.org/cidrdb/papers/2025/p17-zhou.pdf) [CIDR 25]
 
 ## Others
 
@@ -485,6 +485,8 @@ Thanks to all authors of the paper/repository I cite :D
 1. [HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots](https://cs.brown.edu/courses/cs227/archives/2012/papers/olap/hyper.pdf) [ICDE 12]
 2. [TiDB: A raft-based htap database](https://www.vldb.org/pvldb/vol13/p3072-huang.pdf) [VLDB 20]
 3. [OceanBase Paetica: A Hybrid Shared-Nothing/Shared-Everything Database for Supporting Single Machine and Distributed Cluster](https://dl.acm.org/doi/pdf/10.14778/3611540.3611560) [VLDB 23]
+4. [Perseus: Achieving Strong Consistency and High Data Freshness for Scalable Geo-distributed HTAP](https://dl.acm.org/doi/pdf/10.1145/3749178) [SIGMOD 25]
+5. [veDB-HTAP：a Highly Integrated， Efficient and Adaptive HTAP System](https://www.vldb.org/pvldb/vol18/p4896-chen.pdf) [VLDB 25]
 
 
 ##### Sequential Consistency
@@ -492,7 +494,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [F1 Lightning: HTAP as a Service](http://www.vldb.org/pvldb/vol13/p3313-yang.pdf) [VLDB 20]
 3. [Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing](https://www.usenix.org/system/files/osdi21-shen.pdf) [ATC 21]
 4. [ByteHTAP: ByteDance’s HTAP System with High Data Freshness and Strong Data Consistency](https://www.vldb.org/pvldb/vol15/p3411-chen.pdf) [VLDB 22]
-5. [Hermes: Off-the-Shelf Real-Time Transactional Analytics](https://www.vldb.org/pvldb/vol18/p5126-bress.pdf) [VLDB 25]
+5. [Hermes: Off-the-Shelf Real-Time Transactional Analytics](https://www.vldb.org/pvldb/vol18/p2334-milkai.pdf) [VLDB 25]
 
 
 ##### Session Consistency
@@ -543,21 +545,22 @@ Thanks to all authors of the paper/repository I cite :D
 2. [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://ieeexplore.ieee.org/document/9835647) [ICDE 22]
 
 #### Cloud
-1. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379) [VLDB 25]
-2. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf) [ICDE 25]
+1. [Cloud Analytics Benchmark](https://www.vldb.org/pvldb/vol16/p1413-renen.pdf) [VLDB 23]
+2. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379) [VLDB 25]
+3. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf) [ICDE 25]
+4. [Redbench: Workload Synthesis From Cloud Traces](https://arxiv.org/pdf/2511.13059) [VLDB 26]
 
 #### Others 
 1. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
-2. [Cloud Analytics Benchmark](https://www.vldb.org/pvldb/vol16/p1413-renen.pdf) [VLDB 23]
-3. [Pollock: A Data Loading Benchmark](https://www.vldb.org/pvldb/vol16/p1870-vitagliano.pdf) [VLDB 23]
-4. [VeriBench: Analyzing the Performance of Database Systems with Verifiability](https://www.vldb.org/pvldb/vol16/p2145-ooi.pdf) [VLDB 23]
-5. [TSM-Bench: Benchmarking Time Series Database Systems for Monitoring Applications](https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf) [VLDB 23]
-6. [CDSBen: Benchmarking the Performance of Storage Services in Cloud-native Database System at ByteDance](https://www.vldb.org/pvldb/vol16/p3584-tang.pdf) [VLDB 23]
-7.  [FEBench: A Benchmark for Real-Time Relational Data Feature Extraction](https://www.vldb.org/pvldb/vol16/p3597-lu.pdf) [VLDB 23]
-8.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
-9.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
-10. [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf) [VLDB 24]
-11. [The LDBC Financial Benchmark: Transaction Workload](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf) [VLDB 25]
+2. [Pollock: A Data Loading Benchmark](https://www.vldb.org/pvldb/vol16/p1870-vitagliano.pdf) [VLDB 23]
+3. [VeriBench: Analyzing the Performance of Database Systems with Verifiability](https://www.vldb.org/pvldb/vol16/p2145-ooi.pdf) [VLDB 23]
+4. [TSM-Bench: Benchmarking Time Series Database Systems for Monitoring Applications](https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf) [VLDB 23]
+5. [CDSBen: Benchmarking the Performance of Storage Services in Cloud-native Database System at ByteDance](https://www.vldb.org/pvldb/vol16/p3584-tang.pdf) [VLDB 23]
+6.  [FEBench: A Benchmark for Real-Time Relational Data Feature Extraction](https://www.vldb.org/pvldb/vol16/p3597-lu.pdf) [VLDB 23]
+7.  [TPCx-AI - An Industry Standard Benchmark for Artificial Intelligence and Machine Learning Systems](https://www.vldb.org/pvldb/vol16/p3649-rabl.pdf) [VLDB 23]
+8.  [ScienceBenchmark: A Complex Real-World Benchmark for Evaluating Natural Language to SQL Systems](https://www.vldb.org/pvldb/vol17/p685-stockinger.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/yizhang-unifr/nl-ql-data-augmentation?style=social&label=Code+Stars)](https://github.com/yizhang-unifr/nl-ql-data-augmentation)
+9. [Why TPC Is Not Enough: An Analysis of the Amazon Redshift Fleet](https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf) [VLDB 24]
+10. [The LDBC Financial Benchmark: Transaction Workload](https://www.vldb.org/pvldb/vol18/p3007-qi.pdf) [VLDB 25]
 
 ### Time Series
 1. [An Experimental Evaluation of Anomaly Detection in Time Series](https://www.vldb.org/pvldb/vol17/p483-zhang.pdf) [VLDB 24]
@@ -577,7 +580,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
 3. [MMSBench-Net: Scenario-Based Evaluation of Multi-Model Database Systems](https://gvdb23.informatik.uni-stuttgart.de/wp-content/uploads/2023/06/GvDB2023_Lengweiler.pdf) [23]
 4. [MMDBench: A Benchmark for Hybrid Query in Multimodal Database](https://bluejoe2008.github.io/pub/MMDBench__A_Benchmark_for_Hybrid_Query_in_Multimodal_Database.pdf) [24]
-5. [𝑺𝒕𝒆𝒊𝒏𝒆𝒓-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes](https://www.vldb.org/pvldb/vol17/p4668-wang.pdf) [VLDB 25]
+5. [𝑺𝒕𝒆𝒊𝒏𝒆𝒓-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes](https://www.vldb.org/pvldb/vol17/p4668-wang.pdf) [VLDB 24]
 6. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
 7. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
 8. [SemBench: A Benchmark for Semantic Query Processing Engines](https://arxiv.org/pdf/2511.01716) [arXiv 25]
