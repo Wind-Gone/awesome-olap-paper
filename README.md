@@ -94,6 +94,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Others](#others-2)
     - [Time Series](#time-series)
     - [Multi-Model](#multi-model)
+      - [Multi-Modal](#multi-modal)
       - [Survey \& Benchmark](#survey--benchmark)
     - [Vector Database](#vector-database)
       - [Survey](#survey-8)
@@ -202,9 +203,9 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Estimating Join Selectivities using  Bandwidth-Optimized Kernel Density Models](https://www.vldb.org/pvldb/vol10/p2085-kiefer.pdf) [VLDB 17]
 3. [QuickSel: Quick Selectivity Learning  with Mixture Models](https://dl.acm.org/doi/pdf/10.1145/3318464.3389727) [SIGMOD 20]
 4. [LHist: Towards Learning Multidimensional Histogram for Massive Spatial Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458896) [ICDE 21]
+5. [CoLSE: A Lightweight and Robust Hybrid Learned Model for Single-Table Cardinality Estimation using Joint CDF](https://renata.borovica-gajic.com/data/2026_icde_lankadinee.pdf) [ICDE 26]
 
 #### Others
-
 1. [Access path selection in a relational database management system](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf) [SIGMOD 79]
 4.  [Plan Bouquets: Query Processing without Selectivity Estimation](https://dsl.cds.iisc.ac.in/~course/DBMS/papers/planBouquet.pdf) [SIGMOD 14]
 5.  [Exact Cardinality Query Optimization with Bounded Execution Cost](https://dl.acm.org/doi/pdf/10.1145/3299869.3300087) [SIGMOD 19]
@@ -567,6 +568,9 @@ Thanks to all authors of the paper/repository I cite :D
 3. [UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search](https://www.vldb.org/pvldb/vol18/p1118-yao.pdf) [VLDB 25]
 4. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
 5. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
+
+#### Multi-Modal
+1. [Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization](https://arxiv.org/pdf/2511.19830) [arXiv 25]
 
 #### Survey & Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
