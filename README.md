@@ -357,6 +357,7 @@ Thanks to all authors of the paper/repository I cite :D
 36. [Detecting Logic Bugs in DBMSs via Equivalent Data Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/edc_sigmod25.pdf) [SIGMOD 25]
 37. [SRS: Detecting Logic Bugs of Join Implementation in DBMSs via Set Relation Synthesis](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/srs_sigmod25.pdf#page=13.79) [SIGMOD 25]
 38. [ARG: Testing Query Rewriters via Abstract Rule Guided Fuzzing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/arg_ase25.pdf) [ASE 25]
+39. [Anomaly Pattern-guided Transaction Bug Testing in Relational Databases](https://arxiv.org/pdf/2511.17377) [SIGMOD 26]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
