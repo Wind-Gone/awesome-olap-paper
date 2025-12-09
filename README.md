@@ -156,8 +156,9 @@ Thanks to all authors of the paper/repository I cite :D
 ### Robust Query Optimization
 1. [Robust query processing through progressive optimization](https://dl.acm.org/doi/abs/10.1145/1007568.1007642) [SIGMOD 04]
 2. [Robust Query Optimization Methods With Respect to Estimation Errors: A Survey](https://dl.acm.org/doi/pdf/10.1145/2854006.2854012) [SIGMOD 15]
-3. [Efficient Query Re-optimization with Judicious Subquery Selections]() [SIGMDO 23]
+3. [Efficient Query Re-optimization with Judicious Subquery Selections](https://dl.acm.org/doi/pdf/10.1145/3589330) [SIGMDO 23]
 4. [ROME: Robust Query Optimization via Parallel Multi-Plan Execution](https://dl.acm.org/doi/10.1145/3654973) [SIGMOD 24]
+5. [Approximate Query Processing under Updates](https://dl.acm.org/doi/pdf/10.1145/3769760) [SIGMOD 26]
 
 ### Query Rewrite
 1. [QueryBooster: Improving SQL Performance Using Middleware Services for Human-Centered Query Rewriting](https://www.vldb.org/pvldb/vol16/p2911-bai.pdf) [VLDB 23]
@@ -520,6 +521,7 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP](https://vldb.org/pvldb/vol17/p3290-schmidt.pdf) [VLDB 24]
 8. [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems](https://dl.acm.org/doi/pdf/10.14778/3748191.3748197?__cf_chl_tk=wII2Ti_pN0yqsVs3WEHQTHCJmf2uQYaUryBdJ2Q5ycc-1758098227-1.0.1.1-W7iJAUumhYhdEqNghpw_a1QYSUeWJMVmqw.bjovTCaA) [VLDB 25]
 9. [PUSHtap: PIM-based In-Memory HTAP with Unified Data Storage Format](https://people.iiis.tsinghua.edu.cn/~huanchen/publications/pushtap-asplos25.pdf) [ASPLOS 25]
+10. [Counting Is All You Need for Instant Tuple Discovery: Enabling Real-Time HTAP in Standalone DBMSs](https://dl.acm.org/doi/pdf/10.1145/3769775) [SIGMOD 26]
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
