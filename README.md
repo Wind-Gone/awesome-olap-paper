@@ -577,6 +577,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 #### Multi-Modal
 1. [Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization](https://arxiv.org/pdf/2511.19830) [arXiv 25]
+2. [Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries](https://arxiv.org/pdf/2512.09695) [ICDE 26]
 
 #### Survey & Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
