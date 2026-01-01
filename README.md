@@ -307,7 +307,10 @@ Thanks to all authors of the paper/repository I cite :D
 16. [High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/umami.pdf) [SIGMOD 25]
 17. [Data Chunk Compaction in Vectorized Execution](https://dl.acm.org/doi/pdf/10.1145/3709676) [SIGMOD 25]
 18. [FAAQP: Fast and Accurate Approximate Query Processing based on Bitmap-augmented Sum-Product Network](https://dl.acm.org/doi/abs/10.1145/3725292) [SIGMOD 25]
-19. [OLTP in the Cloud: Architectures, Tradeoffs, and Cost](https://dl.acm.org/doi/abs/10.1007/s00778-025-00913-z) [VLDB 25]
+19. [I Can’t Believe It’s Not Yannakakis: Pragmatic Bitmap Filters in Microsoft SQL Server](https://www.vldb.org/cidrdb/papers/2026/p29-zhao.pdf) [CIDR 26]
+20. [End-to-End Declarative Data Analytics: Co-designing Engines, Interfaces, and Cloud Infrastructure](https://www.vldb.org/cidrdb/papers/2026/p15-li.pdf) [CIDR 26]
+21. [On the Vexing Difficulty of Evaluating IN Predicates](https://www.vldb.org/cidrdb/papers/2026/p3-birler.pdf) [CIDR 26]
+22. [Hash Joins Meet CXL: A Fresh Look](https://www.vldb.org/cidrdb/papers/2026/p1-huang.pdf) [CIDR 26]
 
 ## Data Dependency Search
 1. [Discovering Functional Dependencies through Hitting Set Enumeration](https://dl.acm.org/doi/pdf/10.1145/3639298) [SIGMOD 24]
@@ -463,6 +466,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf) [VLDB 24]
 3. [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://www.vldb.org/pvldb/vol18/p1962-kim.pdf) [VLDB 25]
 4. [OLTP Through the Looking Glass 16 Years Later: Communication is the New Bottleneck](https://vldb.org/cidrdb/papers/2025/p17-zhou.pdf) [CIDR 25]
+5. [Survivorship Bias in Industrial Database Workloads](https://mail.vldb.org/cidrdb/papers/2026/p22-marcus.pdf) [VLDB 25]
 
 ## Others
 
@@ -574,10 +578,12 @@ Thanks to all authors of the paper/repository I cite :D
 3. [UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search](https://www.vldb.org/pvldb/vol18/p1118-yao.pdf) [VLDB 25]
 4. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
 5. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
+6. [Fast Vector Search in PostgreSQL: A Decoupled Approach](https://www.vldb.org/cidrdb/papers/2026/p2-liu.pdf) [CIDR 26]
 
 #### Multi-Modal
 1. [Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization](https://arxiv.org/pdf/2511.19830) [arXiv 25]
 2. [Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries](https://arxiv.org/pdf/2512.09695) [ICDE 26]
+3. [KathDB: Explainable Multimodal Database Management System with Human-AI Collaboration](https://www.vldb.org/cidrdb/papers/2026/p14-xiao.pdf) [CIDR 26]
 
 #### Survey & Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]
