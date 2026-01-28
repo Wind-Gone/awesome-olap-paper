@@ -579,6 +579,7 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study](https://www.arxiv.org/pdf/2508.16263) [SIGMOD 26]
 5. [TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs](https://dl.acm.org/doi/10.1145/3722212.3724456) [SIGMOD 26]
 6. [Fast Vector Search in PostgreSQL: A Decoupled Approach](https://www.vldb.org/cidrdb/papers/2026/p2-liu.pdf) [CIDR 26]
+7. [An Experimental Evaluation of Hybrid Querying on Vectors](https://www.vldb.org/pvldb/vol19/p183-zheng.pdf) [VLDB 26]
 
 #### Multi-Modal
 1. [Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization](https://arxiv.org/pdf/2511.19830) [arXiv 25]
