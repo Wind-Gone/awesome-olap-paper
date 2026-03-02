@@ -609,6 +609,10 @@ Thanks to all authors of the paper/repository I cite :D
 ### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
 2. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.09913) [SIGMOD 25]
+3. [TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning]() [SIGDMO 26]
+4. [HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search]() [SIGMOD 26]
+5. [Beyond Vector Search: Querying With and Without Predicates]() [SIGMOD 26]
+6. [Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search]() [SIGMOD 26]
 
 ### Distributed Systems
 1. [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168) [arXiv 15]
