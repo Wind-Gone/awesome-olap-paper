@@ -121,6 +121,7 @@ Thanks to all authors of the paper/repository I cite :D
 12. [Query Aware Database Generation for Match Operators](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_18) [DASFAA 24]
 13. [Controllable Tabular Data Synthesis Using Diffusion Models](https://dl.acm.org/doi/pdf/10.1145/3639283#page=1.57) [SIGMOD 24]
 14. [A Query-Aware Enormous Database Generator For System Performance Evaluation](https://dl.acm.org/doi/pdf/10.1145/3722212.3725076) [SIGMOD 25]
+15. [ResQ: Realistic Performance-Aware Query Generation](https://arxiv.org/pdf/2602.02999) [arXiv 26]
 
 ### Privacy
 1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
@@ -362,6 +363,7 @@ Thanks to all authors of the paper/repository I cite :D
 37. [SRS: Detecting Logic Bugs of Join Implementation in DBMSs via Set Relation Synthesis](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/srs_sigmod25.pdf#page=13.79) [SIGMOD 25]
 38. [ARG: Testing Query Rewriters via Abstract Rule Guided Fuzzing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/arg_ase25.pdf) [ASE 25]
 39. [Anomaly Pattern-guided Transaction Bug Testing in Relational Databases](https://arxiv.org/pdf/2511.17377) [SIGMOD 26]
+40. [Automated Discovery of Test Oracles for Database Management Systems Using LLMs](https://arxiv.org/pdf/2510.06663) [arXiv 26]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
