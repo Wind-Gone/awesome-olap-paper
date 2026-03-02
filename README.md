@@ -121,7 +121,6 @@ Thanks to all authors of the paper/repository I cite :D
 12. [Query Aware Database Generation for Match Operators](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_18) [DASFAA 24]
 13. [Controllable Tabular Data Synthesis Using Diffusion Models](https://dl.acm.org/doi/pdf/10.1145/3639283#page=1.57) [SIGMOD 24]
 14. [A Query-Aware Enormous Database Generator For System Performance Evaluation](https://dl.acm.org/doi/pdf/10.1145/3722212.3725076) [SIGMOD 25]
-15. [ResQ: Realistic Performance-Aware Query Generation](https://arxiv.org/pdf/2602.02999) [arXiv 26]
 
 ### Privacy
 1. [PrivSyn: Differentially Private Data Synthesis](https://www.usenix.org/system/files/sec21-zhang-zhikun.pdf) [ATC 21]
@@ -558,6 +557,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [PBench: Workload Synthesizer with Real Statistics for Cloud Analytics Benchmarking](https://www.arxiv.org/abs/2506.16379) [VLDB 25]
 3. [CloudyBench: A Testbed for A Comprehensive Evaluation of Cloud-Native Databases](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/ICDE25-CloudyBench.pdf) [ICDE 25]
 4. [Redbench: Workload Synthesis From Cloud Traces](https://arxiv.org/pdf/2511.13059) [VLDB 26]
+5. [ResQ: Realistic Performance-Aware Query Generation](https://arxiv.org/pdf/2602.02999) [arXiv 26]
 
 #### Others 
 1. [M2Bench: A Database Benchmark for Multi-Model Analytic Workloads](https://www.vldb.org/pvldb/vol16/p747-moon.pdf) [VLDB 23]
