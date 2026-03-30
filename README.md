@@ -94,7 +94,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Others](#others-2)
     - [Time Series](#time-series)
     - [Multi-Model](#multi-model)
-      - [Multi-Modal](#multi-modal)
+    - [Multi-Modal](#multi-modal)
       - [Survey \& Benchmark](#survey--benchmark)
     - [Vector Database](#vector-database)
       - [Survey](#survey-8)
@@ -152,6 +152,7 @@ Thanks to all authors of the paper/repository I cite :D
 9.  [Efficient Enumeration of Recursive Plans in Transformation-based Query Optimizers](https://www.vldb.org/pvldb/vol17/p3095-geneves.pdf) [VLDB 24]
 11. [Presto's History-based Query Optimizer](https://www.vldb.org/pvldb/vol17/p4077-shankhdhar.pdf) [VLDB 24]
 12. [RankPQO: Learning-to-Rank for Parametric Query Optimization](https://www.vldb.org/pvldb/vol18/p863-mo.pdf) [VLDB 25]
+13. [Unleashing Data Dependency-based Query Optimization](https://openproceedings.org/2026/conf/edbt/paper-138.pdf) [EDBT 26]
 
 ### Robust Query Optimization
 1. [Robust query processing through progressive optimization](https://dl.acm.org/doi/abs/10.1145/1007568.1007642) [SIGMOD 04]
@@ -363,6 +364,7 @@ Thanks to all authors of the paper/repository I cite :D
 38. [ARG: Testing Query Rewriters via Abstract Rule Guided Fuzzing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/arg_ase25.pdf) [ASE 25]
 39. [Anomaly Pattern-guided Transaction Bug Testing in Relational Databases](https://arxiv.org/pdf/2511.17377) [SIGMOD 26]
 40. [Automated Discovery of Test Oracles for Database Management Systems Using LLMs](https://arxiv.org/pdf/2510.06663) [arXiv 26]
+41. [Understanding Query Optimization Bugs in Graph Database Systems](https://dl.acm.org/doi/pdf/10.1145/3779212.3790244) [ASPLOS 26]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
@@ -443,6 +445,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322#page=2.12) [SIGMOD 24]
 6. [Rapid Data Ingestion through DB-OS Co-design](https://dl.acm.org/doi/pdf/10.1145/3709718) [SIGMOD 25]
 7. [Practical DB-OS Co-Design with Privileged Kernel Bypass](https://dl.acm.org/doi/pdf/10.1145/3709714) [SIGMOD 25]
+8. [Understanding and Optimizing Database Pushdown on Disaggregated Storage](https://dl.acm.org/doi/pdf/10.1145/3779212.3790243) [ASPLOS 26]
 
 ### Cloud
 #### Survey
@@ -583,10 +586,11 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Fast Vector Search in PostgreSQL: A Decoupled Approach](https://www.vldb.org/cidrdb/papers/2026/p2-liu.pdf) [CIDR 26]
 7. [An Experimental Evaluation of Hybrid Querying on Vectors](https://www.vldb.org/pvldb/vol19/p183-zheng.pdf) [VLDB 26]
 
-#### Multi-Modal
+### Multi-Modal
 1. [Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization](https://arxiv.org/pdf/2511.19830) [arXiv 25]
 2. [Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries](https://arxiv.org/pdf/2512.09695) [ICDE 26]
 3. [KathDB: Explainable Multimodal Database Management System with Human-AI Collaboration](https://www.vldb.org/cidrdb/papers/2026/p14-xiao.pdf) [CIDR 26]
+4. [Graph-centric Cross-model Data Integration and Analytics in a Unified Multi-model Database](https://arxiv.org/pdf/2603.01598) [arXiv 26]
 
 #### Survey & Benchmark
 1. [Multi-model Databases: A New Journey to Handle the Variety of Data](https://www.cs.helsinki.fi/u/jilu/documents/Multi_model_Databases__A__New_Journey_to_Handle_the_Variety_of_DataFinal.pdf) [CSUR 19]

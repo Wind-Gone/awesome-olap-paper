@@ -1,6 +1,7 @@
 [submodule "Ai4DB-Paper"]
-	path = Ai4DB-Paper
-	url = git@github.com:Wind-Gone/Ai4DB-Paper.git
+    path = Ai4DB-Paper
+    url = https://github.com/Wind-Gone/Ai4DB-Paper.git
+
 [submodule "DBGiant-Industry-Paper"]
-	path = DBGiant-Industry-Paper
-	url = git@github.com:Wind-Gone/DBGiant-Industry-Paper.git
+    path = DBGiant-Industry-Paper
+    url = https://github.com/Wind-Gone/DBGiant-Industry-Paper.git
