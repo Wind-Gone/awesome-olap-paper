@@ -214,6 +214,7 @@ Thanks to all authors of the paper/repository I cite :D
 8.  [Cardinality Estimation for Having-Clauses](https://www.vldb.org/pvldb/vol18/p28-moerkotte.pdf) [VLDB 25]
 9.  [Faper: Join Tree with Uncertainty Awareness for Faster, More Precise and Robust Cardinality Estimation](https://link.springer.com/chapter/10.1007/978-981-96-8170-9_33) [PAKDD 25]
 10. [Downsizing Diffusion Models for Cardinality Estimation](https://arxiv.org/pdf/2510.20681) [arXiv 25]
+11. [Sample-based Distinct Cardinality Estimation for Multiple Attributes in Multi-Dataset Queries](https://www.vldb.org/pvldb/vol19/p1115-mahin.pdf) [VLDB 26]
 
 #### Survey
 1. [Synopses for Massive Data: Samples, Histograms, Wavelets, Sketches](https://dsf.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) [A detailed book published in 2012]
@@ -312,6 +313,7 @@ Thanks to all authors of the paper/repository I cite :D
 20. [End-to-End Declarative Data Analytics: Co-designing Engines, Interfaces, and Cloud Infrastructure](https://www.vldb.org/cidrdb/papers/2026/p15-li.pdf) [CIDR 26]
 21. [On the Vexing Difficulty of Evaluating IN Predicates](https://www.vldb.org/cidrdb/papers/2026/p3-birler.pdf) [CIDR 26]
 22. [Hash Joins Meet CXL: A Fresh Look](https://www.vldb.org/cidrdb/papers/2026/p1-huang.pdf) [CIDR 26]
+23. [Robust Predicate Transfer with Dynamic Execution](https://www.vldb.org/pvldb/vol19/p1278-qiao.pdf) [VLDB 26]
 
 ## Data Dependency Search
 1. [Discovering Functional Dependencies through Hitting Set Enumeration](https://dl.acm.org/doi/pdf/10.1145/3639298) [SIGMOD 24]
@@ -365,6 +367,7 @@ Thanks to all authors of the paper/repository I cite :D
 39. [Anomaly Pattern-guided Transaction Bug Testing in Relational Databases](https://arxiv.org/pdf/2511.17377) [SIGMOD 26]
 40. [Automated Discovery of Test Oracles for Database Management Systems Using LLMs](https://arxiv.org/pdf/2510.06663) [arXiv 26]
 41. [Understanding Query Optimization Bugs in Graph Database Systems](https://dl.acm.org/doi/pdf/10.1145/3779212.3790244) [ASPLOS 26]
+42. [BugForge: Constructing and Utilizing DBMS Bug Repository to Enhance DBMS Testing](https://arxiv.org/pdf/2604.03024) [arXiv 26]
 
 #### Crash Bug
 1. [Sequence-Oriented DBMS Fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184875) [ICDE 23]
@@ -531,6 +534,8 @@ Thanks to all authors of the paper/repository I cite :D
 9. [PUSHtap: PIM-based In-Memory HTAP with Unified Data Storage Format](https://people.iiis.tsinghua.edu.cn/~huanchen/publications/pushtap-asplos25.pdf) [ASPLOS 25]
 10. [Counting Is All You Need for Instant Tuple Discovery: Enabling Real-Time HTAP in Standalone DBMSs](https://dl.acm.org/doi/pdf/10.1145/3769775) [SIGMOD 26]
 11. [AQD: Online Adaptive Query Dispatcher for HTAP Databases]() [VLDB 26]
+12. [Breaking the Isolation-Freshness Trade-off: Joint Adaptive Storage Optimization for HTAP Systems](https://www.vldb.org/pvldb/vol19/p1142-ding.pdf) [VLDB 26]
+13. [A Single-Index Store for Hybrid Transactional and Analytical Processing on Modern Computational Storage Drives](https://dl.acm.org/doi/pdf/10.1145/3806230) [SIGMOD 26]
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
