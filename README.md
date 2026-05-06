@@ -604,9 +604,13 @@ Thanks to all authors of the paper/repository I cite :D
 3. [MMSBench-Net: Scenario-Based Evaluation of Multi-Model Database Systems](https://gvdb23.informatik.uni-stuttgart.de/wp-content/uploads/2023/06/GvDB2023_Lengweiler.pdf) [23]
 4. [MMDBench: A Benchmark for Hybrid Query in Multimodal Database](https://bluejoe2008.github.io/pub/MMDBench__A_Benchmark_for_Hybrid_Query_in_Multimodal_Database.pdf) [24]
 5. [𝑺𝒕𝒆𝒊𝒏𝒆𝒓-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes](https://www.vldb.org/pvldb/vol17/p4668-wang.pdf) [VLDB 24]
-6. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
-7. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
-8. [SemBench: A Benchmark for Semantic Query Processing Engines](https://arxiv.org/pdf/2511.01716) [arXiv 25]
+6. [ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data](https://arxiv.org/pdf/2403.04871) [arXiv 24]
+7. [Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search](https://dl.acm.org/doi/pdf/10.1145/3711896.3737383) [KDD 25]
+8. [Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data](https://arxiv.org/pdf/2505.06501) [arXiv 25]
+9.  [SemBench: A Benchmark for Semantic Query Processing Engines](https://arxiv.org/pdf/2511.01716) [arXiv 25]
+10. [Filtered Approximate Nearest Neighbor Search Cost Estimation](https://arxiv.org/pdf/2602.06721) [arXiv 25]
+11. [Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors](https://arxiv.org/pdf/2507.21989) [arXiv 25]
+12. [Filtered Approximate Nearest Neighbor Search in Vector Databases: System Design and Performance Analysis](https://arxiv.org/pdf/2602.11443) [arXiv 26]
 
 ### Vector Database
 #### Survey
