@@ -381,6 +381,7 @@ Thanks to all authors of the paper/repository I cite :D
 2.  [CERT: Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation](https://arxiv.org/pdf/2306.00355) [ICSE 24]
 3.  [PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf) [ICSE 25]
 4.  [Hulk: Exploring Data-Sensitive Performance Anomalies in DBMSs via Data-Driven Analysis](https://dl.acm.org/doi/pdf/10.1145/3728973) [ISSTA 25]
+5.  [Finding Missed Optimizations in DBMSs through Unbalanced Short-Circuit Query Construction](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/SCor_ready.pdf) [SIGMOD 26]
 
 ### Survey
 1. [A Comprehensive Survey on Database Management System Fuzzing: Techniques, Taxonomy and Experimental Comparison](https://arxiv.org/pdf/2311.06728) [arXiv 23]
