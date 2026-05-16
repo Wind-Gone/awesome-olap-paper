@@ -223,7 +223,8 @@ Thanks to all authors of the paper/repository I cite :D
 4. [The Accuracy of Cardinality Estimators: Unraveling the Evaluation Result Conundrum](https://www.vldb.org/pvldb/vol18/p3744-rashedi.pdf) [VLDB 25]
 
 #### Special Case
-12. [Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes](https://dl.acm.org/doi/pdf/10.1145/3626755) [SIGMOD 24]
+1. [Selectivity Estimation for Queries Containing Predicates over Set-Valued Attributes](https://dl.acm.org/doi/pdf/10.1145/3626755) [SIGMOD 24]
+2. [Bridging the Gap: Cardinality Estimation for Semantic Queries on Unstructured Data](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/SIGMOD26-SemanticCE.pdf) [SIGMOD 26]
 
 ### Join Order
 1. [Optimal Top-Down Join Enumeration](https://15799.courses.cs.cmu.edu/spring2025/papers/08-joins2/dehaan-sigmod2007.pdf) [SIGMOD 07]
@@ -249,10 +250,11 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Free Join: Unifying Worst-Cast Optimal and Traditional Joins](https://arxiv.org/pdf/2301.10841.pdf) [arXiv 23]
 8. [Reservoir Sampling over Joins](https://arxiv.org/pdf/2404.03194.pdf#page=1.48) [SIGMOD 24]
 9. [Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [CIDR 24]
-10. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
-11. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores](https://dl.acm.org/doi/pdf/10.1145/3725307) [SIGMOD 25]
-12. [SwiftSpatial: Spatial Joins on Modern Hardware](https://dl.acm.org/doi/pdf/10.1145/3725361) [SIGMOD 25]
-13. [Accelerate Distributed Joins with Predicate Transfer](https://dl.acm.org/doi/pdf/10.1145/3725259) [SIGMOD 25]
+10. [Robust Join Processing with Diamond Hardened Joins](https://www.vldb.org/pvldb/vol17/p3215-birler.pdf) [VLDB 24]
+11. [Efficiently Processing Joins and Grouped Aggregations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3709689) [SIGMOD 25]
+12. [HoneyComb: A Parallel Worst-Case Optimal Join on Multicores](https://dl.acm.org/doi/pdf/10.1145/3725307) [SIGMOD 25]
+13. [SwiftSpatial: Spatial Joins on Modern Hardware](https://dl.acm.org/doi/pdf/10.1145/3725361) [SIGMOD 25]
+14. [Accelerate Distributed Joins with Predicate Transfer](https://dl.acm.org/doi/pdf/10.1145/3725259) [SIGMOD 25]
 
 ### Sub-Query
 1. [Unnesting Arbitrary Queries](https://btw-2015.informatik.uni-hamburg.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf) [15]
