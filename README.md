@@ -634,8 +634,8 @@ Thanks to all authors of the paper/repository I cite :D
 5. [HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3749167) [SIGMOD 26]
 6. [Beyond Vector Search: Querying With and Without Predicates](https://dl.acm.org/doi/pdf/10.1145/3769765) [SIGMOD 26]
 7. [Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.1145/3769783) [SIGMOD 26]
-8. [Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap](https://xiejiadong.github.io/) [KDD 26]
-9. [To GPU or Not to GPU: Vector Search in Relational Engines]() [VLDB 26]
+8. [Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap](https://arxiv.org/pdf/2605.26474) [KDD 26]
+9. [To GPU or Not to GPU: Vector Search in Relational Engines](https://arxiv.org/pdf/2605.15957) [arXiv 26]
 
 ### Distributed Systems
 1. [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168) [arXiv 15]
