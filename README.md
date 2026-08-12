@@ -98,7 +98,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Survey \& Benchmark](#survey--benchmark)
     - [Vector Database](#vector-database)
       - [Survey](#survey-8)
-    - [Algorithm](#algorithm)
+      - [Algorithm](#algorithm)
     - [Distributed Systems](#distributed-systems)
     - [OLTP](#oltp-1)
       - [Survey](#survey-9)
@@ -620,16 +620,20 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL](https://www.cs.purdue.edu/homes/csjgwang/pubs/ICDE24_VecDB.pdf) [ICDE 24]
 2. [Survey of Vector Database Management Systems](https://arxiv.org/pdf/2310.14021#page=3.39) [VLDBJ 24]
 3. [Vector Database Management Techniques and Systems](https://dl.acm.org/doi/pdf/10.1145/3626246.3654691) [SIGMOD 24]
-4. [BigVectorBench: Heterogeneous Data Embedding and Compound Queries are Essential in Evaluating Vector Databases](https://www.vldb.org/pvldb/vol18/p1536-zhan.pdf) [VLDB 25]
-5. [向量数据库及DB4LLM技术](https://www.jos.org.cn/jos/news/view/20250909140220001) [JOS 25]
+4. [An Experimental Evaluation of Hybrid Querying on Vectors](https://www.vldb.org/pvldb/vol19/p183-zheng.pdf) [VLDB 25]
+5. [BigVectorBench: Heterogeneous Data Embedding and Compound Queries are Essential in Evaluating Vector Databases](https://www.vldb.org/pvldb/vol18/p1536-zhan.pdf) [VLDB 25]
+6. [向量数据库及DB4LLM技术](https://www.jos.org.cn/jos/news/view/20250909140220001) [JOS 25]
+7. [Advances of Query Processing in Vector Databases](https://vdb-query-processing.github.io/static/pdfs/vector_tutorial_vldb2026.pdf) [VLDB 26 Tutorial]
 
-### Algorithm
+#### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
 2. [Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2409.09913) [SIGMOD 25]
-3. [TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning]() [SIGDMO 26]
-4. [HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search]() [SIGMOD 26]
-5. [Beyond Vector Search: Querying With and Without Predicates]() [SIGMOD 26]
-6. [Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search]() [SIGMOD 26]
+3. [Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search](https://www.vldb.org/pvldb/vol18/p1825-liu.pdf) [VLDB 26]
+4. [TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning](https://dl.acm.org/doi/10.1145/3769838) [SIGDMO 26]
+5. [HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3749167) [SIGMOD 26]
+6. [Beyond Vector Search: Querying With and Without Predicates](https://dl.acm.org/doi/pdf/10.1145/3769765) [SIGMOD 26]
+7. [Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.1145/3769783) [SIGMOD 26]
+8. [Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap](https://xiejiadong.github.io/) [KDD 26]
 
 ### Distributed Systems
 1. [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168) [arXiv 15]
