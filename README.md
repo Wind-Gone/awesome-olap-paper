@@ -624,6 +624,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [BigVectorBench: Heterogeneous Data Embedding and Compound Queries are Essential in Evaluating Vector Databases](https://www.vldb.org/pvldb/vol18/p1536-zhan.pdf) [VLDB 25]
 6. [向量数据库及DB4LLM技术](https://www.jos.org.cn/jos/news/view/20250909140220001) [JOS 25]
 7. [Advances of Query Processing in Vector Databases](https://vdb-query-processing.github.io/static/pdfs/vector_tutorial_vldb2026.pdf) [VLDB 26 Tutorial]
+8. [A Survey on Query Processing in Vector Databases](https://xiejiadong.github.io/files/paper/vector_survey.pdf) [arXiv 26]
 
 #### Algorithm
 1. [FlowWalker: A Memory-efficient and High-performance GPU-based Dynamic Graph Random Walk Framework](https://www.vldb.org/pvldb/vol17/p1788-mei.pdf) [VLDB 24]
@@ -634,6 +635,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Beyond Vector Search: Querying With and Without Predicates](https://dl.acm.org/doi/pdf/10.1145/3769765) [SIGMOD 26]
 7. [Dynamically Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.1145/3769783) [SIGMOD 26]
 8. [Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap](https://xiejiadong.github.io/) [KDD 26]
+9. [To GPU or Not to GPU: Vector Search in Relational Engines]() [VLDB 26]
 
 ### Distributed Systems
 1. [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168) [arXiv 15]
