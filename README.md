@@ -48,6 +48,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [View](#view)
     - [Survey](#survey-2)
     - [Index](#index)
+  - [LLM Infra](#llm-infra)
   - [Query Execution](#query-execution)
   - [Data Dependency Search](#data-dependency-search)
   - [Query Compilation](#query-compilation)
@@ -291,6 +292,10 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Column Sketches: A Scan Accelerator for Rapid and Robust Predicate Evaluation](https://15721.courses.cs.cmu.edu/spring2023/papers/04-olapindexes/hentschel-sigmod18.pdf) [SIGMOD 18]
 4. [CUBIT: Concurrent Updatable Bitmap Indexing](https://www.vldb.org/pvldb/vol18/p399-athanassoulis.pdf) [VLDB 25]
 5. [B-Trees Are Back: Engineering Fast and Pageable Node Layouts](https://dl.acm.org/doi/pdf/10.1145/3709664) [SIGMOD 25]
+
+## LLM Infra
+1. [StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully Disaggregated RL Post-Training]() [SIGMOD 27]
+
 
 ## Query Execution
 1. [MonetDB/X100: Hyper-Pipelining Query Execution](https://www.cidrdb.org/cidr2005/papers/P19.pdf) [CIDR 05] 
@@ -539,6 +544,7 @@ Thanks to all authors of the paper/repository I cite :D
 11. [AQD: Online Adaptive Query Dispatcher for HTAP Databases]() [VLDB 26]
 12. [Breaking the Isolation-Freshness Trade-off: Joint Adaptive Storage Optimization for HTAP Systems](https://www.vldb.org/pvldb/vol19/p1142-ding.pdf) [VLDB 26]
 13. [A Single-Index Store for Hybrid Transactional and Analytical Processing on Modern Computational Storage Drives](https://dl.acm.org/doi/pdf/10.1145/3806230) [SIGMOD 26]
+14. [HeraDB: Towards Real-time Analysis of Transaction-Centric HTAP with CPU-GPU Hybrid Query Execution]() [SIGMOD 27]
 
 ### Result Replay
 1. [DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay](https://dl.acm.org/doi/pdf/10.1145/3639322) [SIGMOD 24]
